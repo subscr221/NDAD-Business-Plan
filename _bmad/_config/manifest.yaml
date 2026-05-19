@@ -1,0 +1,52 @@
+installation:
+  version: 6.6.0
+  installDate: 2026-05-15T11:14:01.452Z
+  lastUpdated: 2026-05-15T11:14:01.452Z
+modules:
+  - name: core
+    version: 6.6.0
+    installDate: 2026-05-15T11:13:55.269Z
+    lastUpdated: 2026-05-15T11:14:00.263Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: bmm
+    version: 6.6.0
+    installDate: 2026-05-15T11:13:55.259Z
+    lastUpdated: 2026-05-15T11:14:00.264Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: cis
+    version: v0.2.0
+    installDate: 2026-05-15T11:13:56.551Z
+    lastUpdated: 2026-05-15T11:14:01.284Z
+    source: external
+    npmPackage: bmad-creative-intelligence-suite
+    repoUrl: https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite
+    channel: stable
+    sha: 14a63b893c07173b7a6cfe0fb6a9a72ba51d3cf1
+  - name: baut
+    version: v1.14.2
+    installDate: 2026-05-15T11:13:56.801Z
+    lastUpdated: 2026-05-15T11:14:01.334Z
+    source: external
+    npmPackage: bmad-story-automator
+    repoUrl: https://github.com/bmad-code-org/bmad-automator
+    channel: stable
+    sha: 593f338532ea730b5c1a2dd86681e87b5b4f04dd
+  - name: wds
+    version: v0.1.0
+    installDate: 2026-05-15T11:13:56.892Z
+    lastUpdated: 2026-05-15T11:14:01.452Z
+    source: community
+    npmPackage: bmad-method-wds-expansion
+    repoUrl: https://github.com/bmad-code-org/bmad-method-wds-expansion
+    channel: stable
+    sha: 35500f44eb445fe7ffd12292c58108a81e19e65e
+    registryApprovedTag: v0.1.0
+ides:
+  - claude-code
+  - codex
+  - cursor
+  - auggie
