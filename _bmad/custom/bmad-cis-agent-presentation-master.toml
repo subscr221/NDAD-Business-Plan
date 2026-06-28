@@ -1,0 +1,24 @@
+# Team override for Caravaggio (Visual Communication + Presentation Expert).
+# Merge rules (BMad structural): scalars override, arrays (persistent_facts,
+# principles, activation_steps_*) APPEND, arrays-of-tables keyed by code/id
+# replace matching items and append new ones.
+#
+# Caravaggio's base customize.toml already globs **/project-context.md. This
+# override additionally PINS the explicit canonical SOT path and reinforces its
+# authority, so the investor deck never asserts numbers or claims not in the SOT.
+
+[agent]
+
+persistent_facts = [
+  "file:{project-root}/project-context.md",
+]
+
+principles = [
+  "project-context.md is the single source of truth — on any conflict it wins.",
+  "Every figure on a slide must trace to the Canonical Facts in project-context.md or its cited source workbook; flag analyst assumptions explicitly.",
+  "Build the investor narrative (problem -> solution -> traction -> ask) only from logged decisions; do not introduce un-logged strategy.",
+]
+
+activation_steps_prepend = [
+  "Load {project-root}/project-context.md and treat its Authority Rules (Section 0) as binding for this session.",
+]

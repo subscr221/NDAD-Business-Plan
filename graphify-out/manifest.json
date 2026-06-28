@@ -1,0 +1,322 @@
+{
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\scripts\\resolve_config.py": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "04a854f450041466b6f2ea5cfb4f31a0",
+    "semantic_hash": "04a854f450041466b6f2ea5cfb4f31a0"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\scripts\\resolve_customization.py": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "7b25d6e5ced479ac4801779c59b2b6a3",
+    "semantic_hash": "7b25d6e5ced479ac4801779c59b2b6a3"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\validate_model.py": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "a007431a7d5d249ff08b8a06d8996346",
+    "semantic_hash": "a007431a7d5d249ff08b8a06d8996346"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\Defense_Platform_Workbook_Explanation.md": {
+    "mtime": 1782623354.8973036,
+    "ast_hash": "f335512122b30c89df76d6466e7d9af7",
+    "semantic_hash": "f335512122b30c89df76d6466e7d9af7"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\_config\\manifest.yaml": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "6617b01b5370eb1488cd38af69e80a30",
+    "semantic_hash": "6617b01b5370eb1488cd38af69e80a30"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\baut\\config.yaml": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "dd2d11f5fbfb97aaec7f6af4d53e4cce",
+    "semantic_hash": "dd2d11f5fbfb97aaec7f6af4d53e4cce"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\bmm\\config.yaml": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "5c2db4f07da1e05f628be8a3c672bd1e",
+    "semantic_hash": "5c2db4f07da1e05f628be8a3c672bd1e"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\cis\\config.yaml": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "f49789d5b45dff38a88437de3f16c3fb",
+    "semantic_hash": "f49789d5b45dff38a88437de3f16c3fb"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\core\\config.yaml": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "f050bce6053cf6f2f60b95c59928ef0a",
+    "semantic_hash": "f050bce6053cf6f2f60b95c59928ef0a"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\_bmad\\wds\\config.yaml": {
+    "mtime": 1782623354.9251544,
+    "ast_hash": "a9b24783efa75539c91f2a1a8f74ebda",
+    "semantic_hash": "a9b24783efa75539c91f2a1a8f74ebda"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\Defense_Platform_Business_Plan_Financial_V2_d91aafe8.md": {
+    "mtime": 1782624844.9619925,
+    "ast_hash": "1c586a21a815255fa744db9acbb55461",
+    "semantic_hash": "1c586a21a815255fa744db9acbb55461"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\Defense_Platform_Workbook_Explanation_8aecfb1a.md": {
+    "mtime": 1782624845.429823,
+    "ast_hash": "44bf6ebdca77536e31e9692400bad5fc",
+    "semantic_hash": "44bf6ebdca77536e31e9692400bad5fc"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\Nitrodynamics_Business_Plan_V1_548042dd.md": {
+    "mtime": 1782624845.6931324,
+    "ast_hash": "2a23d82bf754cc388733eaf7a37faeaa",
+    "semantic_hash": "2a23d82bf754cc388733eaf7a37faeaa"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\Nitrodynamics_Business_Plan_V2_b39047d0.md": {
+    "mtime": 1782624845.9564412,
+    "ast_hash": "2c6c8d7fa459734e50a72afc673c6eff",
+    "semantic_hash": "2c6c8d7fa459734e50a72afc673c6eff"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\Nitrodynamics_Business_Plan_V3_tracked_fb0fc311.md": {
+    "mtime": 1782624847.5780725,
+    "ast_hash": "191bd61ab814e5f1fdfdb62f97b29a36",
+    "semantic_hash": "191bd61ab814e5f1fdfdb62f97b29a36"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\Nitrodynamics_Business_Plan_V4_final_cf3bc159.md": {
+    "mtime": 1782624847.8273232,
+    "ast_hash": "1682e23aa538e7349857294cc8d07934",
+    "semantic_hash": "1682e23aa538e7349857294cc8d07934"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\graphify-out\\converted\\merged_d015d8a0.md": {
+    "mtime": 1782624848.0817807,
+    "ast_hash": "d6eb2996cab9de42ecd90d66bd994196",
+    "semantic_hash": "d6eb2996cab9de42ecd90d66bd994196"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\00_cover_and_onepager.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "204594e6377d4e40a76599a8fbfcb94f",
+    "semantic_hash": "204594e6377d4e40a76599a8fbfcb94f"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\01_executive_summary.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "b63859341178a32ad3444f34386bd170",
+    "semantic_hash": "b63859341178a32ad3444f34386bd170"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\02_market_opportunity.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "872e58fa5799338052abeb0c7f5a5252",
+    "semantic_hash": "872e58fa5799338052abeb0c7f5a5252"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\03_strategy_and_products.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "12417e9976522fc3dc474a6f62b3f23b",
+    "semantic_hash": "12417e9976522fc3dc474a6f62b3f23b"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\04_financial_model.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "735e1c7b24573c0bdd19ac43dd797316",
+    "semantic_hash": "735e1c7b24573c0bdd19ac43dd797316"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\05_funding_and_capital.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "101a5e31d58722f58db54f4dffa53f1a",
+    "semantic_hash": "101a5e31d58722f58db54f4dffa53f1a"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\06_returns_and_sensitivity.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "15ae1c4e7f7350e3581df56b9d7f94dd",
+    "semantic_hash": "15ae1c4e7f7350e3581df56b9d7f94dd"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\07_operating_model.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "50fc8e1af8aa5b3f40eb7e5f3ccc00e5",
+    "semantic_hash": "50fc8e1af8aa5b3f40eb7e5f3ccc00e5"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\08_risk_register.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "5283d707cf5b8711faa0fe7b30154eb1",
+    "semantic_hash": "5283d707cf5b8711faa0fe7b30154eb1"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\09_governance_compliance_ip.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "0e1cd4e04912796b70727276fdf08ec5",
+    "semantic_hash": "0e1cd4e04912796b70727276fdf08ec5"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\10_kpis_and_appendix.md": {
+    "mtime": 1782623354.92922,
+    "ast_hash": "fdc892935c7806a74bb376b678dd03e0",
+    "semantic_hash": "fdc892935c7806a74bb376b678dd03e0"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\Nitrodynamics_Investor_Plan.md": {
+    "mtime": 1782623355.0088336,
+    "ast_hash": "153f3b31ab37e7ad054089cd3e794ec4",
+    "semantic_hash": "153f3b31ab37e7ad054089cd3e794ec4"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\summaries\\Diligence_Audit_Checklist.md": {
+    "mtime": 1782623355.042418,
+    "ast_hash": "5b04d1d345411695e2cdf4b09ecacd85",
+    "semantic_hash": "5b04d1d345411695e2cdf4b09ecacd85"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\summaries\\IC_Summary_OnePager.md": {
+    "mtime": 1782623355.042418,
+    "ast_hash": "f87fb60fedf099f54cf8e1c357f7b6cb",
+    "semantic_hash": "f87fb60fedf099f54cf8e1c357f7b6cb"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\summaries\\Stress_Test_Appendix.md": {
+    "mtime": 1782623355.042418,
+    "ast_hash": "72c00b84b8ad0466ecb56830265db944",
+    "semantic_hash": "72c00b84b8ad0466ecb56830265db944"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\Design Folders\\01_Main File\\01_Help\\01_Help File.pdf": {
+    "mtime": 1782623354.8973036,
+    "ast_hash": "47ea7fca70e414dceb8417294697fc7b",
+    "semantic_hash": "47ea7fca70e414dceb8417294697fc7b"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\Nitrodynamics_Business_Plan_V2.pdf": {
+    "mtime": 1782623354.9769833,
+    "ast_hash": "92de669f7da10ea9df8bb8ff7fbd2e05",
+    "semantic_hash": "92de669f7da10ea9df8bb8ff7fbd2e05"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\Design Folders\\NDAD_Logo1.jpg": {
+    "mtime": 1782623354.9133475,
+    "ast_hash": "dbacc3a1ca9833f3513770302b722407",
+    "semantic_hash": "dbacc3a1ca9833f3513770302b722407"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\01_platform_flywheel.png": {
+    "mtime": 1782623355.0088336,
+    "ast_hash": "6fec2cb9efcdd1453b3627c4f711992d",
+    "semantic_hash": "6fec2cb9efcdd1453b3627c4f711992d"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\02_roadmap_gantt.png": {
+    "mtime": 1782623355.0088336,
+    "ast_hash": "332ec0297128139f210ec8503deee8ca",
+    "semantic_hash": "332ec0297128139f210ec8503deee8ca"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\03_revenue_build.png": {
+    "mtime": 1782623355.0088336,
+    "ast_hash": "37efc28567c1019491efd20ece20c447",
+    "semantic_hash": "37efc28567c1019491efd20ece20c447"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\04_competitive_scorecard.png": {
+    "mtime": 1782623355.0088336,
+    "ast_hash": "2abb53a7b5863ceccdb5a50046db4afc",
+    "semantic_hash": "2abb53a7b5863ceccdb5a50046db4afc"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\05_three_phase_arc.png": {
+    "mtime": 1782623355.0088336,
+    "ast_hash": "a5ee94a10fcd46329a20529f0c24d198",
+    "semantic_hash": "a5ee94a10fcd46329a20529f0c24d198"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\06_working_capital_cycle.png": {
+    "mtime": 1782623355.025308,
+    "ast_hash": "7d45984d8ab0e0e4eea55da4e8fb67af",
+    "semantic_hash": "7d45984d8ab0e0e4eea55da4e8fb67af"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\07_funding_stack.png": {
+    "mtime": 1782623355.025308,
+    "ast_hash": "9c714e1b2ac5ab295c92c763cfa59e5b",
+    "semantic_hash": "9c714e1b2ac5ab295c92c763cfa59e5b"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\08_operating_org.png": {
+    "mtime": 1782623355.025308,
+    "ast_hash": "dc9327e3ac916d4838259dc792d5ae57",
+    "semantic_hash": "dc9327e3ac916d4838259dc792d5ae57"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\09_pnl_waterfall.png": {
+    "mtime": 1782623355.025308,
+    "ast_hash": "7656757d0a65acdf0d4503a3bcd8874e",
+    "semantic_hash": "7656757d0a65acdf0d4503a3bcd8874e"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\investor_plan\\diagrams\\10_sensitivity_tornado.png": {
+    "mtime": 1782623355.0404723,
+    "ast_hash": "d9b8ff09ed2f6deae8eebf599d6cd0e4",
+    "semantic_hash": "d9b8ff09ed2f6deae8eebf599d6cd0e4"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image1.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "c51d7e47588b780ba899cd416c4afe5b",
+    "semantic_hash": "c51d7e47588b780ba899cd416c4afe5b"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image10.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "795f13e5a6ef16342e9df7357e3f5695",
+    "semantic_hash": "795f13e5a6ef16342e9df7357e3f5695"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image11.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "924d2a0e2fedde7ef74961ed0e5644e2",
+    "semantic_hash": "924d2a0e2fedde7ef74961ed0e5644e2"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image12.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "9cfed108abd2483cd3e5b2091c3767fd",
+    "semantic_hash": "9cfed108abd2483cd3e5b2091c3767fd"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image13.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "4b1c79a3c4dd9554b185e8eaba33f95d",
+    "semantic_hash": "4b1c79a3c4dd9554b185e8eaba33f95d"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image14.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "0bb8c4ddc47182f15dc074570d094eea",
+    "semantic_hash": "0bb8c4ddc47182f15dc074570d094eea"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image15.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "90677c7b107ce3605fd924d0ec1a5f81",
+    "semantic_hash": "90677c7b107ce3605fd924d0ec1a5f81"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image16.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "16cbab85e0093dd605911e91d10e5fc1",
+    "semantic_hash": "16cbab85e0093dd605911e91d10e5fc1"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image17.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "37191c9351b3c67ad9bccbb61209b3d3",
+    "semantic_hash": "37191c9351b3c67ad9bccbb61209b3d3"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image18.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "fa8ed8114dc0449e2cee9c2b9b7391df",
+    "semantic_hash": "fa8ed8114dc0449e2cee9c2b9b7391df"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image19.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "245d46e9d52fd8fb00a4920eb9552d6c",
+    "semantic_hash": "245d46e9d52fd8fb00a4920eb9552d6c"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image2.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "c5acc63572ec2c8e571c59e4bb6807ee",
+    "semantic_hash": "c5acc63572ec2c8e571c59e4bb6807ee"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image3.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "3e7e0d6b80be444534ecd4d37e8ea451",
+    "semantic_hash": "3e7e0d6b80be444534ecd4d37e8ea451"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image4.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "e7c963e60e02b414e568e0ac68337dfc",
+    "semantic_hash": "e7c963e60e02b414e568e0ac68337dfc"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image5.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "ac65bdab60b164bf7608d2ffe1c82528",
+    "semantic_hash": "ac65bdab60b164bf7608d2ffe1c82528"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image6.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "bedba8fa8fe5c6060fab45cbe273665a",
+    "semantic_hash": "bedba8fa8fe5c6060fab45cbe273665a"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image7.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "0ae151898caacf5c5a13d96b20c9529a",
+    "semantic_hash": "0ae151898caacf5c5a13d96b20c9529a"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image8.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "f24f8c349b68aa582752457ed2e9b64b",
+    "semantic_hash": "f24f8c349b68aa582752457ed2e9b64b"
+  },
+  "D:\\WINCODE\\NDAD-Business-Plan\\NDAD-Business-Plan\\unpacked\\word\\media\\image9.png": {
+    "mtime": 1782623355.0453162,
+    "ast_hash": "b05d06341c0964472934ab4ab99ba508",
+    "semantic_hash": "b05d06341c0964472934ab4ab99ba508"
+  }
+}

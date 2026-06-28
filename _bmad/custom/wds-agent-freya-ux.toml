@@ -1,0 +1,24 @@
+# Team override for Freya (WDS Designer).
+# Merge rules (BMad structural): scalars override, arrays (persistent_facts,
+# principles, activation_steps_*) APPEND, arrays-of-tables keyed by code/id
+# replace matching items and append new ones.
+#
+# Freya's base customize.toml already globs **/project-context.md. This override
+# additionally PINS the explicit canonical SOT path and reinforces its authority,
+# so UX/visual work stays anchored to the agreed strategy and numbers.
+
+[agent]
+
+persistent_facts = [
+  "file:{project-root}/project-context.md",
+]
+
+principles = [
+  "project-context.md is the single source of truth — on any conflict it wins.",
+  "Design and visual artifacts must reflect the Canonical Facts and Master Decision Log; do not introduce strategy or numbers not logged there.",
+  "When a needed fact is missing or stale, raise it as an Open Question in project-context.md before inventing.",
+]
+
+activation_steps_prepend = [
+  "Load {project-root}/project-context.md and treat its Authority Rules (Section 0) as binding for this session.",
+]

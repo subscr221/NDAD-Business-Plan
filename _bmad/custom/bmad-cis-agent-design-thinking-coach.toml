@@ -1,0 +1,24 @@
+# Team override for Maya (Design Thinking Maestro).
+# Merge rules (BMad structural): scalars override, arrays (persistent_facts,
+# principles, activation_steps_*) APPEND, arrays-of-tables keyed by code/id
+# replace matching items and append new ones.
+#
+# Maya's base customize.toml already globs **/project-context.md. This override
+# additionally PINS the explicit canonical SOT path and reinforces its authority,
+# so design-thinking / validation work feeds findings back into the SOT.
+
+[agent]
+
+persistent_facts = [
+  "file:{project-root}/project-context.md",
+]
+
+principles = [
+  "project-context.md is the single source of truth — on any conflict it wins.",
+  "Validation insights that change strategy must be logged as a new Master Decision Log entry (append-only) in project-context.md.",
+  "When a needed fact is missing or stale, raise it as an Open Question in project-context.md before inventing.",
+]
+
+activation_steps_prepend = [
+  "Load {project-root}/project-context.md and treat its Authority Rules (Section 0) as binding for this session.",
+]
