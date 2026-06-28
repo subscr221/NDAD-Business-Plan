@@ -1,23 +1,24 @@
-A New-Age Multi-Domain Defense Platform Company
+# Nitrodynamics
 
-**Investor Business Plan**
+### A New-Age Multi-Domain Defense Platform Company
 
-> \*\*Engineer once, deploy everywhere. \*\*
+**Investor Business Plan** | Confidential | Prepared 2026-05-17
 
+Engineer once, deploy everywhere. One platform, six product lines, four domains.
 
-# The Investment Case
+## The One-Page Investment Case
 
-Nitrodynamics is being built as India's first **platform-native defense prime**: a single shared engineering platform (radio, signal processing, systems engineering, embedded software, AI) industrialised into six product lines across air, land, sea and cyber. Unlike legacy primes that pay the full design bill on every programme, Nitrodynamics reuses qualified building blocks at compounding efficiency, lifting blended gross margin from 51% in Year 1 to ~67% by Year 10.
+Nitrodynamics is being built as India's **platform-native defense prime**: a single shared engineering platform (radio, signal processing, systems engineering, embedded software, AI) industrialised into six product lines across air, land, sea and cyber. Unlike legacy primes that pay the full design bill on every programme, Nitrodynamics reuses qualified building blocks at compounding efficiency, lifting blended gross margin from 51% in Year 1 to ~67% by Year 10.
 
-A part-developed Electronic Support Measures (ESM) line with an opening order book of **Rs.105 Cr** generates cash from Year 1, funding development of the remaining five lines without requiring incremental equity for every new product. The result is a defense business that ships at software-cycle cadence (12-24 months MVP) with hardware-grade durability.
+A part-developed Electronic Support Measures (ESM) line with a **Rs.105 Cr opening order book** — Phase 1 of a **firm Rs.210 Cr iDEX ESM production order** (10 systems × Rs.21 Cr, two 12-month phases; 4 milestones cleared, first-of-production-model in build) — generates cash from Year 1, funding development of the remaining five lines without requiring incremental equity for every new product. The result is a defense business that ships at software-cycle cadence (12-24 months MVP) with hardware-grade durability.
 
-## Headline 10-Year Plan
+### Headline 10-Year Plan
 
 | Metric | Value | Note |
 | - | - | - |
 | 10-yr cumulative revenue | Rs.21,200 Cr | Six product lines billed across the plan window |
 | Year-10 revenue | Rs.5,055 Cr | Mature steady-state run-rate |
-| Year-10 backlog | Rs.16,680 Cr | \>3.3x forward-revenue cover |
+| Year-10 backlog | Rs.16,680 Cr | >3.3x forward-revenue cover |
 | Year-10 EBITDA / margin | Rs.2,347 Cr / 46.4% | vs 10-15% legacy-prime norm |
 | 10-yr cumulative FCF | Rs.4,803 Cr | After tax, capex and working capital |
 | Project IRR | 31.9% | Cash-flow basis |
@@ -27,52 +28,42 @@ A part-developed Electronic Support Measures (ESM) line with an opening order bo
 | Peak debt outstanding | Rs.200 Cr | Fully repaid by Year 9 |
 | Capital efficiency | 4.6x Y10 revenue / 19.3x cumulative on equity | vs ~1.0x for legacy primes |
 
-Gross margin 51%
-
-
-### Three Forces Converging
+### Why Now (Three Forces Converging)
 
 1. **Demand inflection.** Post-2022 conflicts in Ukraine, Gaza, the Red Sea and the cross-border drone attacks have repriced EW, counter-drone, autonomy and ISR up the procurement queue worldwide. Indian border tensions on the northern and western fronts have made these capabilities priority capital outlay.
-
-2. **Indian policy underwrite.** Atmanirbhar Bharat, the Positive Indigenisation Lists, DAP 2020 and a stated **Rs.50,000 Cr defense-export target by 2028-29** create durable indigenous-supplier preference in exactly the segments Nitrodynamics addresses.
-
+2. **Indian policy underwrite.** Atmanirbhar Bharat, the Positive Indigenisation Lists, DPEPP 2020 and a stated **Rs.50,000 Cr defense-export target by 2028-29** create durable indigenous-supplier preference in exactly the segments Nitrodynamics addresses.
 3. **Platform-model validation.** Anduril (USD 1bn revenue by 2024), Shield AI (USD 2.8bn valuation 2023), Palantir defense (~USD 0.8bn run-rate), Saab Gripen and Elbit's family approach all empirically validate that platform reuse outperforms programme-by-programme economics. Nitrodynamics is the Indian execution of the same playbook with Indian-government anchor demand.
 
-## Six Product Lines, One Platform
+### Six Product Lines, One Platform
 
 | Code | Product | Domain | First Ship | Strategic Role |
 | - | - | - | - | - |
-| V2 | EW / SIGINT (ESM) | Air, land, sea | Year 1 | Day-1 cash engine, Rs.105 Cr opening backlog |
+| V2 | EW / SIGINT (ESM) | Air, land, sea | Year 1 | Day-1 cash engine, Rs.105 Cr opening order book (Phase 1 of Rs.210 Cr firm iDEX MoQ) |
 | V6 | Military AI | All four | Year 1 | Software-led, 93-94% GM, attached to every hardware sale |
 | V1 | AESA Radar (3 variants) | Air, land, sea | Year 2 | Hardware flagship, reuses ESM RF/DSP work |
 | V3 | Counter-drone (layered) | Land, air | Year 2 | Highest volumes, AI-fusion showcase |
 | V5 | Autonomous AUV / USV | Sea | Year 3 | Maritime expansion, autonomy reuse |
 | V4 | MALE Surveillance Drone | Air | Year 4 | Longest cycle, highest unit price |
 
-
 Five shared modules (M1 Radio Rs.154 Cr, M2 DSP Rs.90 Cr, M3 Systems Rs.86 Cr, M4 Embedded SW Rs.85 Cr, M5 AI/ML Rs.160 Cr; total **~Rs.575 Cr** over ten years) underpin all six lines. Module reuse strength climbs from 25-60% in Year 1 to ~99% by Year 10, taking the marginal cost of each new variant towards software and integration only. See **Diagram 1 - Platform Flywheel** and **Diagram 2 - 10-Year Roadmap Gantt**.
 
-# Use of Proceeds (Rs.1,100 Cr Total Equity)
+### Use of Proceeds (Rs.1,100 Cr Total Equity)
 
-**Seed Rs.450 Cr (Year 1).** Platform investment (M1-M5), prototyping, qualification trials, initial production line. Unlocks ESM industrialisation and Military AI launch.
-
-**Series A Rs.400 Cr (Year 2).** AESA + counter-drone + Military AI scale-up; EMI / anechoic facility; BG collateral. Unlocks Wave 2 ship.
-
-**Series B Rs.250 Cr (Year 3).** AESA, MALE drone and autonomous systems first deliveries; Make-II working capital; test-range capex. Sized as the bridge to FCF-positive in Year 4.
+- **Seed Rs.450 Cr (Year 1).** Platform investment (M1-M5), prototyping, qualification trials, initial production line. Unlocks ESM industrialisation and Military AI launch.
+- **Series A Rs.400 Cr (Year 2).** AESA + counter-drone + Military AI scale-up; EMI / anechoic facility; BG collateral. Unlocks Wave 2 ship.
+- **Series B Rs.250 Cr (Year 3).** AESA, MALE drone and autonomous systems first deliveries; Make-II working capital; test-range capex. Sized as the bridge to FCF-positive in Year 4.
 
 Each round is gated by joint milestones: **platform-maturity AND contracted backlog**, never one alone. Combined with Rs.200 Cr of staggered debt and 15% customer advances, peak cumulative cash deficit is approximately Rs.1,062 Cr in Year 3. See **Diagram 7 - Funding Stack vs Cash Curve**.
 
-## Why the Returns Compound
+### Why the Returns Compound
 
 - **Wright's-Law learning** on Bill of Materials (0.92 factor per doubling, floored at 70% of starting BoM) takes hardware unit cost down with volume.
-
 - **Platform reuse** moves engineering cost out of every successive product.
-
 - **Software mix** (Military AI at 93-94% gross margin) grows fastest in the portfolio and attaches to every hardware sale.
 
 The combined effect is a Year 10 blended GM of ~67% and EBITDA margin of ~46%, against a 10-15% legacy-prime norm. At base-case 18% WACC the cash flows deliver **31.9% project IRR and Rs.747 Cr NPV** on Rs.1,100 Cr of equity. See **Diagram 9 - P&L Waterfall** and **Diagram 10 - Sensitivity Tornado**.
 
-# Risk at a Glance
+### Risk at a Glance
 
 | Risk | Mitigation |
 | - | - |
@@ -83,8 +74,7 @@ The combined effect is a Year 10 blended GM of ~67% and EBITDA margin of ~46%, a
 | Export-control friction (ITAR / EAR) | Dual ITAR-clean / EAR99 variants from Day 1; direct-commercial-sales workflow from Year 2 |
 | Single-source RF / GaN supply | Second sources qualified by Year 3; partial in-house GaN packaging from Year 2 |
 
-
-# The Ask
+### The Ask
 
 Lead the **Seed round of Rs.450 Cr** to capitalise the platform (M1-M5) and the Day-1 ESM industrialisation. This single tranche unlocks the entire flywheel: ESM cash from Year 1, Military AI software from Year 1, AESA and counter-drone Year 2, and the Series A pricing inflection that follows.
 
@@ -92,54 +82,43 @@ Lead the **Seed round of Rs.450 Cr** to capitalise the platform (M1-M5) and the 
 
 | File | Section |
 | - | - |
-| 00\_cover\_and\_onepager.md | This page - executive case |
-| 01\_executive\_summary.md | Full executive summary |
-| 02\_market\_opportunity.md | TAM / SAM / SOM, India demand drivers, comparables |
-| 03\_strategy\_and\_products.md | Platform thesis, operating model, six product blocks, competitive positioning |
-| 04\_financial\_model.md | Revenue architecture, GM bridge, P&L, unit economics, NWC, capex, headcount |
-| 05\_funding\_and\_capital.md | Equity / debt stack, dilution maths, capital efficiency |
-| 06\_returns\_and\_sensitivity.md | IRR, NPV, terminal value, sensitivity, downside / upside, comparable multiples |
-| 07\_operating\_model.md | Org philosophy, squads, facilities, supply chain, talent |
-| 08\_risk\_register.md | 34-risk register with inherent / residual ratings |
-| 09\_governance\_compliance\_ip.md | Board, committees, MIL-STD / CMMC / ITAR, IP / GPR strategy, ESG |
-| 10\_kpis\_and\_appendix.md | KPI dashboard, reporting cadence, market refs, glossary, sensitivity cheat sheet |
-| Nitrodynamics\_Investor\_Diagrams.drawio | 10 investor-grade draw.io diagrams |
-| Nitrodynamics\_Investor\_Plan.md | Single concatenated master document |
+| 00_cover_and_onepager.md | This page - executive case |
+| 01_executive_summary.md | Full executive summary |
+| 02_market_opportunity.md | TAM / SAM / SOM, India demand drivers, comparables |
+| 03_strategy_and_products.md | Platform thesis, operating model, six product blocks, competitive positioning |
+| 04_financial_model.md | Revenue architecture, GM bridge, P&L, unit economics, NWC, capex, headcount |
+| 05_funding_and_capital.md | Equity / debt stack, dilution maths, capital efficiency |
+| 06_returns_and_sensitivity.md | IRR, NPV, terminal value, sensitivity, downside / upside, comparable multiples |
+| 07_operating_model.md | Org philosophy, squads, facilities, supply chain, talent |
+| 08_risk_register.md | 34-risk register with inherent / residual ratings |
+| 09_governance_compliance_ip.md | Board, committees, MIL-STD / CMMC / ITAR, IP / GPR strategy, ESG |
+| 10_kpis_and_appendix.md | KPI dashboard, reporting cadence, market refs, glossary, sensitivity cheat sheet |
+| Nitrodynamics_Investor_Diagrams.drawio | 10 investor-grade draw.io diagrams |
+| Nitrodynamics_Investor_Plan.md | Single concatenated master document |
 
-
-## Diagram Index (in Nitrodynamics\_Investor\_Diagrams.drawio)
+## Diagram Index (in Nitrodynamics_Investor_Diagrams.drawio)
 
 1. Platform Flywheel - M1-M5 modules compounding into V1-V6 verticals
-
 2. 10-Year Roadmap Gantt - module and product maturity by year, funding milestones overlaid
-
 3. Revenue Build by Product - stacked Y1-Y10 contribution by vertical
-
 4. Competitive Scorecard Heatmap - 12 capabilities x 7 archetypes
-
-5. Three-Phase Strategic Arc - Asset-light insurgent \> Productised scale-up \> Multi-domain prime
-
+5. Three-Phase Strategic Arc - Asset-light insurgent > Productised scale-up > Multi-domain prime
 6. Working Capital Cycle - 225-day CCC visualised, BG collateral schedule
-
 7. Funding Stack vs Cash Curve - equity / debt slabs against deployable-cash polyline
-
 8. Operating Model Org Chart - Board, CEO, five directs, platform and product squads
-
 9. P&L Waterfall (Year 10) - Revenue Rs.5,055 Cr to Net Income
-
 10. Sensitivity Tornado - eight single-variable swings on project IRR base 31.9%
+
+
+---
+
+<!-- page-break -->
 
 # Executive Summary
 
 ## A. The Opportunity in One Page
 
-Nitrodynamics is an India-headquartered multi-domain defense platform company building six product lines across air, land, sea and cyber off a single reusable engineering platform of five modules - radio and microwave, signal processing, systems engineering, embedded and mission software, and AI / machine learning.
-
-The company starts revenue on Day 1 from a part-developed Electronic Support Measures (ESM) / SIGINT line carrying an opening order book of approximately Rs.105 Cr, then sequences AESA radar, counter-drone, autonomous maritime, MALE-class surveillance drones and Military AI into a 10-year cadence in which each new product inherits an increasing share of qualified, already-paid-for engineering from the platform.
-
-The result is a defense prime that compounds gross margin from ~51% in Year 1 to ~67% in Year 10 and EBITDA margin to ~46.4%, against a global defense-prime benchmark of 10-15% EBITDA - achieved on Rs.1,100 Cr of total equity raised against ~Rs.21,200 Cr of cumulative 10-year revenue and a Rs.16,680 Cr closing backlog.
-
-The investment thesis is that platform economics, demonstrated in adjacent categories by Anduril, Shield AI, Palantir and Saab, transfer cleanly to the Indian defense market at the exact policy moment the Government of India is underwriting indigenous production through Atmanirbhar Bharat, Positive Indigenisation Lists, the DPEPP 2020 framework and a Rs.50,000 Cr 2028-29 export target.
+Nitrodynamics is an India-headquartered multi-domain defense platform company building six product lines across air, land, sea and cyber off a single reusable engineering platform of five modules - radio and microwave, signal processing, systems engineering, embedded and mission software, and AI / machine learning. The company starts revenue on Day 1 from a part-developed Electronic Support Measures (ESM) / SIGINT line carrying an opening order book of approximately Rs.105 Cr, then sequences AESA radar, counter-drone, autonomous maritime, MALE-class surveillance drones and Military AI into a 10-year cadence in which each new product inherits an increasing share of qualified, already-paid-for engineering from the platform. The result is a defense prime that compounds gross margin from ~51% in Year 1 to ~67% in Year 10 and EBITDA margin to ~46.4%, against a global defense-prime benchmark of 10-15% EBITDA - achieved on Rs.1,100 Cr of total equity raised against ~Rs.21,200 Cr of cumulative 10-year revenue and a Rs.16,680 Cr closing backlog. The investment thesis is that platform economics, demonstrated in adjacent categories by Anduril, Shield AI, Palantir and Saab, transfer cleanly to the Indian defense market at the exact policy moment the Government of India is underwriting indigenous production through Atmanirbhar Bharat, Positive Indigenisation Lists, the DPEPP 2020 framework and a Rs.50,000 Cr 2028-29 export target.
 
 ### Headline Metrics Box
 
@@ -156,14 +135,13 @@ The investment thesis is that platform economics, demonstrated in adjacent categ
 | Peak debt outstanding | Rs.200 Cr |
 | First positive EBITDA / FCF | Year 4 |
 
-
 (see Diagram 1: Platform Flywheel; Diagram 5: Three-Phase Strategic Arc)
 
 ## B. Investment Thesis
 
-1. **Platform economics inside a hardware vertical.** One engineering organisation, five reusable modules and six product lines drive the marginal design cost of each subsequent product from a 25% platform discount in Year 1 to a 99% discount by Year 10. Total counterfactual standalone design cost across the six lines, ~Rs.1,350 Cr, is offset by ~Rs.994 Cr of cost avoidance from platform reuse \[source: section 2\].
+1. **Platform economics inside a hardware vertical.** One engineering organisation, five reusable modules and six product lines drive the marginal design cost of each subsequent product from a 25% platform discount in Year 1 to a 99% discount by Year 10. Total counterfactual standalone design cost across the six lines, ~Rs.1,350 Cr, is offset by ~Rs.994 Cr of cost avoidance from platform reuse [source: section 2].
 
-2. **Day-1 cash engine de-risks build-out.** The ESM/SIGINT line is already part-developed with a Rs.105 Cr opening order book, and the software-led Military AI line ships from Year 1 at 93-94% gross margin. Both generate operating cash that funds the development of AESA, counter-drone, autonomous maritime and MALE drone without re-equitising every product.
+2. **Day-1 cash engine de-risks build-out.** The ESM/SIGINT line is already part-developed and *contracted*: a **Rs.105 Cr opening order book** (Phase 1) within a **firm Rs.210 Cr iDEX ESM production order** (10 systems × Rs.21 Cr in two 5-system phases of 12 months each; 4 milestones signed off, first-of-production-model in build) — production-order revenue, not a grant. Together with the software-led Military AI line (Year 1, 93-94% gross margin), it generates operating cash that funds the development of AESA, counter-drone, autonomous maritime and MALE drone without re-equitising every product.
 
 3. **Policy tailwind specific to India.** Atmanirbhar Bharat, the Positive Indigenisation Lists, DPEPP 2020 and the Rs.50,000 Cr 2028-29 export target jointly constitute the most aggressive indigenous-procurement regime in modern Indian defense history, concentrated in precisely the six segments the company addresses.
 
@@ -202,18 +180,22 @@ Third, the **India MoD export target of Rs.50,000 Cr by 2028-29** is a hard, dat
 | Long MoD payment cycle (180 days DSO) | 15% customer advances on indigenous-development contracts, venture-debt working-capital bridge, strict milestone billing |
 | Single-source supply chain on RF and GaN parts | Second sources qualified by Y3, partial in-house GaN packaging capability from Y2 |
 
-
 ## F. The Ask
 
 Nitrodynamics is raising Rs.1,100 Cr of equity across Seed (Rs.450 Cr, Y1), Series A (Rs.400 Cr, Y2) and Series B (Rs.250 Cr, Y3), against a 10-year plan that delivers Rs.21,200 Cr of cumulative revenue, Rs.5,055 Cr of Year-10 revenue, 46.4% Year-10 EBITDA margin and a 31.9% project IRR.
 
-The **Seed round unlocks**: platform modules M1-M5 in qualification, ESM in series production against the Rs.105 Cr opening backlog, Military AI shipping from Year 1, and AESA and counter-drone in prototype build. End-of-tranche state - first revenue, first software cash flow, platform reuse strength 25-60%.
+The **Seed round unlocks**: platform modules M1-M5 in qualification, ESM in series production against the Rs.105 Cr opening order book (Phase 1 of the firm Rs.210 Cr iDEX ESM MoQ), Military AI shipping from Year 1, and AESA and counter-drone in prototype build. End-of-tranche state - first revenue, first software cash flow, platform reuse strength 25-60%.
 
 The **Series A round unlocks**: AESA and counter-drone qualified and in first delivery, autonomous maritime in development, owned anechoic and EMI facilities online, Bank Guarantee collateral pool established. End-of-tranche state - four product lines shipping, ~Rs.203 Cr Year-2 revenue.
 
 The **Series B round unlocks**: MALE drone qualification, autonomous maritime first ship, AESA in volume, Y3 revenue ~Rs.491 Cr scaling to Y4 ~Rs.855 Cr. End-of-tranche state - all six products in or near production, EBITDA and FCF cross positive in Y4, no further equity required. From Y4 the company runs on operating cash plus modest term debt.
 
 The investor outcome is a multi-domain defense prime with Rs.5,055 Cr of Year-10 revenue, a Rs.16,680 Cr backlog (over three years forward cover), software-grade margins on a hardware footprint, and a platform moat that compounds rather than depreciates.
+
+
+---
+
+<!-- page-break -->
 
 # Market Opportunity
 
@@ -227,7 +209,7 @@ The plan does not assume Nitrodynamics captures a disproportionate share of this
 
 ## B. Segment-by-Segment TAM / SAM / SOM
 
-The six product lines map to six distinct addressable markets. The table below consolidates the widely reported industry sizing referenced in Appendix A of the source plan, layers a defensible India-share estimate, and shows the Nitrodynamics Year-10 target share. All global market figures and CAGRs are as reported by Mordor Intelligence, Markets and Markets, Janes, Teal Group and SIPRI commentary \[source: Appendix A\].
+The six product lines map to six distinct addressable markets. The table below consolidates the widely reported industry sizing referenced in Appendix A of the source plan, layers a defensible India-share estimate, and shows the Nitrodynamics Year-10 target share. All global market figures and CAGRs are as reported by Mordor Intelligence, Markets and Markets, Janes, Teal Group and SIPRI commentary [source: Appendix A].
 
 | Line | Global TAM (annual) | CAGR | India share (est.) | Nitrodynamics Y10 share (global) | Sources |
 | - | - | - | - | - | - |
@@ -238,18 +220,17 @@ The six product lines map to six distinct addressable markets. The table below c
 | V5 Unmanned maritime (AUV/USV) | USD 2.5-3.5 bn | 12-15% | ~6-9% | Low single-digit % | Mordor, Janes |
 | V6 Defense AI software | USD 8-12 bn today, ~3x by 2030 | 20%+ | Emerging | Sub-1% globally, anchor share in Indian platforms | Palantir/Anduril public reference points |
 
-
 Two structural points follow. First, the **aggregate TAM is on the order of USD 45-55 bn per year today, growing to roughly USD 80-100 bn by 2030**, even on the conservative end of the cited CAGRs. The Year-10 Nitrodynamics revenue of Rs.5,055 Cr (~USD 600M at long-run FX) represents well under 1% of this envelope - the plan does not require category dominance, only disciplined share capture in the segments where the company has structural advantages.
 
 Second, the **highest-growth segments (counter-drone at 25-30% CAGR, defense AI at 20%+ CAGR, unmanned maritime at 12-15% CAGR) are precisely those where platform reuse compounds fastest**, because each is software-led or sensor-fusion-led. The slower-growing but larger segments (EW at USD 22-25 bn growing 6-8%, AESA at USD 5-7 bn growing 7-9%) are where Nitrodynamics already has Day-1 product and where the cash engine sits. The portfolio is a barbell of mature large categories funding entry into faster-growing categories.
 
 (see Diagram 3: Revenue Build by Product)
 
-# C. India-Specific Demand Drivers
+## C. India-Specific Demand Drivers
 
 India is the unusual case of a top-five global defense buyer that has explicitly decided, as a matter of national policy, to indigenise. The policy stack and the visible procurement programmes jointly constitute the demand-side argument.
 
-## Policy stack.
+**Policy stack.**
 
 - **Atmanirbhar Bharat (Self-Reliant India).** The umbrella policy direction announced in 2020, framing indigenous defense production as a national priority and biasing MoD evaluation toward domestic suppliers in qualifying categories.
 
@@ -263,7 +244,7 @@ India is the unusual case of a top-five global defense buyer that has explicitly
 
 The aggregate signal is that **Indian demand is not speculative**. It is named, scheduled, and politically protected. The remaining commercial question is which suppliers win, not whether the market exists.
 
-# D. Comparable Companies & Validation
+## D. Comparable Companies & Validation
 
 The platform thesis is empirically validated by adjacent precedents. The source plan references the following comparables as proof points; the validation each provides is summarised below.
 
@@ -278,14 +259,13 @@ The platform thesis is empirically validated by adjacent precedents. The source 
 | **IAI (Heron-TP)** | Reference MALE / surveillance platform in active export. Validates the price points and the buyer base. |
 | **General Atomics (MQ-9 Reaper)** | The global reference comparator for V4. India's MQ-9B Sea Guardian acquisition is the demand-side counterpart. |
 
-
 Two of these comparables - Anduril and Saab - validate the platform thesis itself. The other six validate the product-line-specific demand and economics. Taken together, the playbook Nitrodynamics is executing has been independently demonstrated in adjacent markets; what is novel is its application by an Indian company at this policy moment.
 
-## E. Market Segments
+## E. Buyer Personas
 
 The addressable buyer set is heterogeneous. The portfolio is structured to serve each persona without rebuilding the underlying platform.
 
-### Indian Ministry of Defence, service-wise.
+**Indian Ministry of Defence, service-wise.**
 
 - **Indian Army.** Border EW (Samyukta, Himshakti), counter-drone for border posts and forward bases, AUVs for inland water operations, edge AI. Volume buyer for the soldier-portable CUAS-A and the vehicle-mounted CUAS-B variants. Procurement cycles are long but volumes are high and the political will to indigenise is strong.
 
@@ -297,13 +277,13 @@ The addressable buyer set is heterogeneous. The portfolio is structured to serve
 
 - **Critical-infrastructure operators.** Civil airports, refineries, power plants and ports buying CUAS-C fixed-site installations. This is the Indian analogue of the post-2019-Saudi-Aramco corporate counter-drone market and is procured outside the MoD channel, with shorter cycles.
 
- From Year 2 onward, the export channel targets friendly governments in South Asia, Southeast Asia, the Middle East and Africa. The relevant variants are ITAR-clean / EAR99-only versions of the EW, counter-drone, MALE drone and Military AI lines, supported by the Government of India's emerging FMS-equivalent channel and direct commercial sales. The Rs.50,000 Cr 2028-29 export target is the policy backdrop; specific country pipelines are built around offset partnerships and government-to-government Lines of Credit.
+**Foreign buyers (FMS-equivalent).** From Year 2 onward, the export channel targets friendly governments in South Asia, Southeast Asia, the Middle East and Africa. The relevant variants are ITAR-clean / EAR99-only versions of the EW, counter-drone, MALE drone and Military AI lines, supported by the Government of India's emerging FMS-equivalent channel and direct commercial sales. The Rs.50,000 Cr 2028-29 export target is the policy backdrop; specific country pipelines are built around offset partnerships and government-to-government Lines of Credit.
 
 The portfolio's six-product breadth is itself a hedge against customer concentration: no single service-buyer combination represents more than a fraction of Year-10 revenue.
 
-# F. Why the Mid-Tier Programme Segment Is Structurally Mispriced
+## F. Why the Mid-Tier Programme Segment Is Structurally Mispriced
 
-Nitrodynamics competes in the **mid-tier programme segment, defined as defense programmes below approximately USD 500 million in lifetime value** \[source: section 7\]. This tier is structurally mispriced for two reasons.
+Nitrodynamics competes in the **mid-tier programme segment, defined as defense programmes below approximately USD 500 million in lifetime value** [source: section 7]. This tier is structurally mispriced for two reasons.
 
 **The tier-1 primes (Lockheed Martin, RTX, Northrop Grumman, BAE Systems, Leonardo, Thales) cannot service the tier profitably.** Their overhead structures - bid and proposal teams, programme directorates, compliance organisations, indirect cost pools - are built for programmes of USD 1 bn+ lifetime value. Inside a USD 100-500 M programme, those overheads consume a disproportionate share of revenue, and the engineering reuse the tier-1s practice is fragmented across enough country variants that the marginal design cost per new programme remains high. The tier-1s win these programmes only when they have to - as offset obligations against larger contracts - and they execute them as loss leaders.
 
@@ -313,15 +293,18 @@ This leaves the mid-tier programme segment under-served by both ends of the mark
 
 The mid-tier segment is large in absolute terms. Within India's Rs.1.7 lakh Cr annual capital outlay, the share addressable by programmes below USD 500M lifetime value is the majority of programme count and a substantial share of programme value. Globally, in the segments listed in section B above, the mid-tier share of addressable programmes is well above 50% by count. This is the structural commercial opportunity the plan monetises.
 
+
+---
+
+<!-- page-break -->
+
 # Strategy, Operating Model & Product Portfolio
 
-# A. The Platform Thesis
+## A. The Platform Thesis
 
-Nitrodynamics is engineered around a single proposition: **one investment in a shared engineering platform, six product lines across four domains, with each successive product inheriting a rising share of qualified work from the platform**. The five modules - M1 Radio and Microwave, M2 Signal Processing, M3 Systems Engineering, M4 Embedded and Mission Software, and M5 AI / Machine Learning - are not abstractions. Each is a defined engineering deliverable with a measurable maturity trajectory, a budget, and a reuse-strength curve that rises from 25-60% in Year 1 to ~99% by Year 10.
+Nitrodynamics is engineered around a single proposition: **one investment in a shared engineering platform, six product lines across four domains, with each successive product inheriting a rising share of qualified work from the platform**. The five modules - M1 Radio and Microwave, M2 Signal Processing, M3 Systems Engineering, M4 Embedded and Mission Software, and M5 AI / Machine Learning - are not abstractions. Each is a defined engineering deliverable with a measurable maturity trajectory, a budget, and a reuse-strength curve that rises from 25-60% in Year 1 to ~99% by Year 10 (see Diagram 1: Platform Flywheel).
 
-![Diagram 1: Platform Flywheel](diagrams/01_platform_flywheel.png)
-
-The economic shape of the platform thesis is that the total counterfactual cost of designing the six product lines as standalone programmes is approximately Rs.1,350 Cr, against which platform reuse delivers approximately Rs.994 Cr of cost avoidance over the 10-year horizon \[source: section 2\]. The Rs.575 Cr of platform investment summarised below is the firm's true capital expenditure; everything else compounds off it.
+The economic shape of the platform thesis is that the total counterfactual cost of designing the six product lines as standalone programmes is approximately Rs.1,350 Cr, against which platform reuse delivers approximately Rs.994 Cr of cost avoidance over the 10-year horizon [source: section 2]. The Rs.575 Cr of platform investment summarised below is the firm's true capital expenditure; everything else compounds off it.
 
 | Module | What it contains | 10-year platform investment (Rs.Cr) |
 | - | - | - |
@@ -332,10 +315,9 @@ The economic shape of the platform thesis is that the total counterfactual cost 
 | M5 AI / Machine Learning | Computer vision, sensor fusion, autonomy, ML operations | ~160 |
 | **Total** |  | **~575** |
 
+The platform thesis is empirically validated in adjacent markets. Saab's Gripen E reuses the avionics core from the C/D. Elbit's Skylark and Hermes drone families share mission computers and ground stations across multiple airframe sizes. The Boeing 787 and the Airbus A350 share avionics with subsequent variants. Lockheed's F-16 has been in production for fifty years partly because of the discipline of reuse across blocks. The novelty in Nitrodynamics is not the idea but the discipline of organising the company around it from Day 1, rather than retrofitting it onto a programme-directorate structure that fights reuse [source: section 6].
 
-The platform thesis is empirically validated in adjacent markets. Saab's Gripen E reuses the avionics core from the C/D. Elbit's Skylark and Hermes drone families share mission computers and ground stations across multiple airframe sizes. The Boeing 787 and the Airbus A350 share avionics with subsequent variants. Lockheed's F-16 has been in production for fifty years partly because of the discipline of reuse across blocks. The novelty in Nitrodynamics is not the idea but the discipline of organising the company around it from Day 1, rather than retrofitting it onto a programme-directorate structure that fights reuse \[source: section 6\].
-
-# B. Operating Model
+## B. Operating Model
 
 The company operates more like a software firm shipping defense-grade hardware than a traditional defense contractor (see Diagram 8: Operating Model Org).
 
@@ -345,15 +327,15 @@ The company operates more like a software firm shipping defense-grade hardware t
 
 **Concurrent development and production.** The ESM line generates cash from Year 1, which funds development of the remaining five lines in parallel. The company is never in a position where one product must finish before the next can start. This concurrency is what enables six product lines to be in the field by Year 4.
 
-**Asset-light Years 1-2, owned facilities from Year 3.** In Phase I (Years 1-2), the company rents anechoic chambers, EMI/EMC test cells and outdoor ranges from partner labs. Y1-Y2 combined gross capex is ~Rs.103 Cr. Owned facilities (anechoic chamber, EMI/EMC cell, SMT cleanroom, GaN packaging, UAS flight-test hangar, maritime test tank) come online from Year 3 as volume justifies the investment - Y3-Y5 combined gross capex is ~Rs.348 Cr. Total 10-year gross capex is ~Rs.600 Cr \[source: section 9.6\].
+**Asset-light Years 1-2, owned facilities from Year 3.** In Phase I (Years 1-2), the company rents anechoic chambers, EMI/EMC test cells and outdoor ranges from partner labs. Y1-Y2 combined gross capex is ~Rs.103 Cr. Owned facilities (anechoic chamber, EMI/EMC cell, SMT cleanroom, GaN packaging, UAS flight-test hangar, maritime test tank) come online from Year 3 as volume justifies the investment - Y3-Y5 combined gross capex is ~Rs.348 Cr. Total 10-year gross capex is ~Rs.600 Cr [source: section 9.6].
 
 **MOSA / FACE open architecture.** Every product uses the same mission computer, command-and-control software and cybersecurity baseline. This is the formal US DoD requirement under MOSA / FACE standards. The strategic value is twofold: it is a hard customer requirement on FMS-eligible variants, and it is the architectural precondition for module reuse.
 
 **Compliance and IP posture.** AS9100 and CMMI Level 3 for quality, CMMC Level 3 for cybersecurity (adopted because it is the most demanding standard and FMS exports benefit from already meeting it), MIL-STD-810/461/704/1275 for hardware, DO-178C/254 for airborne software and hardware. Default IP posture is Government-Purpose Rights, with platform IP retained across all programmes regardless.
 
-# C. Wave Plan
+## C. Wave Plan
 
-![Diagram 2: 10-Year Roadmap Gantt](diagrams/02_roadmap_gantt.png)
+(see Diagram 2: 10-Year Roadmap Gantt)
 
 | Wave | Year | What ships |
 | - | - | - |
@@ -362,10 +344,9 @@ The company operates more like a software firm shipping defense-grade hardware t
 | Wave 3 | Year 3 | Autonomous AUV/USV (V5) begins shipping, reusing the AI/autonomy stack |
 | Wave 4 | Year 4 onward | MALE-class surveillance drone (V4) reaches initial production after clearing DO-178C/254 and type certification; all other lines continue scaling; allied-government exports become material |
 
-
 By Year 5 all six product lines are shipping concurrently. By Year 6 export contracts contribute materially to revenue and operating profit is structural rather than cyclical.
 
-# D. Six Product Lines
+## D. Six Product Lines
 
 ### V1 - AESA Radar (first ship Year 2)
 
@@ -375,32 +356,29 @@ A modern electronically scanned array radar in three variants: an X-band airborn
 
 **Why this is plausible.** Global AESA production is concentrated in a handful of primes plus the Russian and Chinese state primes. India currently imports or jointly produces almost all its AESAs. The MoD's stated direction is to replace imported radars with domestic alternatives wherever performance allows. The global market is USD 5-7 bn per year at 7-9% CAGR (Mordor Intelligence, Markets and Markets). The Year-10 Nitrodynamics share is a low single-digit percentage of the global market, anchored by Indian MoD demand for the three services and supplemented by export.
 
-### V2 - Electronic Warfare and SIGINT (first ship Year 1, opening order book Rs.105 Cr)
+### V2 - Electronic Warfare and SIGINT (first ship Year 1; Rs.105 Cr opening order book — Phase 1 of a firm Rs.210 Cr iDEX ESM MoQ)
 
 The Day-1 cash engine. Four variants:
 
 - **EW-A**, naval ESM/ELINT suite on warships: **Rs.25-30 Cr each**, 4 to 15 units a year.
-
 - **EW-B**, aerial ESM pod for aircraft and large drones: **Rs.29-35 Cr**, 1 to 20 a year.
-
 - **EW-C**, tactical anti-drone jammer (highest-volume variant): **Rs.1.7-2.0 Cr**, 6 to 80 a year.
-
 - **EW-D**, strategic ground-based SIGINT station (flagship contracts): **Rs.95-114 Cr per station**, 0 to 8 a year.
+
+> **MoQ price vs commercial catalogue (reconciliation).** The Day-1 iDEX ESM MoQ is contracted at **Rs.21 Cr/system** (10 systems × Rs.21 Cr = Rs.210 Cr; Phase 1 = Rs.105 Cr, per SOT D-012). This contracted iDEX first-production-order unit price sits *below* the commercial catalogue ranges above for the EW-A (Rs.25-30 Cr) and EW-B (Rs.29-35 Cr) ESM SKUs. All MoQ / Day-1 traction figures in this plan use the Rs.21 Cr contracted price; the catalogue ranges apply only to forward commercial volume pricing. Whether Rs.21 Cr is iDEX anchor/first-production pricing on the same SKU or covers a distinct lower-spec ESM configuration is **unconfirmed — tracked as OQ-C in `project-context.md`** (not invented here).
 
 The line is already part-developed on Day 1. Year 1 focus is industrialisation, qualification and scale-up of production and sales pipeline.
 
 **Key comparables.** Saab and Elbit on the integrated EW side; a wide field of EW specialists otherwise.
 
-**Why this is plausible.** Indian EW procurement runs across Army EW (Samyukta, Himshakti), Navy ESM (Sangraha, Varuna) and Air Force pod-based EW. SIPRI and Janes both note EW as among the fastest-growing line items in Indian capital outlay, driven by border tensions on the northern and western fronts. The global EW market is USD 22-25 bn per year at 6-8% CAGR. The opening Rs.105 Cr backlog reflects existing commercial commitments brought into the company.
+**Why this is plausible.** Indian EW procurement runs across Army EW (Samyukta, Himshakti), Navy ESM (Sangraha, Varuna) and Air Force pod-based EW. SIPRI and Janes both note EW as among the fastest-growing line items in Indian capital outlay, driven by border tensions on the northern and western fronts. The global EW market is USD 22-25 bn per year at 6-8% CAGR. The Rs.105 Cr opening order book is **Phase 1 of a firm Rs.210 Cr iDEX ESM production order** (10 systems × Rs.21 Cr, in two 12-month phases) won under an iDEX project — development complete (4 milestones signed off), first-of-production-model in build. It is **production-order revenue, not a grant**.
 
 ### V3 - Counter-drone (first ship Year 2)
 
 A layered counter-drone system combining radar, RF detection, electro-optical and infrared cameras, AI fusion, and both soft-kill (jamming) and hard-kill (destruction) effectors.
 
 - **CUAS-A**, soldier-portable kit: **Rs.1.5 Cr each**, 10 to 320 a year.
-
 - **CUAS-B**, vehicle-mounted system: **Rs.14.25 Cr each**, 3 to 56 a year.
-
 - **CUAS-C**, fixed-site installation around airports, refineries and military bases: **Rs.65 Cr each**, 1 to 7 a year.
 
 First MVP fielded in Year 2 using the shared radio, DSP and AI building blocks. Scaled aggressively from Year 3. This is the highest-unit-volume product in the portfolio.
@@ -414,9 +392,7 @@ First MVP fielded in Year 2 using the shared radio, DSP and AI building blocks. 
 The longest-cycle product because of airframe engineering and the formal airworthiness certification process (DO-178C software, DO-254 hardware, plus type certification). Cycle compression is achieved through the open-architecture mission computer and the reuse of the AI building blocks.
 
 - **UAS-A**, surveillance baseline: **Rs.150 Cr**, 1 to 7 a year.
-
 - **UAS-B**, strike-capable variant: **Rs.210 Cr**, 1 to 3 a year.
-
 - **UAS-C**, SIGINT / EW mission variant: **Rs.200 Cr**, 1 to 4 a year.
 
 Heavy reuse of M3 Systems Engineering, M4 Embedded Software and M5 AI / ML; M1 and M2 contribute the EW mission payload on UAS-C.
@@ -428,9 +404,7 @@ Heavy reuse of M3 Systems Engineering, M4 Embedded Software and M5 AI / ML; M1 a
 ### V5 - Autonomous Underwater and Surface Vessels (first ship Year 3)
 
 - **AUV-A**, small underwater vehicle for mine-hunting and seabed survey: **Rs.15 Cr each**, 1 to 32 a year.
-
 - **AUV-B**, large anti-submarine AUV: **Rs.60 Cr**, 1 to 4 a year.
-
 - **USV-A**, mid-size unmanned surface vessel used as a surveillance and counter-drone host: **Rs.45 Cr**, 1 to 15 a year.
 
 Autonomy software is shared with V6. Hulls are iterated rapidly through partner shipyards rather than built in-house, keeping the line asset-light.
@@ -444,9 +418,7 @@ Autonomy software is shared with V6. Hulls are iterated rapidly through partner 
 A software-led family on a software-defined release cadence.
 
 - **AI-A**, edge AI mission box that bolts onto existing military platforms: **Rs.3.8 Cr each**, 2 to 55 a year.
-
 - **AI-B**, OIDSS (operational intelligence and decision-support software), sold as an annual licence: **Rs.11.4 Cr per licence per year**, 1 to 35 licences a year.
-
 - **AI-C**, sensor-fusion middleware licence: **Rs.5.7 Cr**, 2 to 52 a year.
 
 Highest gross margins in the portfolio (93-94%). Attached to every hardware product so that every AESA, ESM, C-UAS, drone and AUV pulls software revenue.
@@ -467,11 +439,9 @@ The plan's terminal margin trajectory is not a function of pricing; it is the ar
 
 The combined effect on the cost side is captured by the design-cost discount: rising from 25% in Year 1 to 99% by Year 10. The combined effect on the revenue side is that every shipped product (V1-V6) returns both revenue and incremental module maturity, which lowers the design cost of the next product. By Year 10 the loop is self-sustaining without further equity capital (see Diagram 1: Platform Flywheel).
 
-# F. Competitive Positioning
+## F. Competitive Positioning
 
-Nitrodynamics competes in the mid-tier programme segment (below ~USD 500M lifetime value), where the tier-1 primes are structurally unprofitable on overhead and where pure-plays cannot address multi-domain integrated procurements. The 0-4 scorecard from the source plan is reproduced below.
-
-![Diagram 4: Competitive Scorecard Heatmap](diagrams/04_competitive_scorecard.png)
+Nitrodynamics competes in the mid-tier programme segment (below ~USD 500M lifetime value), where the tier-1 primes are structurally unprofitable on overhead and where pure-plays cannot address multi-domain integrated procurements. The 0-4 scorecard from the source plan is reproduced below (see Diagram 4: Competitive Scorecard Heatmap).
 
 | Capability | Nitrodynamics | Tier-1 Prime | RF Specialist | C-UAS Pure-play | UAS Pure-play | AUV Specialist | Defense AI startup |
 | - | - | - | - | - | - | - | - |
@@ -488,7 +458,6 @@ Nitrodynamics competes in the mid-tier programme segment (below ~USD 500M lifeti
 | Software / AI revenue mix | 4 | 2 | 1 | 2 | 2 | 2 | 4 |
 | Capital efficiency | 4 | 2 | 3 | 3 | 1 | 2 | 3 |
 
-
 **Commentary by archetype.**
 
 **Versus tier-1 primes.** Nitrodynamics matches on multi-domain coverage and on the radar, EW and MALE drone capabilities, and exceeds on time-to-market, cost-to-deliver, platform reuse, software mix and capital efficiency. The structural delta is overhead: a five-module platform serving six product lines does not carry the indirect cost pools of a global tier-1. This is what allows the mid-tier programme segment to be profitable.
@@ -503,11 +472,9 @@ Nitrodynamics competes in the mid-tier programme segment (below ~USD 500M lifeti
 
 **Versus defense AI startups.** Defense AI startups match on the AI / fusion dimension and on software mix, but cannot deliver the hardware their AI runs on. Nitrodynamics ships both, which is what allows the AI to be sold attached to every hardware product rather than as a standalone licence subject to vendor displacement.
 
-# G. Path to Category Leadership
+## G. Path to Category Leadership
 
-The path from Year 4 free-cash-flow positive to category leadership by Year 10 rests on four levers.
-
-![Diagram 5: Three-Phase Strategic Arc](diagrams/05_three_phase_arc.png)
+The path from Year 4 free-cash-flow positive to category leadership by Year 10 rests on four levers (see Diagram 5: Three-Phase Strategic Arc).
 
 **Marquee programme wins in Years 3-5.** The plan targets one marquee programme win per product line in Years 3 to 5. The marquee programmes are the proof points - against Samyukta / Himshakti / Sangraha / Varuna / Uttam AESA / Project 75 follow-on and analogous Air Force C-UAS and MALE programmes - that establish Nitrodynamics as a serious indigenous prime rather than a startup. Win rates do not need to be high in absolute terms; the programmes are large enough that one win per line per cycle is sufficient.
 
@@ -518,6 +485,11 @@ The path from Year 4 free-cash-flow positive to category leadership by Year 10 r
 **Software-attach on every hardware sale.** Military AI is sold attached to every AESA, ESM, C-UAS, drone and AUV the company ships. This is the highest-margin revenue in the portfolio and is the mechanism by which blended Year-10 EBITDA margin reaches 46.4%. It is also the strategic lock-in: once a customer's fleet is running on Nitrodynamics sensor-fusion middleware and OIDSS decision-support, the displacement cost of switching hardware vendors is material.
 
 The combined effect of these four levers, executed against the wave plan, produces by Year 10 a Rs.5,055 Cr annual revenue business with a Rs.16,680 Cr backlog representing over three years of forward cover, ~67% gross margin and ~46.4% EBITDA margin. That is the category-leader profile in the Indian mid-tier defense segment and a credible challenger profile in the global mid-tier segment.
+
+
+---
+
+<!-- page-break -->
 
 # 04. Financial Model and Unit Economics
 
@@ -532,9 +504,7 @@ Revenue is *not* modelled off a top-down market-share assumption. It is built up
 The mechanics, by product class:
 
 - **Hardware product lines (V1 AESA, V2 ESM, V3 C-UAS, V4 MALE UAS, V5 AUV/USV).** A signed order in year *t* releases revenue starting 12-18 months later, with the bulk in *t+1* and *t+2*, depending on whether the line is in development, qualification or steady-state production.
-
 - **Software product line (V6 Military AI).** AI-A (edge box) follows a 6-9 month hardware-style lag; AI-B (OIDSS annual licence) and AI-C (sensor-fusion middleware) are recognised on a 3-12 month subscription rhythm.
-
 - **Book-to-bill cover** is targeted above 1.0 in every year, taper from 1.5x in Y1-Y2 (build the backlog) toward 1.0x by Y8-Y10 (steady-state replenishment). This is what drives the Rs.16,680 Cr closing backlog by Year 10.
 
 The resulting 10-year revenue profile:
@@ -551,10 +521,9 @@ The resulting 10-year revenue profile:
 | Y8 | ~3,659 | +27% |  |
 | Y9 | ~4,381 | +20% |  |
 | Y10 | ~5,055 | +15% | Mature multi-domain prime |
-| **10-yr total** | **~21,200** |  | Closing backlog Y10 ~Rs.16,680 Cr (\>3.3x of Y10 revenue) |
+| **10-yr total** | **~21,200** |  | Closing backlog Y10 ~Rs.16,680 Cr (>3.3x of Y10 revenue) |
 
-
-![Diagram 3: Revenue Build by Product](diagrams/03_revenue_build.png)
+[Diagram 3: Revenue Build by Product]
 
 The 15% growth in Year 10 understates the trajectory of the business. Closing backlog at Y10 (Rs.16,680 Cr) is 3.3x of annual revenue, which provides visibility well beyond the plan horizon and supports continued mid-teens growth into Years 11-13 before category maturity sets in.
 
@@ -572,7 +541,6 @@ The table below allocates revenue across V1-V6 at three milestones (Y1, Y5, Y10)
 | V6 - Military AI Systems | 13 | 25% | 158 | 11% | 500 | 10% | Software economics; attaches to every hardware line |
 | **Total** | **~53** | **100%** | **~1,448** | **100%** | **~5,055** | **100%** |  |
 
-
 Two observations are central to the equity story. First, V2 ESM finances the business in Y1-Y3 and remains a large absolute revenue contributor in Y10 even though its mix share falls from 75% to 17%. Second, V6 Military AI represents only ~10% of revenue in Y10 but contributes disproportionately to gross-margin mix because it runs at 93-94% gross margin (see Section C). Every hardware product also pulls attached V6 software revenue, so the *effective* software-economics share of the P&L is materially higher than the headline 10%.
 
 ## C. Gross Margin Bridge
@@ -580,10 +548,8 @@ Two observations are central to the equity story. First, V2 ESM finances the bus
 Gross margin progresses from approximately 51% in Year 1 to approximately 67% in Year 10. Three drivers explain the climb:
 
 1. **Wright's-Law BoM learning.** Unit BoM falls by 8% per doubling of cumulative production (0.92 cost factor), floored at 70% of starting BoM. The floor matters: it prevents the model from claiming costs that diverge from physical-electronics reality. This driver does the heaviest lifting in Y3-Y6, when V1 AESA and V3 C-UAS volume doublings come fastest.
-
 2. **Platform reuse.** The five reusable modules (M1 Radio, M2 DSP, M3 Systems Engineering, M4 Embedded SW, M5 AI/ML) carry NRE off the per-product P&L. Reuse strength rises from 25-60% in Y1 to 97-99% by Y10. The cost saved is captured in the *engineering-in-COGS* line (cleared engineers, qualification labour, sustainment) and shows up as gross-margin expansion rather than as R&D under-spend.
-
-3. **Software mix.** V6 grows from ~25% of Y1 revenue (off a small base) to ~10% of Y10 revenue, but it runs at 93-94% gross margin throughout. The blended GM lift from this mix shift is ~250-300 bps by Y10. **Analyst assumption:** software GM of 93-94% is consistent with the source narrative (section 9.2) and with comparable defense-software disclosures (Palantir government segment \>75% GM; pure-IP software lines higher).
+3. **Software mix.** V6 grows from ~25% of Y1 revenue (off a small base) to ~10% of Y10 revenue, but it runs at 93-94% gross margin throughout. The blended GM lift from this mix shift is ~250-300 bps by Y10. **Analyst assumption:** software GM of 93-94% is consistent with the source narrative (section 9.2) and with comparable defense-software disclosures (Palantir government segment >75% GM; pure-IP software lines higher).
 
 Year-by-year gross margin build (illustrative decomposition; bridge components rounded to nearest %):
 
@@ -600,7 +566,6 @@ Year-by-year gross margin build (illustrative decomposition; bridge components r
 | Y9 | +9 ppt | +6 ppt | +2 ppt | 67% |
 | Y10 | +9 ppt (BoM at 70% floor) | +6 ppt (reuse at 97-99%) | +2 ppt (V6 at 10% mix) | **67%** |
 
-
 **Analyst assumption:** the per-driver allocation above is a directional decomposition consistent with the source's three-driver narrative (section 9.2); the source does not publish a year-by-year breakdown of GM by driver, so percentages are calibrated to the published GM endpoints (51% Y1, 67% Y10) and the published consistency band (62-67% from Y3 onward).
 
 ## D. Operating Cost Structure
@@ -615,7 +580,6 @@ The operating-expense stack is built from four blocks:
 | Compliance (annual, escalates 4%/yr) | Export ctrl Rs.2 Cr + CMMC L3 Rs.14.25 Cr + AS9100/CMMI Rs.8.55 Cr = Rs.24.8 Cr Y1 base | Real annual outflow, not a one-time set-up |
 | R&D headcount | Platform investment Rs.575 Cr over 10 yrs across M1-M5 | 4% salary escalation |
 | R&D capitalisation | 60% capitalised under Ind AS 38, 6-yr SL depreciation | 40% expensed in-period |
-
 
 R&D capitalisation is material: at platform spend of ~Rs.50-80 Cr/yr in Y1-Y5, capitalising 60% adds Rs.30-48 Cr/yr of intangible assets that depreciate into D&A on a 6-yr SL basis. This shifts cost from EBITDA into D&A and improves the EBITDA-margin optics by 2-4 ppt in Y3-Y6 relative to a fully-expensed treatment. **Analyst note:** Ind AS 38 capitalisation requires that technical feasibility, intent to complete, ability to use/sell, future economic benefits, availability of resources and reliable measurement are all demonstrable. For a defense platform with contracted backlog and qualified modules, all six criteria are defensible; this is the standard treatment for productised platform technology by Indian-listed peers.
 
@@ -644,8 +608,7 @@ The 10-year P&L summary. First positive EBITDA arrives in **Year 4**; first posi
 | Tax (MAT/regular) | 0 | 0 | 16 | 40 | 134 | 223 | 306 | 407 | 495 | 576 |
 | **Net income** | **-47** | **-4** | **90** | **224** | **400** | **669** | **917** | **1,221** | **1,483** | **1,727** |
 
-
-![Diagram 9: P&L Waterfall](diagrams/09_pnl_waterfall.png)
+[Diagram 9: P&L Waterfall]
 
 **Reconciliation note:** Y10 EBITDA in the table above is Rs.2,383 Cr against the source headline of Rs.2,347 Cr; the Rs.36 Cr delta reflects rounding in the analyst recomposition of S&M, G&A and B&P off the published rate cards. The EBITDA margin reconciles at 46.4% as published. Where source disagrees with the analyst build, source headline numbers govern.
 
@@ -663,7 +626,6 @@ Built from source section 5 (ASPs, unit volumes) with BoM ~33% of price for hard
 | V6 Military AI | AI-A/B/C blended | ~5 | ~0.3 | ~95 | ~500 | 93% |
 | **Total** |  |  |  |  | **~5,055** | **~67% (blended)** |
 
-
 The blended ~67% gross margin reconciles to source section 9.2. Hardware-line GMs sit at ~70-72%, above legacy-prime hardware norms of 15-25%, because (a) the platform-reuse leverage has removed NRE from per-product cost, (b) BoM is at the Wright's-Law floor, and (c) software pull-through is attributed back to V6, not hidden inside hardware GM.
 
 ## G. Working Capital Mechanics
@@ -679,12 +641,11 @@ Defense in India is a long-cash-cycle business. The plan sizes the balance sheet
 | Customer advance | 15% on award (indigenous-development MoD) | Partial offset to DSO; recognised as contract liability |
 | PBG | 3% of closing backlog | Y10 PBG ~Rs.500 Cr against Rs.16,680 Cr backlog |
 | BG fee | 1.1% p.a. on outstanding BG (reduced from 1.5% by Rs.150 Cr land collateral) |  |
-| BG collateral schedule | 100% Y1-2 \> 50% Y3 \> 30% Y4 \> 20% Y5+ | Cash usage drops materially from Y5 once bank track record is established |
-
+| BG collateral schedule | 100% Y1-2 > 50% Y3 > 30% Y4 > 20% Y5+ | Cash usage drops materially from Y5 once bank track record is established |
 
 The 225-day cash conversion cycle translates to a *gross* NWC drag of ~62% of revenue. Net of the 15% customer advance, the NWC drag is approximately **47% of revenue** at steady state. This is the single largest balance-sheet item the plan must finance: at Y10 revenue of Rs.5,055 Cr, net NWC sits around Rs.2,370 Cr. The funding plan (file 05) is sized explicitly to bridge the company through the *peak* of NWC absorption in Y3-Y4 when revenue is ramping fastest relative to the financing base.
 
-![Diagram 6: Working Capital Cycle](diagrams/06_working_capital_cycle.png)
+[Diagram 6: Working Capital Cycle]
 
 **Analyst assumption:** the 47% net-NWC-of-revenue figure assumes that 100% of MoD revenue carries the 15% advance. In practice, some retrofit contracts and certain export contracts will not, so the realised NWC drag is likely in the 48-52% range. The funding plan carries a buffer (file 05, Section D) sized for this.
 
@@ -705,22 +666,14 @@ Gross capex over 10 years totals approximately Rs.600 Cr. The shape is back-end-
 | Y9 | ~36 | 572 | Refresh + expansion |
 | Y10 | ~28 | ~600 | Steady-state replacement |
 
-
 Category breakdown (cumulative 10-year):
-
 - Test infrastructure (anechoic, EMI/EMC, HALT/HASS, RF/EW benches, VNAs): ~Rs.180 Cr
-
 - Production (cleanroom for SMT/GaN packaging, SMT assembly line): ~Rs.105 Cr
-
 - Compute (FPGA stations, GPU clusters): ~Rs.85 Cr
-
 - Domain-specific (UAS flight-test hangar, maritime test tank): ~Rs.150 Cr
-
 - Office, IT, vehicles, facilities: ~Rs.80 Cr
 
-![Diagram 7: Funding Stack vs Cash Curve](diagrams/07_funding_stack.png)
-
-*capex profile overlays the funding curve in file 05.*
+[Diagram 7: Funding Stack vs Cash Curve] - capex profile overlays the funding curve in file 05.
 
 ## I. Headcount Plan
 
@@ -739,8 +692,7 @@ Total headcount scales from 91 (Y1) to 543 (Y10). The mix shifts predictably fro
 | Y9 | 522 | ~190 (36%) | ~260 (50%) | ~72 (14%) |  |
 | Y10 | 543 | ~195 (36%) | ~275 (51%) | ~73 (13%) | Mature multi-domain prime |
 
-
-**Analyst assumption:** intermediate headcount points Y3, Y5, Y7-Y9 are interpolated from the published milestones (91 \> 156 \> 287 \> 414 \> 543); function-mix percentages are calibrated to the role-level table in the workbook *Headcount* sheet (RF/Microwave, DSP/FPGA, Aerospace/Flight, Manufacturing, Production Technicians, Field Service, Capture/BD, Executive, etc.).
+**Analyst assumption:** intermediate headcount points Y3, Y5, Y7-Y9 are interpolated from the published milestones (91 > 156 > 287 > 414 > 543); function-mix percentages are calibrated to the role-level table in the workbook *Headcount* sheet (RF/Microwave, DSP/FPGA, Aerospace/Flight, Manufacturing, Production Technicians, Field Service, Capture/BD, Executive, etc.).
 
 Contract manufacturing at qualified partners absorbs 30-40% of unit volumes for AESA, C-UAS and similar hardware lines. This is embedded in COGS-BoM, not in in-house headcount, and is the principal reason the Y10 in-house production headcount of ~275 supports Rs.5,055 Cr of revenue (revenue per employee of ~Rs.9.3 Cr/head, which is in line with software-influenced defense companies and roughly 3-5x above legacy primes).
 
@@ -749,8 +701,12 @@ The R&D share falling from 57% to 36% is *not* an absolute reduction - it is the
 ## Cross-references
 
 - File 05 sets out how the funding stack (Rs.1,100 Cr equity + Rs.200 Cr debt) sizes against the peak cumulative cash deficit of Rs.1,062 Cr in Y3.
-
 - File 06 sets out the FCF build, terminal-value framing, sensitivity analysis (revenue ramp, GM, DSO, BoM floor) and the resulting project IRR of 31.9% / NPV Rs.747 Cr at the 18% WACC published in the workbook *Assumptions* sheet.
+
+
+---
+
+<!-- page-break -->
 
 # 05. Funding Plan and Capital Structure
 
@@ -764,13 +720,12 @@ Three rounds across Years 1-3, each gated on a joint unlock of platform-maturity
 
 | Round | Year | Amount (Rs.Cr) | Use of proceeds | Unlock gates (joint) |
 | - | - | - | - | - |
-| Seed | Y1 | 450 | M1-M5 platform investment; ESM industrialisation; prototyping and qualification trials; initial production line; opening BG collateral; 12-month working-capital buffer | Platform: M1, M2, M4 qualified; ESM at minimum-viable-product; V6 first software ship. Backlog: Rs.105 Cr ESM opening order book under contract + Rs.300 Cr bookings target by Y1 close. |
-| Series A | Y2 | 400 | Production scale-up across ESM, C-UAS and Military AI; AESA and drone prototype build; EMI / anechoic facility deposit; Series A BG collateral top-up | Platform: M1, M2, M4 productised; M3 qualified; M5 in qualification. Backlog: V1 AESA first contract signed; V3 C-UAS MVP fielded; \>Rs.600 Cr cumulative bookings. |
-| Series B | Y3 | 250 | Production ramp for AESA, MALE drone and autonomous systems first deliveries; Make-II working capital; test-range capex; bridge to FCF-positive in Y4 | Platform: M1-M5 all shipping. Backlog: V5 AUV first ship; V4 MALE qualification on track; \>Rs.1,800 Cr cumulative bookings. |
+| Seed | Y1 | 450 | M1-M5 platform investment; ESM industrialisation; prototyping and qualification trials; initial production line; opening BG collateral; 12-month working-capital buffer | Platform: M1, M2, M4 qualified; ESM at minimum-viable-product; V6 first software ship. Backlog: Rs.105 Cr ESM opening order book (Phase 1 of the firm Rs.210 Cr iDEX ESM MoQ) under contract + Rs.300 Cr bookings target by Y1 close. |
+| Series A | Y2 | 400 | Production scale-up across ESM, C-UAS and Military AI; AESA and drone prototype build; EMI / anechoic facility deposit; Series A BG collateral top-up | Platform: M1, M2, M4 productised; M3 qualified; M5 in qualification. Backlog: V1 AESA first contract signed; V3 C-UAS MVP fielded; >Rs.600 Cr cumulative bookings. |
+| Series B | Y3 | 250 | Production ramp for AESA, MALE drone and autonomous systems first deliveries; Make-II working capital; test-range capex; bridge to FCF-positive in Y4 | Platform: M1-M5 all shipping. Backlog: V5 AUV first ship; V4 MALE qualification on track; >Rs.1,800 Cr cumulative bookings. |
 | **Total equity** |  | **1,100** |  |  |
 
-
-![Diagram 7: Funding Stack vs Cash Curve](diagrams/07_funding_stack.png)
+[Diagram 7: Funding Stack vs Cash Curve]
 
 The dual-gate design is non-negotiable: a round does not unlock on backlog alone (legacy-prime risk: backlog with no platform creates fixed-price programme exposure that bleeds margin) and does not unlock on platform alone (technology-startup risk: shiny modules with no contracted demand burn equity). Both must be satisfied.
 
@@ -784,7 +739,6 @@ Total drawn debt Rs.200 Cr, peak balance Rs.200 Cr in Y3-Y4, fully repaid by Y9.
 | PSU bank term loan | Y2 | 100 | Rs.150 Cr land/factory pledge already in place | 7 years | Capex inflection (Y3-Y5 anechoic, EMI/EMC, SMT) |
 | Working capital line expansion | Y3 | 80 | Hypothecation of receivables + inventory | Revolving 5-year | NWC drag during multi-product ramp |
 
-
 Repayment schedule (Y5-Y9): **Rs.36 / 36 / 55 / 65 / 8 Cr** - cumulative Rs.200 Cr, with the bulk concentrated in Y7-Y8 once FCF generation is structural.
 
 | Rs.Cr | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | Y10 |
@@ -793,7 +747,6 @@ Repayment schedule (Y5-Y9): **Rs.36 / 36 / 55 / 65 / 8 Cr** - cumulative Rs.200 
 | Repaid | 0 | 0 | 0 | 0 | 36 | 36 | 55 | 65 | 8 | 0 |
 | Balance (EoY) | 20 | 120 | 200 | 200 | 164 | 128 | 73 | 8 | 0 | 0 |
 | Interest expense @ 8% | 1.6 | 5.6 | 12.8 | 16.0 | 14.6 | 11.7 | 8.0 | 3.2 | 0.3 | 0.0 |
-
 
 The structure deliberately avoids cross-default between facilities. The PSU term loan is fully amortising against a hard asset (the pledged land/factory at Rs.150 Cr appraised value); the working-capital line is renewable annually and sized off the most recent quarter's receivables. The venture-debt bridge is the smallest and is the first to be retired (within Y5 - Y6 by allocation).
 
@@ -808,19 +761,15 @@ The company starts the plan with the following bank facilities already in place.
 | Advance Bank Guarantee (ABG) | 18.5 | Sanctioned | Covers the Y1 ABG requirement of Rs.18.76 Cr (mobilisation advance against customer 15% advance payment) |
 | Term loan approved | 9.0 | Approved, drawn in Y1 | Included inside the Y1 Rs.20 Cr venture-debt + term line |
 
-
 The Rs.18.5 Cr sanctioned ABG against Rs.18.76 Cr Y1 requirement is intentionally tight to ~Rs.0.26 Cr; the gap is bridged with cash collateral in the Y1 cash flow (immaterial to the funding plan).
 
 ## D. Cash Flow Engine Narrative
 
 The structural argument for why Rs.1,100 Cr of equity is enough - against Y10 revenue of Rs.5,055 Cr and a peak cumulative deficit of only Rs.1,062 Cr - rests on four cash sources operating concurrently from Y1:
 
-1. **ESM opening backlog Rs.105 Cr.** Generates Y1 revenue and gross profit at hardware margins, reducing the net Year 1 cash burn.
-
+1. **ESM opening order book Rs.105 Cr (Phase 1 of the Rs.210 Cr firm iDEX MoQ).** Generates Y1 revenue and gross profit at hardware margins, reducing the net Year 1 cash burn.
 2. **V6 Military AI software at 93% GM.** First ships Y1; throws off cash from Y2 onward at near-software economics.
-
 3. **15% customer advances on indigenous-development MoD contracts.** Recognised as contract liability; offsets ~15% of the DSO drag at gross level.
-
 4. **PSU bank term loan Rs.100 Cr in Y2.** Funds the capex inflection without consuming Seed/Series A cash on physical assets that have collateral value.
 
 These four sources, in combination, are what permit Series B (Rs.250 Cr in Y3) to be sized as a **bridge to FCF-positive**, not as a full programme-funding round. The contrast with a legacy build-out is sharp: a legacy prime building six product lines from scratch would require Rs.2,500-4,000 Cr of equity, take 7-10 years to first operating profit, and depend on programme-by-programme contract finance to bridge each NRE cycle.
@@ -837,8 +786,7 @@ These four sources, in combination, are what permit Series B (Rs.250 Cr in Y3) t
 | Net debt | 20 | 100 | 80 | 0 | -36 |
 | Cash EoY (rough) | ~254 | ~427 | ~259 | ~3 | ~53 |
 
-
-**Analyst note:** the cash-EoY line above is an analyst reconstruction from published source figures (Rs.1,062 Cr peak deficit, Rs.1,100 Cr equity, Rs.200 Cr debt, Y4 FCF-positive); the workbook *CashFlow* sheet is the authoritative version and was saved without recalc cache so blank in the live file. The directional pattern - dip in Y4, recovery from Y5 - is the load-bearing observation; the precise Y4 minimum is the trigger for the BG-collateral release schedule (100% Y1-2 \> 50% Y3 \> 30% Y4 \> 20% Y5+) which itself releases ~Rs.150-200 Cr of restricted cash back into deployable cash at the right moment.
+**Analyst note:** the cash-EoY line above is an analyst reconstruction from published source figures (Rs.1,062 Cr peak deficit, Rs.1,100 Cr equity, Rs.200 Cr debt, Y4 FCF-positive); the workbook *CashFlow* sheet is the authoritative version and was saved without recalc cache so blank in the live file. The directional pattern - dip in Y4, recovery from Y5 - is the load-bearing observation; the precise Y4 minimum is the trigger for the BG-collateral release schedule (100% Y1-2 > 50% Y3 > 30% Y4 > 20% Y5+) which itself releases ~Rs.150-200 Cr of restricted cash back into deployable cash at the right moment.
 
 ## E. Dilution Mathematics
 
@@ -850,7 +798,6 @@ These four sources, in combination, are what permit Series B (Rs.250 Cr in Y3) t
 | Series A (Y2) | 4,500 | 400 | 4,900 | 8.2% |
 | Series B (Y3) | 8,000 | 250 | 8,250 | 3.0% |
 
-
 Cumulative ownership evolution, assuming a 100% founder + employee ESOP cap-table at Y0 (no pre-Seed dilution, no convertibles):
 
 | Stakeholder | Pre-Seed | Post-Seed | Post-A | Post-B |
@@ -861,13 +808,10 @@ Cumulative ownership evolution, assuming a 100% founder + employee ESOP cap-tabl
 | Series B investors | - | - | - | 3.0% |
 | **Total** | 100.0% | 100.0% | 100.0% | 100.0% |
 
-
 Post-B founder + ESOP stake of ~71% is materially higher than the legacy defense-prime build pattern (typical equivalent: founder + ESOP at 30-45% after equivalent capital deployment), because:
 
 1. Total equity raised (Rs.1,100 Cr) is small relative to Y10 revenue (Rs.5,055 Cr) - capital efficiency of 4.6x revenue per Rs of equity (see Section F).
-
-2. Round sizes step *down* (450 \> 400 \> 250) rather than up, because the ESM cash engine and V6 software cash flows absorb the financing burden that later rounds would otherwise carry.
-
+2. Round sizes step *down* (450 > 400 > 250) rather than up, because the ESM cash engine and V6 software cash flows absorb the financing burden that later rounds would otherwise carry.
 3. There is no Series C - the company self-funds from Year 4 forward.
 
 ## F. Capital Efficiency Benchmarks
@@ -880,7 +824,6 @@ Two ways to look at the capital efficiency of this plan, both against a stated l
 | Equity raised / 10-yr cumulative revenue | Rs.1,100 Cr / Rs.21,200 Cr = **0.052x** | 0.1-0.17x | **2-3x more efficient** |
 | Y10 revenue per Rs of equity | **Rs.4.6 of revenue per Rs.1 of equity** | Rs.0.6-1.0 |  |
 | Cumulative revenue per Rs of equity | **Rs.19.3 of cumulative revenue per Rs.1 of equity** | Rs.6-10 |  |
-
 
 These ratios are the headline equity-investor argument. They derive from three structural features rehearsed elsewhere in the plan: (i) the Day-1 ESM backlog means equity does not fund every product from zero, (ii) the platform reuse model amortises NRE across six product lines, and (iii) the V6 software line attaches to every hardware product and pulls high-margin revenue through.
 
@@ -896,13 +839,10 @@ The plan deliberately excludes non-dilutive grants from the base case. If the fo
 | TDF (Technology Development Fund) | Rs.50-100 Cr per technology | Medium (40-60%) for AESA GaN packaging | M1 Radio module qualification |
 | Make-II (indigenous production) | Rs.50-200 Cr per programme | High (60-80%) once V1 / V4 production contracts are signed | Production-line capex |
 
-
 **Analyst probability calls** are based on (a) the published Government of India targets for indigenous defense production (Atmanirbhar Bharat, Rs.50,000 Cr export target 2028-29), (b) the demonstrated relevance of V3 C-UAS and V6 Military AI to current iDEX call topics, and (c) prior precedent of analogous programmes funded under these schemes. Total potential grant inflow in an optimistic case is approximately Rs.200 Cr cumulative - quantified in file 06 Section F as the Upside Case.
 
 If grants materialise:
-
 - The Y3 Series B size could be reduced from Rs.250 Cr to ~Rs.180-200 Cr, or
-
 - Series B is retained at Rs.250 Cr and the grant cash is allocated to (a) accelerated V4 MALE drone certification, or (b) the export pipeline build-out, or (c) early debt retirement.
 
 The plan's base case stands on its own without any of these inflows. Each is an explicit, separable upside option.
@@ -912,16 +852,18 @@ The plan's base case stands on its own without any of these inflows. Each is an 
 Three risks bear directly on the funding plan and are flagged for the deal team:
 
 1. **DSO slippage beyond 180 days.** Every 30-day slippage adds approximately Rs.7-10% to NWC drag at steady state. Mitigation: 22% advance is negotiated where possible (source section 11), and venture-debt is in place from Y1 to absorb up to ~90 days of additional DSO drift.
-
 2. **BG collateral schedule does not de-escalate as modelled.** If the bank holds collateral at 100% beyond Y2 because track record is unsatisfactory, ~Rs.150-200 Cr of cash remains restricted in Y3-Y4 - which would extend the peak deficit and require Series B to be larger. Mitigation: alternative bank syndication, including foreign banks active in Indian export-credit lending.
-
 3. **Series B pricing pressure if Y3 milestones slip.** Series B is the smallest round but the most pricing-sensitive because it is gated on V5 first-ship, V4 qualification trajectory, and Rs.1,800 Cr cumulative bookings. A delayed V4 (the most likely slip per the wave plan) could compress Series B pricing by 20-30% and dilute founder stake by an additional 1.5-2.5 percentage points. Not material to the equity story but flagged for board-level awareness.
 
 ## Cross-references
 
 - File 04 Section G sets out the working capital mechanics that the funding stack is sized to absorb (CCC 225 days, ~47% NWC drag of revenue net of advance).
-
 - File 06 Section H quantifies investor returns to each round under three exit scenarios (Y7, Y9, Y11) and at sensitised round pricing.
+
+
+---
+
+<!-- page-break -->
 
 # 06. Returns, Valuation and Sensitivity
 
@@ -942,21 +884,14 @@ This section answers three investor questions in sequence: what is the base-case
 | Y10 closing backlog | Rs.16,680 Cr | Source section 9.1 |
 | First positive EBITDA / FCF | Year 4 | Source section 9 |
 
-
 **WACC reconciliation.** The workbook fixes WACC at 18%. As an independent check, a standard build-up for an Indian defense growth-stage business:
 
 - Risk-free rate (10-yr G-Sec): ~7.0%
-
 - Equity risk premium (India): ~6.5%
-
 - Beta (defense-prime peer set, levered): ~1.3
-
 - Size and growth-stage premium: ~3.0%
-
 - Cost of equity: 7.0 + 1.3 x 6.5 + 3.0 = ~18.5%
-
 - Cost of debt (post-tax, at 8% pre-tax, 25% rate): ~6.0%
-
 - Debt weight at peak (Rs.200 Cr / ~Rs.1,300 Cr total capital): ~15%
 
 Blended WACC: 0.85 x 18.5 + 0.15 x 6.0 = **~16.6%**. The workbook's 18% is therefore conservative by ~140 bps vs an analyst build-up; we use 18% throughout for consistency with source.
@@ -979,7 +914,6 @@ Year-by-year FCF reconciling to the published Rs.4,803 Cr 10-year cumulative.
 | **FCF** | **-181** | **-232** | **-196** | **65** | **238** | **519** | **773** | **1,061** | **1,328** | **1,549** | **4,924** |
 | Cumulative FCF | -181 | -413 | -609 | -544 | -306 | 213 | 986 | 2,047 | 3,375 | 4,924 |  |
 
-
 **Reconciliation note.** The analyst FCF build above sums to Rs.4,924 Cr against the source headline of Rs.4,803 Cr - a Rs.121 Cr (2.5%) variance, attributable to rounding in the year-by-year EBITDA, NWC delta and BG-collateral release schedules. Source headline governs; the table is offered as a transparent decomposition. The shape and the year-of-FCF-positivity (Y4) reconcile cleanly.
 
 Free-cash-flow inflection happens in Y4 (Rs.65 Cr) and accelerates from Y5. Cumulative FCF turns positive in **Y6**, after a peak cumulative cash deficit of Rs.1,062 Cr at end-Y3 (see file 05 Section D).
@@ -998,10 +932,9 @@ Defense growth-stage businesses with software-influenced economics trade at EV/E
 | 15x | 2,347 | 35,205 | ~4.2 |
 | 18x | 2,347 | 42,246 | ~5.1 |
 
-
 ### Approach 2: Revenue multiple
 
-Defense growth-stage names with mid-teens to high-teens forward growth and \>40% EBITDA margins trade at **3-6x revenue**. Anduril (private) implied ~10x at the 2024 USD 14 bn valuation against ~USD 1 bn revenue; Shield AI at the 2023 USD 2.8 bn raise implied 10x+ on smaller revenue base.
+Defense growth-stage names with mid-teens to high-teens forward growth and >40% EBITDA margins trade at **3-6x revenue**. Anduril (private) implied ~10x at the 2024 USD 14 bn valuation against ~USD 1 bn revenue; Shield AI at the 2023 USD 2.8 bn raise implied 10x+ on smaller revenue base.
 
 | Multiple | Y10 revenue Rs.5,055 Cr | Implied EV (Rs.Cr) | Implied EV (USD bn) |
 | - | - | - | - |
@@ -1009,12 +942,14 @@ Defense growth-stage names with mid-teens to high-teens forward growth and \>40%
 | 4.5x | 5,055 | 22,748 | ~2.7 |
 | 6x | 5,055 | 30,330 | ~3.6 |
 
-
 ### Approach 3: DCF-perpetuity (Gordon growth)
 
 Y11 FCF at 15% growth off Y10 = Rs.1,781 Cr. Terminal growth rate 3% post-Y10 (matching long-run real GDP + defense-spend escalation, conservative). At 18% WACC:
 
-TV at end-Y10 = Rs.1,781 / (18% - 3%) = **Rs.11,873 Cr** PV of TV today (discounted 10 years at 18%) = ~~Rs.2,267 Cr~~ ~~Plus NPV of explicit Y1-Y10 FCF = Rs.747 Cr~~ ~~Total enterprise value today = \*\*~~Rs.3,014 Cr\*\*
+TV at end-Y10 = Rs.1,781 / (18% - 3%) = **Rs.11,873 Cr**
+PV of TV today (discounted 10 years at 18%) = ~Rs.2,267 Cr
+Plus NPV of explicit Y1-Y10 FCF = Rs.747 Cr
+Total enterprise value today = **~Rs.3,014 Cr**
 
 Y10 enterprise value (undiscounted) under DCF-perpetuity ≈ Rs.11,873 Cr (excluding the value of the explicit period that has already been realised by Y10).
 
@@ -1027,7 +962,6 @@ Y10 enterprise value (undiscounted) under DCF-perpetuity ≈ Rs.11,873 Cr (exclu
 | DCF-perpetuity | 11,873 | ~1.4 |
 | **Triangulated range** | **~Rs.20,000-35,000 Cr** | **~USD 2.4-4.2 bn** |
 
-
 The DCF-perpetuity floor is the most conservative because it assumes a 3% perpetual growth rate immediately post-Y10, which understates the growth that the Rs.16,680 Cr closing backlog will sustain through Years 11-13. The triangulated investor-facing range of **Rs.20,000-35,000 Cr** (USD 2.4-4.2 bn) Y10 EV is appropriate, anchored against the EV/EBITDA and EV/Revenue methods.
 
 ## D. Sensitivity Analysis
@@ -1038,27 +972,25 @@ Project IRR and NPV at the 18% WACC, sensitised against revenue ramp and GM. The
 
 **Project IRR (%)**
 
-| Revenue \\ GM | -300 bps | Base | +300 bps |
+| Revenue \ GM | -300 bps | Base | +300 bps |
 | - | - | - | - |
 | -20% | 19.5% | 23.2% | 26.4% |
 | Base | 27.1% | **31.9%** | 35.6% |
 | +20% | 33.4% | 38.5% | 42.7% |
 
-
 **NPV at 18% WACC (Rs.Cr)**
 
-| Revenue \\ GM | -300 bps | Base | +300 bps |
+| Revenue \ GM | -300 bps | Base | +300 bps |
 | - | - | - | - |
 | -20% | -45 | 220 | 480 |
 | Base | 380 | **747** | 1,110 |
 | +20% | 850 | 1,310 | 1,765 |
 
-
 **Analyst note:** the sensitivity grid is computed by re-scaling the year-by-year FCF for the corresponding revenue and gross-margin perturbations, holding Opex-as-percent-of-revenue and the capex schedule constant. NPV is highly sensitive to GM (a 300 bps GM move shifts NPV by ~Rs.360 Cr at base revenue) and moderately less so to revenue ramp at a given GM. IRR remains above 19% even in the worst sensitivity cell (-20% rev, -300 bps GM), supporting the underwriting thesis.
 
 ### D.2 Single-variable tornado
 
-![Diagram 10: Sensitivity Tornado](diagrams/10_sensitivity_tornado.png)
+[Diagram 10: Sensitivity Tornado]
 
 Impact on NPV (Rs.Cr) of one-at-a-time shocks vs base of Rs.747 Cr:
 
@@ -1071,13 +1003,9 @@ Impact on NPV (Rs.Cr) of one-at-a-time shocks vs base of Rs.747 Cr:
 | Software mix Y10 (V6) | 5% of revenue | 15% of revenue | 520 | 980 | 460 |
 | BG collateral schedule | 100% held through Y5 | 20% from Y3 | 540 | 880 | 340 |
 
-
 The three largest swings are:
-
 1. **Customer advance level (0% vs 22%)** - Rs.600 Cr NPV swing. The 15% base-case assumption is below what the source negotiates "where possible" (22%, source section 11), so this is an asymmetric upside-skew.
-
 2. **BoM learning floor (80% vs 60%)** - Rs.590 Cr swing. The base 70% floor is conservative against aerospace-electronics empirical norms of 60-70%.
-
 3. **DSO (240 vs 150)** - Rs.540 Cr swing. The 180-day base is itself conservative against published Indian defense receivable cycles which can run 90-150 days for well-structured PSU contracts.
 
 In summary: the model is balance-sheet-sensitive (NWC, advances, BG) more than P&L-sensitive (margin, mix). This is consistent with the operating reality of an Indian defense growth-stage business and is what the funding plan in file 05 is sized to absorb.
@@ -1091,14 +1019,13 @@ Adverse scenario assumptions, modelled jointly:
 | Export-control friction | 0 | Caps SAM 30% | ITAR/EAR friction restricts allied-export pipeline |
 | ESM order conversion | On schedule | 12-month slip | Customer programme delays push Y1-Y3 revenue right |
 | V4 MALE certification | Y4 first ship | 18-month slip to mid-Y5 | Airworthiness certification overrun |
-| GM trajectory | 51% \> 67% | 51% \> 62% | Without export volume, BoM doubling slows |
+| GM trajectory | 51% > 67% | 51% > 62% | Without export volume, BoM doubling slows |
 | Y10 revenue | Rs.5,055 Cr | **~Rs.3,400 Cr** | -33% vs base |
 | Y10 EBITDA margin | 46.4% | ~38% | Operating leverage erosion |
 | Y10 EBITDA | Rs.2,347 Cr | ~Rs.1,290 Cr |  |
 | **Project IRR** | 31.9% | **~21-23%** |  |
 | **NPV at 18% WACC** | Rs.747 Cr | **~Rs.50-150 Cr** |  |
 | Equity additional ask | 0 | Rs.150-200 Cr Series B+ | Bridge larger Y3-Y4 cash trough |
-
 
 Even in the downside, the project IRR remains above the 18% WACC, and NPV remains marginally positive. The equity story does not break in this scenario - but a single additional Series B+ tranche of Rs.150-200 Cr would be required to extend the cash runway through the deferred V4 ramp. Founder dilution in the downside is approximately 2-3 percentage points additional.
 
@@ -1111,14 +1038,13 @@ Optimistic scenario assumptions, modelled jointly:
 | Grants (iDEX + TDF + Make-II) | 0 | Rs.200 Cr cumulative | Three flagged programmes all land |
 | Indian export pipeline | ~10% of Y10 revenue | 25% of Y10 revenue | Friendly-government export momentum |
 | V6 Military AI growth | Base | +30% faster than base | Sensor-fusion stack adoption accelerates |
-| GM trajectory | 51% \> 67% | 51% \> 70% | Higher software mix lifts blended GM |
+| GM trajectory | 51% > 67% | 51% > 70% | Higher software mix lifts blended GM |
 | Y10 revenue | Rs.5,055 Cr | **~Rs.6,400 Cr** | +27% vs base |
 | Y10 EBITDA margin | 46.4% | ~50% | Operating leverage uplift |
 | Y10 EBITDA | Rs.2,347 Cr | ~Rs.3,200 Cr |  |
 | **Project IRR** | 31.9% | **~39-42%** |  |
 | **NPV at 18% WACC** | Rs.747 Cr | **~Rs.1,650-1,900 Cr** |  |
 | Series B size | Rs.250 Cr | Rs.150-180 Cr (grant substitution) | Equity dilution reduces |
-
 
 Upside is materially larger than downside in absolute IRR terms (+8-10 pts upside vs -10 pts downside), which is the asymmetric-return profile that justifies an equity-investor underwrite for a venture-backed defense-prime build.
 
@@ -1128,14 +1054,13 @@ Publicly cited reference points (source section 5.6, section 9, Appendix A):
 
 | Comparable | Stage / Year | Revenue (USD) | Valuation (USD) | Implied multiple | Relevance |
 | - | - | - | - | - | - |
-| Anduril Industries | Unicorn at 2020; reported \>USD 1 bn revenue by 2024; reported USD ~14 bn valuation 2024 | ~USD 1 bn | ~USD 14 bn | **~14x revenue** | Platform-defense closest analogue |
+| Anduril Industries | Unicorn at 2020; reported >USD 1 bn revenue by 2024; reported USD ~14 bn valuation 2024 | ~USD 1 bn | ~USD 14 bn | **~14x revenue** | Platform-defense closest analogue |
 | Shield AI | 2023 round at USD 2.8 bn valuation | ~USD 150-200 m (est) | USD 2.8 bn | **~14-19x revenue** | Autonomy stack |
 | Palantir (defense segment) | 2024 run-rate | USD 0.7-0.8 bn DoD run-rate | (segment of public USD ~70 bn co.) | n/a | Defense software economics reference |
 | HAL / BEL (listed Indian primes) | 2024 | ~USD 3-4 bn revenue | ~USD 30-50 bn each | ~10-15x revenue, ~25-30x EBITDA | Indian listed pricing benchmark |
 | Western primes (LM, RTX, NOC, BAE) | 2024 | ~USD 25-65 bn each | varies | ~1.5-2.5x revenue, ~12-15x EBITDA | Legacy-prime trading benchmark |
 
-
-**Nitrodynamics implied Y10 EV** under the triangulated range of Rs.20,000-35,000 Cr (USD 2.4-4.2 bn) against Y10 revenue of Rs.5,055 Cr (USD ~~610 m) implies \*\*~~4-7x revenue multiple at Y10\*\*. This is materially below the current Anduril and Shield AI growth-stage multiples (14-19x revenue) - which is appropriate, because by Y10 Nitrodynamics is no longer growth-stage; it is a mature multi-domain prime growing at 15-20%, and the multiple compression to the 4-7x range reflects that maturity.
+**Nitrodynamics implied Y10 EV** under the triangulated range of Rs.20,000-35,000 Cr (USD 2.4-4.2 bn) against Y10 revenue of Rs.5,055 Cr (USD ~610 m) implies **~4-7x revenue multiple at Y10**. This is materially below the current Anduril and Shield AI growth-stage multiples (14-19x revenue) - which is appropriate, because by Y10 Nitrodynamics is no longer growth-stage; it is a mature multi-domain prime growing at 15-20%, and the multiple compression to the 4-7x range reflects that maturity.
 
 The investor-relevant observation: at *Series A* and *Series B* pricing (file 05 Section E illustrative values), Nitrodynamics trades at ~7-10x forward (Y3) revenue, which is in line with growth-stage defense deep-tech comparables.
 
@@ -1149,13 +1074,10 @@ MoIC and IRR for each round at three exit scenarios, holding pre-money assumptio
 | Series A (Y2, Rs.400 Cr) | 4,500 | 7.9% | Value Rs.1,232 Cr / MoIC 3.1x / IRR 25% | Value Rs.2,109 Cr / MoIC 5.3x / IRR 28% | Value Rs.3,160 Cr / MoIC 7.9x / IRR 25% |
 | Series B (Y3, Rs.250 Cr) | 8,000 | 3.0% | Value Rs.468 Cr / MoIC 1.9x / IRR 17% | Value Rs.801 Cr / MoIC 3.2x / IRR 22% | Value Rs.1,200 Cr / MoIC 4.8x / IRR 22% |
 
-
 Three observations for an equity-deal team:
 
 1. **Seed returns are exceptional**: 6-16x MoIC across the exit window, with IRR sustained at 30%+ regardless of exit year. This reflects the asymmetric value-creation of the Day-1 ESM cash engine plus the platform investment that the Seed round funds.
-
 2. **Series A returns are strong** at 3-8x MoIC with IRR in the mid-20s.
-
 3. **Series B returns are sensible** but not exceptional: 1.9-4.8x MoIC at IRR 17-22%. This is the price of entering late after most of the platform risk has been retired; the lower expected return is offset by a much lower loss-probability tail.
 
 **Analyst note:** the MoIC and IRR calculations assume a clean equity exit at the stated valuation and no further dilution from a Series C (which the funding plan in file 05 explicitly states is not required). If a Series C does occur (e.g. for an inorganic acquisition), Seed/A/B stakes dilute by an additional 5-10 percentage points, reducing MoIC by ~10-15% across all rounds.
@@ -1163,12 +1085,18 @@ Three observations for an equity-deal team:
 ## Cross-references
 
 - File 04 Sections C-E are the source of the GM and EBITDA series that drive both the FCF build and the sensitivity grid.
-
 - File 05 Section E and Section F are the source of the round-pricing assumptions and capital-efficiency benchmarks against which the investor-returns table above is constructed.
-
 - The 18% WACC assumption is taken from the workbook *Assumptions* sheet; the analyst build-up of 16.6% in Section A above is offered as an independent check and as the sensitivity reference if a lower discount rate is preferred for committee approval.
 
+
+---
+
+<!-- page-break -->
+
 # 07. Operating Model
+
+*Nitrodynamics Investor Plan - Section 7*
+*Date: 2026-05-17*
 
 ## A. Organisational Philosophy
 
@@ -1177,9 +1105,7 @@ Nitrodynamics is organised as a software firm that happens to ship defense-grade
 The structural choice is **product squads inside a platform-engineering matrix**, not legacy programme directorates. Legacy primes assign each programme a self-contained engineering team that re-solves radio, signal-processing, systems-engineering and software problems from scratch on a 5-7 year cycle. Nitrodynamics instead runs:
 
 - A **Platform Engineering function** (VP Platform Engineering) that owns the five reusable modules - M1 Radio/Microwave, M2 Signal Processing, M3 Systems Engineering, M4 Embedded/Mission Software, M5 AI/ML. Each module has a module lead, a qualification engineer, and a documentation/IP owner. Platform Engineering is the firm's true capital expenditure (source section 6).
-
 - A **Product function** (VP Product) that runs six product squads (V1-V6), each a small cross-functional team owning a product end-to-end on a 12-24 month minimum-viable-product cycle.
-
 - A **Programme Management Office** that interfaces with MoD, allied governments and prime customers, manages bid-and-proposal, contract milestones, and Performance/Advance Bank Guarantees.
 
 The discipline is that product squads do not re-implement what Platform Engineering already qualifies. A product squad consuming an M1 transmit/receive module accepts the qualified building block as-is and contributes back only product-specific integration and enhancements that are themselves promoted back into the platform after qualification. This is the mechanism that converts the 25-60% Year-1 reuse strength into the 97-99% reuse strength by Year 10 (source section 6).
@@ -1190,38 +1116,37 @@ The discipline is that product squads do not re-implement what Platform Engineer
 
 ### B.1 Year-2 organisation chart (~156 headcount)
 
-Reference:
-![Diagram 8: Operating Model Org](diagrams/08_operating_org.png)
+Reference: `[Diagram 8: Operating Model Org]`
 
 ```
-                            Board of Directors    
-                                   |    
-                                  CEO    
-                                   |    
-   +---------------+---------------+---------------+----------------+----------------+    
-   |               |               |               |                |                |    
-  CTO /         COO / VP        CFO          CCO / VP Sales      GC / Export      Chief of    
-  Chief         Manufacturing   |            and Capture         Compliance       Staff /    
-  Engineer      |               |            |                   |                PMO    
-  |             |               |            |                   |                |    
-  +-VP Platform |+-Production   +-FP&A       +-Capture leads     +-Export-control +-Programme    
-  | Engineering ||  Engineering |+-Treasury  |  (MoD, Navy, Air, |  officer (ITAR/|  managers    
-  | |           ||+-Quality (AS |  / BG desk |   Army, Exports)  |  EAR/SCOMET)   |  by product    
-  | +-M1 Radio  || 9100, CMMI)  |+-Controller+-Bid and Proposal  +-Contracts /    |    
-  | +-M2 DSP    |+-Supply Chain |+-Tax /     +-Customer Success  |  legal counsel +-Security    
-  | +-M3 SysEng |+-Contract Mfg ||  Statutory|  (field reps      +-IP / patent    |  /    
-  | +-M4 Embed  ||  partnerships||           |  embedded in      |  counsel       |  classified    
-  | +-M5 AI/ML  ||              ||           |  squads)          |                |  programmes    
-  |             ||              ||           |                   |                |  firewall    
-  +-VP Product  ||              ||           |                   |                |    
-    +-V2 ESM    ||              ||           |                   |                |    
-    +-V6 Mil AI ||              ||           |                   |                |    
-    +-V1 AESA   ||              ||           |                   |                |    
-    +-V3 C-UAS  ||              ||           |                   |                |    
-    +-V5 AUV/USV||              ||           |                   |                |    
-    +-V4 MALE   ||              ||           |                   |                |    
-               ||    
-               |+-Contract-manufacturing partners (qualified panel; 30-40% of unit    
+                            Board of Directors
+                                   |
+                                  CEO
+                                   |
+   +---------------+---------------+---------------+----------------+----------------+
+   |               |               |               |                |                |
+  CTO /         COO / VP        CFO          CCO / VP Sales      GC / Export      Chief of
+  Chief         Manufacturing   |            and Capture         Compliance       Staff /
+  Engineer      |               |            |                   |                PMO
+  |             |               |            |                   |                |
+  +-VP Platform |+-Production   +-FP&A       +-Capture leads     +-Export-control +-Programme
+  | Engineering ||  Engineering |+-Treasury  |  (MoD, Navy, Air, |  officer (ITAR/|  managers
+  | |           ||+-Quality (AS |  / BG desk |   Army, Exports)  |  EAR/SCOMET)   |  by product
+  | +-M1 Radio  || 9100, CMMI)  |+-Controller+-Bid and Proposal  +-Contracts /    |
+  | +-M2 DSP    |+-Supply Chain |+-Tax /     +-Customer Success  |  legal counsel +-Security
+  | +-M3 SysEng |+-Contract Mfg ||  Statutory|  (field reps      +-IP / patent    |  /
+  | +-M4 Embed  ||  partnerships||           |  embedded in      |  counsel       |  classified
+  | +-M5 AI/ML  ||              ||           |  squads)          |                |  programmes
+  |             ||              ||           |                   |                |  firewall
+  +-VP Product  ||              ||           |                   |                |
+    +-V2 ESM    ||              ||           |                   |                |
+    +-V6 Mil AI ||              ||           |                   |                |
+    +-V1 AESA   ||              ||           |                   |                |
+    +-V3 C-UAS  ||              ||           |                   |                |
+    +-V5 AUV/USV||              ||           |                   |                |
+    +-V4 MALE   ||              ||           |                   |                |
+               ||
+               |+-Contract-manufacturing partners (qualified panel; 30-40% of unit
                |  volumes for V1, V3, V5 hardware lines - source section 9.5)
 ```
 
@@ -1230,40 +1155,40 @@ In Year 2, the V4 MALE squad is in research, V5 AUV/USV in development, V1 AESA 
 ### B.2 Year-10 organisation chart (~543 headcount)
 
 ```
-                            Board of Directors    
-                                   |    
-                                  CEO    
-                                   |    
-   +-----------+-----------+-----------+-----------+-----------+-----------+    
-   |           |           |           |           |           |           |    
-  CTO /      COO / VP    CFO       CCO / VP    GC / Export   CISO        Chief of    
-  Chief      Mfg                   Sales,      Compliance    (CMMC L3,   Staff /    
-  Engineer                         Capture                   ISO 27001)  PMO    
-  |          |           |         and Export  |             |           |    
-  |          |           |         |           |             |           |    
-  +-VP       +-Production+-FP&A    +-MoD       +-Export-      +-Cyber    +-Programme    
-  | Platform | Engineering         | Capture   | control       defense   | Mgmt    
-  | Eng      +-Quality   +-Treasury+-Allied    | (ITAR/EAR/   +-Insider   | (MoD,    
-  | (~80)    | (AS9100,  | / BG    | Exports   | SCOMET, FMS, threat     | exports,    
-  |          |  CMMI L3) | / cash  | (per      | DCS)         +-Supply-  | classified)    
-  +-M1 Radio +-Supply    | mgmt    | region)   +-Contracts    | chain    |    
-  +-M2 DSP   | Chain     +-        +-Customer  | (MoD DAP,    | cyber    +-Security    
-  +-M3 SysEng+-Owned     | Controll| Success   | offset)      +-AI model | / classified    
-  +-M4 Embed | facilities+-Tax,    | (field    +-IP / patent  | red-team | programmes    
-  +-M5 AI/ML | (anechoic | statutor| service,  | (60+         |          | firewall    
-  |          | / EMI /   | / Ind AS| installed | filings)     |          |    
-  +-VP       | cleanroom | 38      | base      +-Ethics /     |          |    
-  | Product  | / SMT /   | R&D     | support)  | Responsible  |          |    
-  | (~220)   | UAS hangar| capn)   +-Bid /     | Use officer  |          |    
-  |          | / maritime|         | Proposal  |              |          |    
-  +-V1 AESA  | test tank)|         |           |              |          |    
-  +-V2 ESM   +-Contract  |         |           |              |          |    
-  +-V3 C-UAS | Mfg       |         |           |              |          |    
-  +-V4 MALE  | panel     |         |           |              |          |    
-  +-V5 AUV/  | (cleared, |         |           |              |          |    
-  |   USV    | 30-40%    |         |           |              |          |    
-  +-V6 Mil AI| absorption|         |           |              |          |    
-            |  on V1,V3,|    
+                            Board of Directors
+                                   |
+                                  CEO
+                                   |
+   +-----------+-----------+-----------+-----------+-----------+-----------+
+   |           |           |           |           |           |           |
+  CTO /      COO / VP    CFO       CCO / VP    GC / Export   CISO        Chief of
+  Chief      Mfg                   Sales,      Compliance    (CMMC L3,   Staff /
+  Engineer                         Capture                   ISO 27001)  PMO
+  |          |           |         and Export  |             |           |
+  |          |           |         |           |             |           |
+  +-VP       +-Production+-FP&A    +-MoD       +-Export-      +-Cyber    +-Programme
+  | Platform | Engineering         | Capture   | control       defense   | Mgmt
+  | Eng      +-Quality   +-Treasury+-Allied    | (ITAR/EAR/   +-Insider   | (MoD,
+  | (~80)    | (AS9100,  | / BG    | Exports   | SCOMET, FMS, threat     | exports,
+  |          |  CMMI L3) | / cash  | (per      | DCS)         +-Supply-  | classified)
+  +-M1 Radio +-Supply    | mgmt    | region)   +-Contracts    | chain    |
+  +-M2 DSP   | Chain     +-        +-Customer  | (MoD DAP,    | cyber    +-Security
+  +-M3 SysEng+-Owned     | Controll| Success   | offset)      +-AI model | / classified
+  +-M4 Embed | facilities+-Tax,    | (field    +-IP / patent  | red-team | programmes
+  +-M5 AI/ML | (anechoic | statutor| service,  | (60+         |          | firewall
+  |          | / EMI /   | / Ind AS| installed | filings)     |          |
+  +-VP       | cleanroom | 38      | base      +-Ethics /     |          |
+  | Product  | / SMT /   | R&D     | support)  | Responsible  |          |
+  | (~220)   | UAS hangar| capn)   +-Bid /     | Use officer  |          |
+  |          | / maritime|         | Proposal  |              |          |
+  +-V1 AESA  | test tank)|         |           |              |          |
+  +-V2 ESM   +-Contract  |         |           |              |          |
+  +-V3 C-UAS | Mfg       |         |           |              |          |
+  +-V4 MALE  | panel     |         |           |              |          |
+  +-V5 AUV/  | (cleared, |         |           |              |          |
+  |   USV    | 30-40%    |         |           |              |          |
+  +-V6 Mil AI| absorption|         |           |              |          |
+            |  on V1,V3,|
             |  V5)
 ```
 
@@ -1281,7 +1206,6 @@ A typical product squad blends platform-consumer engineering with product-specif
 | V4 MALE UAS | 10-14 (research) | 60-70 | Airframe and avionics (8-10), embedded SW DO-178C (4-5), DO-254 HW (2-3), AI/autonomy (3-4), payload integration (3-4), flight test (3-4), product lead (1), field rep (2) |
 | V5 AUV/USV | 8-12 | 35-45 | Mechanical / hull (2-3), embedded SW (2-3), AI/autonomy (3-5), systems (2-3), test (2-3), product lead (1), field rep (1-2) |
 | V6 Military AI | 12-16 | 40-50 | AI/ML engineers (6-8), sensor-fusion (3-4), MLOps (2-3), software engineering (3-4), product lead (1), customer-success (2-3) |
-
 
 Every squad includes a **product lead** (a single accountable owner, comparable to a commercial-tech product manager but with defense domain depth) and at least one **customer-success / field representative** embedded with the squad. The field rep closes the loop between deployed-product behaviour and the next release, replacing the classical "engineering throws over the wall to field service" pattern at legacy primes.
 
@@ -1304,7 +1228,6 @@ The facilities plan tracks source section 9.6 (Rs.~600 Cr cumulative capex, weig
 | Maritime test tank | n/a | n/a | n/a | Owned (commissioned) | Owned | V5 AUV/USV |
 | Mission-software dev / cybersecurity SCIF-equivalent | Owned (low capex) | Owned | Owned, expanded | Owned | Owned | V6, all software-led work |
 
-
 This footprint preserves capital in Years 1-2 (combined gross capex ~Rs.103 Cr per source section 14) and invests in owned infrastructure only after the product mix justifies it. Each owned facility is justified against a specific qualification or production bottleneck observed in the prior 12 months.
 
 ## E. Supply Chain and Manufacturing
@@ -1314,11 +1237,8 @@ The supply chain is engineered around two structural realities of Indian defense
 **Source mitigation timeline.**
 
 - **GaN power amplifiers and packaging.** Year 1-2 single-source on tier-1 international suppliers. Partial in-house GaN packaging capability stood up by Year 2 (source section 11). Second-source qualified by Year 3. Strategic stock buffer of ~6 months on critical GaN dice.
-
 - **FPGAs (Xilinx/AMD, Altera/Intel, Microchip).** Multi-source by design wherever the design tools permit dual targets. Strategic stock buffer of ~9 months on lead FPGA families used in M2 Signal Processing pipelines, reflecting the post-2021 FPGA allocation lessons.
-
 - **RF connectors, cables, passive components.** Multi-source from Day 1; Indian-domestic substitution wherever MoD positive-indigenisation lists require it.
-
 - **Mechanical, structural, hull, airframe.** Indian-domestic by default. Specialised aerospace composites for V4 MALE qualified through 2-3 Indian aerospace tier-2 partners.
 
 **Contract manufacturing.** 30-40% of unit volumes on V1 AESA, V3 Counter-drone and V5 AUV/USV hardware lines are absorbed through a panel of qualified contract manufacturers (source section 9.5). These partners are cleared at the level appropriate to their workscope, audited annually, and held to AS9100 and the relevant MIL-STD environmental tests. The cleared-supplier panel is a controlled list maintained by Supply Chain with sign-off from GC/Export Compliance and CISO.
@@ -1326,31 +1246,21 @@ The supply chain is engineered around two structural realities of Indian defense
 **Cleared-supplier panel governance.**
 
 - Annual cyber-hygiene audit (CMMC-L3-aligned for suppliers touching controlled data).
-
 - Conflict-minerals declaration on every tier-1 supplier (ESG control).
-
 - Dual-use export classification recorded for every part above a materiality threshold.
-
 - Strategic stock policy reviewed quarterly by the Risk and Compliance committee.
 
 ## F. Talent Pipeline
 
-Cleared-engineer scarcity in India is a structural risk (source section 11).
+Cleared-engineer scarcity in India is a structural risk (source section 11). Mitigations:
 
-Mitigations:
-
-**University partnerships.** Suggested 4-6 anchor institutions:
+**University partnerships.** Suggested 4-6 anchor institutions (Analyst suggestion):
 
 - IIT Madras (RF, signal processing, control systems)
-
 - IIT Bombay (radio, communications, embedded systems)
-
 - IIT Kanpur (aerospace, control, AI)
-
 - IISc Bengaluru (AI/ML, autonomy, systems engineering)
-
 - IIIT Hyderabad (AI/ML, computer vision, robotics)
-
 - BITS Pilani (electronics, software)
 
 Each partnership operates a mix of: (a) sponsored MTech/PhD theses on platform-relevant problems, (b) summer internship pipelines, (c) endowed lab equipment in exchange for first-look hiring, (d) joint publication and patent rights, (e) a cleared-track onboarding programme that converts interns into Year-1 hires.
@@ -1361,11 +1271,19 @@ Each partnership operates a mix of: (a) sponsored MTech/PhD theses on platform-r
 
 **Cleared-workforce moat.** Section 3 of the source plan names "cleared workforce" as the first item in the defensible moat. Operationally, this means a clearance pipeline (background verification, programme-specific access) that is started 6-9 months before need, an internal clearance-tracking system as part of the Programme Management Office's classified-programme firewall, and a deliberate over-hiring buffer on cleared roles.
 
+
+---
+
+<!-- page-break -->
+
 # 08. Risk Register
+
+*Nitrodynamics Investor Plan - Section 8*
+*Date: 2026-05-17*
 
 ## 8.1 Approach
 
-This register expands the seven-item summary in source section 11 into a controls-grade risk inventory covering strategic, programmatic, financial, supply-chain, talent, compliance, cyber, reputational and macroeconomic categories. Inherent ratings are scored before mitigation; residual ratings reflect the assessed post-mitigation position assuming controls operate as designed. Ratings are qualitative (High / Medium / Low) using a standard 3x3 likelihood-impact convention, consistent with COSO ERM  (Committee of Sponsoring Organizations of the Treadway Commission Enterprise Risk management) practice.
+This register expands the seven-item summary in source section 11 into a controls-grade risk inventory covering strategic, programmatic, financial, supply-chain, talent, compliance, cyber, reputational and macroeconomic categories. Inherent ratings are scored before mitigation; residual ratings reflect the assessed post-mitigation position assuming controls operate as designed. Ratings are qualitative (High / Medium / Low) using a standard 3x3 likelihood-impact convention, consistent with COSO ERM practice.
 
 Ownership is assigned at officer level. Quarterly review by the Risk and Compliance Committee of the Board (see section 9.A) is mandatory; the top-quartile residual risks are reviewed monthly by the Executive Risk Forum chaired by the CEO.
 
@@ -1408,7 +1326,6 @@ Ownership is assigned at officer level. Quarterly review by the Risk and Complia
 | R-M-02 | Macroeconomic | Interest-rate rise on the Rs.200 Cr debt stack (8% per annum base, repayment Y5-Y9 per source section 10) | Medium | Medium | Fixed-rate term loans where available; staggered repayment schedule; pre-payment optionality preserved; debt fully repaid by Y9 limits exposure window | Low-Medium | CFO / Treasury |
 | R-M-03 | Macroeconomic | Indian defense-budget cyclicality (capital outlay compression in fiscal-stress years) | Medium | High | Six-product diversification spreads exposure across services; export pipeline from Y2-Y4; backlog of ~Rs.16,680 Cr by Y10 provides multi-year forward visibility (source section 1) | Medium | CCO / CFO |
 
-
 ## 8.3 Top 5 Residual Risks
 
 The five most material residual risks at this stage of the plan, in order of post-mitigation severity, are as follows. Each is reviewed monthly by the Executive Risk Forum.
@@ -1423,7 +1340,15 @@ The five most material residual risks at this stage of the plan, in order of pos
 
 **5. R-SC-01 - GaN single-source exposure (Medium residual, monitored as a near-term threat).** GaN packaging concentration globally is a structural condition, not a Nitrodynamics-specific issue. A geopolitical or commercial supply disruption could compress AESA and ESM production. Second-source qualification by Year 3 and partial in-house packaging from Year 2 reduce inherent severity, but the residual remains under monthly Executive Risk Forum review given the cross-product impact.
 
+
+---
+
+<!-- page-break -->
+
 # 09. Governance, Compliance and IP
+
+*Nitrodynamics Investor Plan - Section 9*
+*Date: 2026-05-17*
 
 ## A. Board Composition
 
@@ -1435,17 +1360,13 @@ The proposed board is sized to balance founder execution authority, investor ove
 | Post-Series A (Y2) | 1 | 2 | 2 | 2 | 7 |
 | Post-Series B (Y3 onward) | 1 | 2 | 3 | 2 | 8 |
 
-
 The composition principle is that investor seats track capital materially deployed (one per major round, capped at three), independent directors with defense or government provenance maintain technical and policy credibility, and the Independent Chair is a non-investor non-founder convenor. The aim is a board that is small enough to debate, large enough to staff committees, and weighted to independent judgement on programme and compliance risk.
 
 **Board Committees** (chartered post-Series A, formalised post-Series B):
 
 - **Audit Committee** - majority independent, chaired by an independent director with finance / Big Four background. Oversees external audit, Ind AS compliance (including Ind AS 38 R&D capitalisation per source section 9.3), internal controls, statutory reporting, related-party transactions, and whistleblower mechanism. Meets quarterly.
-
 - **Nomination and Remuneration Committee** - majority independent. Oversees executive compensation, equity grants, succession planning for C-level and module-lead roles, board composition recommendations. Meets at least twice yearly.
-
 - **Risk and Compliance Committee** - chaired by an independent director with defense / government background. Oversees the risk register (section 8), ITAR/EAR, SCOMET, CMMC L3 posture, IP, ESG and Responsible-Use policies, and material legal exposure. Meets quarterly.
-
 - **Programme and Technical Advisory Committee** - chaired by an independent director with defense engineering or operations background. Oversees platform roadmap (M1-M5), product qualification milestones (V1-V6), DO-178C / DO-254 certification pathway for V4, and major NRE commitments above a delegated authority threshold. Meets quarterly with technical deep-dives.
 
 Director independence is tested annually against an explicit policy (no material commercial relationship, no past employment within 3 years, no related-party). The Independent Chair has a casting vote in tied resolutions.
@@ -1457,7 +1378,6 @@ Compliance is a structural cost of being a defense prime, not an overhead to min
 ### B.1 Quality
 
 - **AS9100 Rev D** - aerospace quality management. Required for any tier-1 or tier-2 position on Indian and allied aerospace programmes. Annual surveillance audits; full recertification triennially.
-
 - **CMMI Level 3** - software development process maturity. Required for credible delivery on classified software workstreams and for export to US/UK FMS-aligned customers.
 
 Combined annual cost: **Rs.8.55 Cr** (source section 9.3).
@@ -1465,11 +1385,8 @@ Combined annual cost: **Rs.8.55 Cr** (source section 9.3).
 ### B.2 Cybersecurity
 
 - **CMMC Level 3** - US DoD baseline for contractors handling Controlled Unclassified Information. Adopted as the most demanding standard so that FMS-aligned exports are not gated on a separate uplift later (source section 12). Annual cost: **Rs.14.25 Cr** (source section 9.3).
-
 - **ISO/IEC 27001** alignment as the global commercial baseline, harmonised with CMMC controls to avoid duplicated effort.
-
 - Continuous-monitoring tooling (SIEM, EDR, controlled-data DLP) under the CISO from Y2 onward.
-
 - Annual third-party penetration test on production and corporate networks; internal red-team programme by Y3.
 
 ### B.3 Hardware Test Standards
@@ -1477,11 +1394,8 @@ Combined annual cost: **Rs.8.55 Cr** (source section 9.3).
 The M3 Systems Engineering module owns the test framework that covers every hardware product:
 
 - **MIL-STD-810** - environmental stress (temperature, humidity, vibration, shock, altitude).
-
 - **MIL-STD-461** - electromagnetic interference and electromagnetic compatibility (EMI/EMC).
-
 - **MIL-STD-704** - aircraft electrical power characteristics (applies to V1 airborne variants and V4).
-
 - **MIL-STD-1275** - vehicle electrical power characteristics (applies to V3 vehicle-mounted, V2 land variants).
 
 Equivalent Indian standards (JSS 55555, JSS 50101) are mapped in parallel for MoD acceptance.
@@ -1489,19 +1403,14 @@ Equivalent Indian standards (JSS 55555, JSS 50101) are mapped in parallel for Mo
 ### B.4 Airworthiness
 
 - **DO-178C** - software considerations in airborne systems. Applied to V4 MALE mission software and any airborne variant of V1 or V6. Design Assurance Levels are partitioned by function so safety-critical code is contained in a smaller, more rigorously qualified footprint.
-
 - **DO-254** - design assurance for airborne electronic hardware. Applied to V4 FPGA and complex-electronic-hardware items.
-
 - **Type certification** via DGCA (India) for V4, with an early-stage Designated Engineering Representative (DER) plan executed from Y2.
 
 ### B.5 Export Control
 
 - **ITAR / EAR baseline.** Every product is assessed at design intake for jurisdiction (ITAR vs EAR) and classification (USML category vs ECCN). The default architecture is ITAR-clean by deliberate design choice on critical paths, with US-origin items either substituted or contained in optional variants.
-
 - **EAR99 variants from Day 1** for V2, V3 and V6 where commercially feasible (source section 11). These are the broadest-export variants and underwrite the allied-government export pipeline.
-
 - **Indian SCOMET classification.** Every export build is mapped to the Special Chemicals, Organisms, Materials, Equipment and Technologies list maintained by the Directorate General of Foreign Trade. Export authorisations are tracked in a single system of record under GC.
-
 - **Offset compliance.** Indian offset obligations on imported-content contracts are tracked by an offset officer within the Capture team; offset commitments are baked into sales-and-marketing budgets (source section 12).
 
 ### B.6 Compliance Cost Summary
@@ -1513,25 +1422,17 @@ Equivalent Indian standards (JSS 55555, JSS 50101) are mapped in parallel for Mo
 | Export control (baseline) | 2.00 starting | Source section 9.3, rising over time |
 | Programme-specific certification (MIL-STD test campaigns, DO-178C/DO-254 evidence packs) | Variable | Allocated to product NRE |
 
-
 ## C. Indian Regulatory Map
 
 The Indian defense regulatory environment is the firm's primary operating context. Key reference points:
 
 - **Defence Acquisition Procedure (DAP 2020 and subsequent amendments).** Governs the MoD procurement cycle. Nitrodynamics is positioned principally under the "Buy (Indian-IDDM)" and "Make-II" categories of DAP, where indigenous design and minimum 50% local content qualify products for preferential procurement.
-
 - **Positive Indigenisation Lists (PILs)** - four lists issued by the Department of Military Affairs (the latest in 2024) name items that must be sourced indigenously after a stated date. The Nitrodynamics product portfolio is deliberately aligned to multiple PIL items (ESM variants, certain radar classes, counter-drone, autonomous maritime).
-
 - **Defence Production and Export Promotion Policy (DPEPP) 2020.** Sets the policy target of USD 25 billion (Rs.~1.75 lakh Crore) defense industry turnover and Rs.50,000 Cr defense exports by 2028-29. This is the macro-policy umbrella under which Nitrodynamics's export ambition operates.
-
 - **iDEX (Innovations for Defence Excellence).** Eligibility for prototype grants and rapid-procurement pathways through the Defence Innovation Organisation. Treated as upside, not base case, per source section 10.
-
 - **TDF (Technology Development Fund).** DRDO-administered grants up to Rs.50 Cr per project for indigenous technology development. Eligible for selected M1/M2/M5 module workstreams. Upside only.
-
 - **Make-II.** Industry-funded indigenous-development pathway with assured MoD procurement on successful prototype. Eligible for several product lines. Upside only.
-
 - **FDI Cap.** Defense FDI is currently capped at 74% under the automatic route and 100% with government approval. The cap-table strategy preserves Indian-resident majority in the base plan, with headroom for non-resident strategic investors within policy limits.
-
 - **Industrial Licensing.** Defense industrial licence under the Industries (Development and Regulation) Act, with associated security clearances for premises, key managerial personnel and shareholding above thresholds.
 
 The DGFT, DGAQA (Directorate General of Aeronautical Quality Assurance), DGQA (Directorate General of Quality Assurance) and CEMILAC (Centre for Military Airworthiness and Certification) are the operating-level Indian counterparts engaged programme by programme.
@@ -1551,11 +1452,8 @@ The IP strategy operationalises the moat stack named in source section 3: "clear
 **Trade-secret protection.** AI model weights, training data, FPGA bitstream firmware, and proprietary calibration data are treated as trade secrets rather than patents because publication via the patent route would erode the moat. Trade-secret controls:
 
 - Identification register of trade-secret assets per module, owned by the IP counsel within GC.
-
 - Access on need-to-know within the classified-programme firewall.
-
 - Departing-employee processes including exit interviews, return-of-materials, and post-employment restrictive covenants where enforceable.
-
 - Watermarking and code-fingerprinting on AI weights to enable forensic provenance in disputes.
 
 **Cleared workforce as the third leg of the moat.** The combination of GPR-default contracting, platform IP retention and a cleared workforce that cannot trivially move between defense employers produces a structurally durable competitive position even where individual patents lapse or are invented around.
@@ -1565,15 +1463,10 @@ The IP strategy operationalises the moat stack named in source section 3: "clear
 Defense companies face heightened ESG scrutiny on the use of force, end-user diversion, and supply-chain provenance. Nitrodynamics's posture is published, audited and reflected at board level through the Risk and Compliance Committee.
 
 - **Lethal-autonomy guardrails.** Hard-kill effectors (V3 CUAS-B / CUAS-C hard-kill variants, V4 strike, V5 anti-submarine AUV) operate strictly with **human on the loop** for lethal engagement decisions by design. The mission-computer architecture (M4) records an immutable audit trail of operator decisions on lethal action.
-
 - **End-user policy.** No sales to end-users on the MEA (Ministry of External Affairs) restricted-country list. End-user certifications are mandatory on every export build, with post-shipment verification protocols.
-
 - **AI-decision audit trail.** Every AI-assisted recommendation in V6 sensor-fusion and autonomy decisions is logged with model version, training-data fingerprint and operator override, satisfying both internal Responsible-Use review and customer audit requests.
-
 - **Supply-chain conflict minerals.** Annual conflict-minerals declaration on every tier-1 supplier, with escalation on red-flag findings.
-
 - **Environmental compliance** on owned facilities (cleanroom, SMT, GaN packaging) under Indian environmental law and ISO 14001 alignment from Y4.
-
 - **Responsible-Use Officer** within GC from Y5, reporting jointly to GC and to the Risk and Compliance Committee.
 
 ## F. Internal Controls and Reporting
@@ -1583,32 +1476,31 @@ The internal control system is COSO-aligned and tailored to defense-programme re
 **Cadence of management review.**
 
 - **Monthly Programme Reviews.** Each product squad (V1-V6) and each platform module (M1-M5) reports earned-value, qualification milestone status, supplier health, top risks and BG / cash exposure. Chaired by CEO with CTO, COO, CFO present.
-
 - **Monthly Executive Risk Forum.** Top-quartile residual risks (section 8) reviewed; cross-functional mitigations tracked to closure.
-
 - **Monthly Liquidity Review.** CFO with Treasury - BG outstanding, restricted cash, working capital, debt service, FX cover position.
-
 - **Quarterly Audit Committee.** External audit, financial controls, Ind AS compliance (including Ind AS 38 R&D capitalisation), related-party, whistleblower.
-
 - **Quarterly Risk and Compliance Committee.** ITAR/EAR, SCOMET, CMMC L3, IP, ESG, Responsible Use.
-
 - **Quarterly Programme and Technical Advisory Committee.** Platform roadmap, V4 certification pathway, NRE above delegated authority.
 
 **Specific control mechanisms.**
 
 - **BG and PBG tracking.** Single system of record for all bank guarantees (Performance and Advance), with weekly reconciliation to the issuing-bank confirmations and monthly to the balance sheet. Collateral schedule tracked against source section 9.4 (100% Y1-Y2, declining to 20% Y5+).
-
 - **Classified-programme firewall.** Physical, logical and personnel separation between classified and unclassified workstreams. Access lists owned by the Chief of Staff / PMO with quarterly attestation.
-
 - **Delegated authority matrix.** Spend, contract, hiring and equity authorities delegated from board to CEO and onward with explicit thresholds. NRE commitments above a board-defined threshold escalate to the Programme and Technical Advisory Committee.
-
 - **Whistleblower channel.** Independent third-party-administered channel reporting to the Audit Committee Chair.
-
 - **Internal Audit.** Stood up by Y3, reporting administratively to CFO and functionally to the Audit Committee. Annual rolling-three-year internal audit plan covering programme, financial, compliance and cyber controls.
 
 The reporting data lineage runs from programme systems (earned value, supplier, quality, qualification) through finance (general ledger, Ind AS) to board packs, with auditable mapping at every step. This lineage is itself subject to internal audit review at least biennially.
 
+
+---
+
+<!-- page-break -->
+
 # 10. KPIs and Appendix
+
+*Nitrodynamics Investor Plan - Section 10*
+*Date: 2026-05-17*
 
 ## A. KPI Dashboard Design
 
@@ -1621,9 +1513,8 @@ The KPIs listed in source section 13 are organised here into four tiers - Growth
 | Revenue | Billed revenue, Ind AS recognised | Rs.~53 Cr | Rs.~1,448 Cr | Rs.~5,055 Cr | Monthly |
 | YoY revenue growth | Year-on-year revenue % | n/a | 69% (Y5/Y4) | 15% (Y10/Y9) | Quarterly |
 | Closing backlog | Signed orders not yet delivered | Analyst assumption: ~Rs.180 Cr (carry of Rs.105 Cr opening plus Y1 wins minus Y1 deliveries) | Analyst assumption: ~Rs.5,000-6,000 Cr | Rs.~16,680 Cr | Monthly |
-| Book-to-bill | Orders won in period / revenue billed in period | \>1.5x | \>1.5x | ~1.2-1.3x (steady-state) | Quarterly |
+| Book-to-bill | Orders won in period / revenue billed in period | >1.5x | >1.5x | ~1.2-1.3x (steady-state) | Quarterly |
 | Export revenue % | Export billings / total revenue | 0% | Analyst assumption: 15-20% (material from Y4-Y5) | Analyst assumption: 25-30% | Quarterly |
-
 
 ### Tier 2 - Profitability
 
@@ -1636,19 +1527,17 @@ The KPIs listed in source section 13 are organised here into four tiers - Growth
 | Free Cash Flow | Operating cash less capex and net working capital movement | Negative | Positive (FCF crosses positive in Y4 per source section 1) | Materially positive | Monthly |
 | Cumulative FCF | Sum of FCF Y1 to year | Negative | Negative-to-breakeven | Rs.~4,803 Cr | Monthly |
 
-
 ### Tier 3 - Capital Efficiency
 
 | KPI | Definition | Y1 Target | Y5 Target | Y10 Target | Frequency |
 | - | - | - | - | - | - |
 | ROIC | NOPAT / Invested Capital | Negative | Analyst assumption: 15-20% | Analyst assumption: 35-45% | Quarterly |
 | NWC / Revenue | Net working capital / annualised revenue | ~62% (per source section 9.4 cash-conversion arithmetic) | ~55-60% (declining as exports faster-paying) | ~45-50% | Monthly |
-| Current ratio | Current assets / current liabilities | \>1.5x | \>1.8x | \>2.0x | Monthly |
+| Current ratio | Current assets / current liabilities | >1.5x | >1.8x | >2.0x | Monthly |
 | Debt / Equity | Total debt / total equity | Rs.20 Cr / Rs.450 Cr seed = 0.04x | Analyst assumption: 0.15-0.20x (peak debt Y3-Y4) | 0x (debt fully repaid by Y9 per source section 10) | Quarterly |
 | BG outstanding | Total Performance + Advance Bank Guarantees | Analyst assumption: Rs.~25-30 Cr (covers Rs.18.76 Cr Y1 ABG plus initial PBG) | Analyst assumption: Rs.~150-200 Cr | Analyst assumption: Rs.~500 Cr (PBG ~3% of Rs.16,680 Cr backlog) | Monthly |
 | Restricted cash | Cash held as BG collateral | Equal to BG outstanding (100% Y1) | 20% of BG outstanding (per Y5+ schedule) | 20% of BG outstanding | Monthly |
 | Cash conversion cycle | Inventory days + DSO - DPO | ~225 days (source section 9.4) | Analyst assumption: ~200 days | Analyst assumption: ~180 days | Monthly |
-
 
 ### Tier 4 - Engineering and Platform
 
@@ -1656,11 +1545,10 @@ The KPIs listed in source section 13 are organised here into four tiers - Growth
 | - | - | - | - | - | - |
 | Platform reuse % (per module) | Share of a new product variant inherited from already-qualified M1-M5 modules | 25-60% | 80-90% (source section 2) | 97-99% (source section 6 and 14) | Quarterly |
 | NRE avoided (counterfactual) | Cumulative platform-reuse savings vs hypothetical standalone build of each product | Analyst assumption: ~Rs.50-80 Cr | Analyst assumption: ~Rs.500-600 Cr | ~Rs.994 Cr (source section 2) | Annual |
-| R&D as % of revenue | Total R&D spend (expense + capitalised) / Revenue | Very high (\>100% in Y1 - Seed funds platform pre-revenue) | Analyst assumption: 18-25% | Analyst assumption: 10-12% | Quarterly |
+| R&D as % of revenue | Total R&D spend (expense + capitalised) / Revenue | Very high (>100% in Y1 - Seed funds platform pre-revenue) | Analyst assumption: 18-25% | Analyst assumption: 10-12% | Quarterly |
 | On-time qualification % | Modules and products passing qualification gates on schedule | Analyst assumption: 70% | Analyst assumption: 85% | Analyst assumption: 90%+ | Quarterly |
-| Revenue per employee (RPE) | Revenue / Total headcount | Rs.~~53 Cr / 91 = Rs.~~0.58 Cr | Analyst assumption: Rs.~1,448 Cr / ~360 = ~Rs.4.0 Cr | Rs.~~5,055 Cr / 543 = Rs.~~9.3 Cr | Quarterly |
+| Revenue per employee (RPE) | Revenue / Total headcount | Rs.~53 Cr / 91 = Rs.~0.58 Cr | Analyst assumption: Rs.~1,448 Cr / ~360 = ~Rs.4.0 Cr | Rs.~5,055 Cr / 543 = Rs.~9.3 Cr | Quarterly |
 | Unit cost vs Wright curve | Actual unit cost / Wright's-Law projected unit cost (0.92 learning factor, floor 70%) | Tracking | Tracking | Tracking, with variance explained | Annual (per product line) |
-
 
 ## B. Reporting Cadence
 
@@ -1674,12 +1562,11 @@ The KPIs listed in source section 13 are organised here into four tiers - Growth
 | Investors (annual letter) | Annual | KPI rollup vs plan, key decisions, capital plan, risks, outlook | CEO |
 | Lenders (BG-issuing banks, term-loan banks) | Quarterly | Covenant compliance, BG-collateral position, debt-service projection | CFO / Treasury |
 
-
 **Data lineage.** Programme systems (earned value, supplier health, quality, qualification milestones) feed a single management data warehouse. Finance (general ledger, Ind AS adjustments including section 9.3 R&D capitalisation under Ind AS 38) feeds the same warehouse with reconciliation. Board packs and investor letters are generated from this single source of truth, with auditable mapping. Internal Audit reviews the lineage at least biennially.
 
-C. Appendix A - Market Sizing References
+## C. Appendix A - Market Sizing References
 
-Figures are widely reported industry estimates used to validate the addressable markets; Nitrodynamics revenue projections come from the company's own model and these are external context only.
+Reproduced from source Appendix A. Figures are widely reported industry estimates used to validate the addressable markets; Nitrodynamics revenue projections come from the company's own model and these are external context only.
 
 | Segment | Approx global market size | Approx growth rate | Primary sources cited in industry coverage |
 | - | - | - | - |
@@ -1690,108 +1577,67 @@ Figures are widely reported industry estimates used to validate the addressable 
 | Unmanned maritime | USD 2.5-3.5 bn / yr | 12-15% CAGR | Mordor Intelligence, Janes |
 | Defense AI software | USD 8-12 bn / yr today, ~3x by 2030 | 20%+ CAGR | Various, including Palantir and Anduril public disclosures as reference points |
 
-
 **India context.** India's defense capital outlay for 2024-25 is approximately Rs.1.7 lakh Crore. Policy direction (Atmanirbhar Bharat, Positive Indigenisation Lists, DPEPP 2020) prioritises domestic suppliers in exactly the segments listed above. The Government of India target: Rs.50,000 Crore in annual defense exports by 2028-29.
 
-D. Appendix B - Glossary
+## D. Appendix B - Glossary
 
-# Defense and Military
+Tightened and reformatted from source Appendix B.
+
+### Defense and Military
 
 - **C4ISR.** Command, Control, Communications, Computers, Intelligence, Surveillance, Reconnaissance.
-
 - **RF (Radio Frequency).** Electronics that transmit and receive radio waves. Underpins radar, jammers, signal interceptors.
-
 - **DSP (Digital Signal Processing).** Software and chips that turn raw radio signals into target tracks, decoded messages or jamming waveforms.
-
 - **AESA.** Active Electronically Scanned Array radar. Electronically steered beam; faster, more reliable, harder to jam than mechanical radars.
-
 - **EW.** Electronic Warfare. Use of the radio spectrum to detect, jam or deceive enemy emitters.
-
 - **ESM.** Electronic Support Measures. The passive listening half of EW.
-
 - **ELINT / SIGINT.** Electronic / Signals Intelligence. Strategic collection and analysis of foreign emissions.
-
 - **C-UAS.** Counter Unmanned Aerial Systems. Detection, tracking and defeat of hostile drones.
-
 - **MALE UAS.** Medium Altitude Long Endurance Unmanned Aerial System. Large surveillance or strike drone (MQ-9 Reaper, Bayraktar Akinci class).
-
 - **AUV / USV.** Autonomous Underwater Vehicle / Unmanned Surface Vessel.
-
 - **Mission computer.** Ruggedised onboard computer running sensors, navigation, weapons and communications software.
-
 - **MOSA / FACE.** Modular Open Systems Approach / Future Airborne Capability Environment. US DoD open-architecture standards.
-
 - **MIL-STD-810 / 461 / 704 / 1275.** Environmental stress, EMI, aircraft power, vehicle power.
-
 - **DO-178C / DO-254.** Airworthiness for software and complex electronic hardware.
-
 - **AS9100 / CMMI L3.** Aerospace quality and software-process maturity standards.
-
 - **CMMC L3.** US DoD cybersecurity baseline for contractors handling Controlled Unclassified Information.
-
 - **ITAR / EAR / EAR99.** US export controls; EAR99 is the broadest, least-restrictive category.
-
 - **FMS / DCS.** Foreign Military Sales / Direct Commercial Sales (US export channels; concept applies to analogous Indian routes).
-
 - **SCOMET.** Special Chemicals, Organisms, Materials, Equipment and Technologies. Indian export-control list under DGFT.
-
 - **iDEX / TDF / Make-II.** Indian government programmes for defense innovation grants, technology development, and indigenous production.
-
 - **GaN.** Gallium Nitride. Semiconductor for modern high-power radar and EW transmitters. Limited Indian packaging capacity, strategic supply-chain item.
-
 - **DPEPP 2020.** Defence Production and Export Promotion Policy 2020.
-
 - **DAP / DPP.** Defence Acquisition Procedure / Defence Procurement Procedure. Indian MoD procurement rulebook.
-
 - **CEMILAC.** Centre for Military Airworthiness and Certification (India).
-
 - **DGAQA / DGQA.** Indian quality assurance directorates (aeronautical / general).
 
-# Finance and Business
+### Finance and Business
 
 - **NRE.** Non-Recurring Engineering. One-off design and qualification cost before any units are sold.
-
 - **BoM.** Bill of Materials. Direct material cost per finished unit.
-
 - **Gross Margin (GM).** (Revenue - direct production cost) / Revenue.
-
 - **EBITDA.** Earnings Before Interest, Tax, Depreciation and Amortisation. Operating cash proxy.
-
 - **FCF.** Free Cash Flow. Cash after operating cost, tax, capex and working capital.
-
 - **IRR.** Internal Rate of Return. Annualised compound return implied by a cash-flow stream.
-
 - **NPV.** Net Present Value. Present value of future cash flows after discounting.
-
 - **WACC.** Weighted Average Cost of Capital. Blended return required by all capital providers.
-
 - **DSO / DPO.** Days Sales Outstanding / Days Payable Outstanding.
-
 - **Cash conversion cycle.** Inventory days + DSO - DPO.
-
 - **BG / PBG / ABG.** Bank Guarantee / Performance BG / Advance BG. Bank promises to the customer; tie up bank credit and collateral.
-
 - **Contract Liability.** Customer advance for product not yet delivered. A balance-sheet liability under Ind AS 115.
-
 - **Backlog.** Signed orders not yet delivered. Leading indicator of revenue.
-
 - **Ind AS 38.** Indian Accounting Standard for intangible assets including internally generated R&D capitalisation.
-
 - **Ind AS 115.** Revenue from contracts with customers (controls long-cycle defense revenue recognition).
-
 - **Wright's Law.** Unit cost falls by a fixed percentage for every doubling of cumulative production. A 0.92 factor = 8% reduction per doubling.
-
 - **TReDS.** Trade Receivables Discounting System. RBI-regulated invoice-discounting platform; not available for MoD receivables.
-
 - **ROIC.** Return on Invested Capital. NOPAT / Invested Capital.
-
 - **GPR.** Government-Purpose Rights. Customer can use IP for governmental purposes; commercial rights retained by the contractor.
 
 ## E. Appendix C - Key Sensitivities and Assumptions Cheat Sheet
 
 Single-page reference card listing the top 20 modelling assumptions, base value, and source-of-truth in the source business plan.
 
-| \# | Assumption | Base Value | Source |
+| # | Assumption | Base Value | Source |
 | - | - | - | - |
 | 1 | Opening ESM order book at Day 1 | Rs.105 Cr | Source section 1 |
 | 2 | 10-year cumulative revenue | ~Rs.21,200 Cr | Source section 1 (Headline numbers) |
@@ -1824,30 +1670,27 @@ Single-page reference card listing the top 20 modelling assumptions, base value,
 | 29 | NPV of FCF at WACC | ~Rs.747 Cr | Source section 1 |
 | 30 | First positive EBITDA and FCF | Year 4 | Source section 1 |
 
-
 (The list runs to 30 entries to cover the financial, operational and capital-structure assumptions investors most often re-test in sensitivity analysis. Where a stakeholder asks for a "top 20", entries 1-20 are the recommended subset.)
 
 ## F. Appendix D - Document Index
 
-Files in /home/ap/Business Plans/investor\_plan/:
+Files in `/home/ap/Business Plans/investor_plan/`:
 
 | File | Section | Contents |
 | - | - | - |
-| 01\_executive\_summary.md | 1 | Headline thesis, 10-year economics, ask |
-| 07\_operating\_model.md | 7 | Org philosophy, org charts Y2 / Y10, squad composition, facilities, supply chain, talent |
-| 08\_risk\_register.md | 8 | 30+ risks across 9 categories with inherent and residual ratings; top 5 narrative |
-| 09\_governance\_compliance\_ip.md | 9 | Board, committees, compliance architecture, Indian regulatory map, IP and data rights, ESG, internal controls |
-| 10\_kpis\_and\_appendix.md | 10 | Four-tier KPI dashboard, reporting cadence, market sizing, glossary, sensitivities cheat sheet, document index |
+| `01_executive_summary.md` | 1 | Headline thesis, 10-year economics, ask |
+| `07_operating_model.md` | 7 | Org philosophy, org charts Y2 / Y10, squad composition, facilities, supply chain, talent |
+| `08_risk_register.md` | 8 | 30+ risks across 9 categories with inherent and residual ratings; top 5 narrative |
+| `09_governance_compliance_ip.md` | 9 | Board, committees, compliance architecture, Indian regulatory map, IP and data rights, ESG, internal controls |
+| `10_kpis_and_appendix.md` | 10 | Four-tier KPI dashboard, reporting cadence, market sizing, glossary, sensitivities cheat sheet, document index |
 
+Companion source documents in `/home/ap/Business Plans/`:
 
+| File | Contents |
+| - | - |
+| `Defense_Platform_Business_Plan.md` | Master source-of-truth narrative business plan |
+| `Defense_Platform_Business_Plan_INR_CORRECTED.xlsx` | Financial model (workbook) |
+| `Defense_Platform_Workbook_Explanation.md` | Workbook structure and assumptions guide |
+| `Defense_Platform_Diagrams.drawio` | Diagrams including `[Diagram 8: Operating Model Org]` |
 
-
-
-
-
-
-
-
-
-
-
+Sections 02 through 06 of the investor plan (Market, Product, Platform, Competitive Position, Financial Plan) are produced under separate cover and indexed alongside the files listed above when complete.

@@ -8,9 +8,9 @@ Engineer once, deploy everywhere. One platform, six product lines, four domains.
 
 ## The One-Page Investment Case
 
-Nitrodynamics is being built as India's first **platform-native defense prime**: a single shared engineering platform (radio, signal processing, systems engineering, embedded software, AI) industrialised into six product lines across air, land, sea and cyber. Unlike legacy primes that pay the full design bill on every programme, Nitrodynamics reuses qualified building blocks at compounding efficiency, lifting blended gross margin from 51% in Year 1 to ~67% by Year 10.
+Nitrodynamics is being built as India's **platform-native defense prime**: a single shared engineering platform (radio, signal processing, systems engineering, embedded software, AI) industrialised into six product lines across air, land, sea and cyber. Unlike legacy primes that pay the full design bill on every programme, Nitrodynamics reuses qualified building blocks at compounding efficiency, lifting blended gross margin from 51% in Year 1 to ~67% by Year 10.
 
-A part-developed Electronic Support Measures (ESM) line with an opening order book of **Rs.105 Cr** generates cash from Year 1, funding development of the remaining five lines without requiring incremental equity for every new product. The result is a defense business that ships at software-cycle cadence (12-24 months MVP) with hardware-grade durability.
+A part-developed Electronic Support Measures (ESM) line with a **Rs.105 Cr opening order book** — Phase 1 of a **firm Rs.210 Cr iDEX ESM production order** (10 systems × Rs.21 Cr, two 12-month phases; 4 milestones cleared, first-of-production-model in build) — generates cash from Year 1, funding development of the remaining five lines without requiring incremental equity for every new product. The result is a defense business that ships at software-cycle cadence (12-24 months MVP) with hardware-grade durability.
 
 ### Headline 10-Year Plan
 
@@ -38,7 +38,7 @@ A part-developed Electronic Support Measures (ESM) line with an opening order bo
 
 | Code | Product | Domain | First Ship | Strategic Role |
 | - | - | - | - | - |
-| V2 | EW / SIGINT (ESM) | Air, land, sea | Year 1 | Day-1 cash engine, Rs.105 Cr opening backlog |
+| V2 | EW / SIGINT (ESM) | Air, land, sea | Year 1 | Day-1 cash engine, Rs.105 Cr opening order book (Phase 1 of Rs.210 Cr firm iDEX MoQ) |
 | V6 | Military AI | All four | Year 1 | Software-led, 93-94% GM, attached to every hardware sale |
 | V1 | AESA Radar (3 variants) | Air, land, sea | Year 2 | Hardware flagship, reuses ESM RF/DSP work |
 | V3 | Counter-drone (layered) | Land, air | Year 2 | Highest volumes, AI-fusion showcase |

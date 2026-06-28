@@ -25,7 +25,7 @@ Nitrodynamics is an India-headquartered multi-domain defense platform company bu
 
 1. **Platform economics inside a hardware vertical.** One engineering organisation, five reusable modules and six product lines drive the marginal design cost of each subsequent product from a 25% platform discount in Year 1 to a 99% discount by Year 10. Total counterfactual standalone design cost across the six lines, ~Rs.1,350 Cr, is offset by ~Rs.994 Cr of cost avoidance from platform reuse [source: section 2].
 
-2. **Day-1 cash engine de-risks build-out.** The ESM/SIGINT line is already part-developed with a Rs.105 Cr opening order book, and the software-led Military AI line ships from Year 1 at 93-94% gross margin. Both generate operating cash that funds the development of AESA, counter-drone, autonomous maritime and MALE drone without re-equitising every product.
+2. **Day-1 cash engine de-risks build-out.** The ESM/SIGINT line is already part-developed and *contracted*: a **Rs.105 Cr opening order book** (Phase 1) within a **firm Rs.210 Cr iDEX ESM production order** (10 systems × Rs.21 Cr in two 5-system phases of 12 months each; 4 milestones signed off, first-of-production-model in build) — production-order revenue, not a grant. Together with the software-led Military AI line (Year 1, 93-94% gross margin), it generates operating cash that funds the development of AESA, counter-drone, autonomous maritime and MALE drone without re-equitising every product.
 
 3. **Policy tailwind specific to India.** Atmanirbhar Bharat, the Positive Indigenisation Lists, DPEPP 2020 and the Rs.50,000 Cr 2028-29 export target jointly constitute the most aggressive indigenous-procurement regime in modern Indian defense history, concentrated in precisely the six segments the company addresses.
 
@@ -68,7 +68,7 @@ Third, the **India MoD export target of Rs.50,000 Cr by 2028-29** is a hard, dat
 
 Nitrodynamics is raising Rs.1,100 Cr of equity across Seed (Rs.450 Cr, Y1), Series A (Rs.400 Cr, Y2) and Series B (Rs.250 Cr, Y3), against a 10-year plan that delivers Rs.21,200 Cr of cumulative revenue, Rs.5,055 Cr of Year-10 revenue, 46.4% Year-10 EBITDA margin and a 31.9% project IRR.
 
-The **Seed round unlocks**: platform modules M1-M5 in qualification, ESM in series production against the Rs.105 Cr opening backlog, Military AI shipping from Year 1, and AESA and counter-drone in prototype build. End-of-tranche state - first revenue, first software cash flow, platform reuse strength 25-60%.
+The **Seed round unlocks**: platform modules M1-M5 in qualification, ESM in series production against the Rs.105 Cr opening order book (Phase 1 of the firm Rs.210 Cr iDEX ESM MoQ), Military AI shipping from Year 1, and AESA and counter-drone in prototype build. End-of-tranche state - first revenue, first software cash flow, platform reuse strength 25-60%.
 
 The **Series A round unlocks**: AESA and counter-drone qualified and in first delivery, autonomous maritime in development, owned anechoic and EMI facilities online, Bank Guarantee collateral pool established. End-of-tranche state - four product lines shipping, ~Rs.203 Cr Year-2 revenue.
 

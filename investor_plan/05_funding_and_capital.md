@@ -10,7 +10,7 @@ Three rounds across Years 1-3, each gated on a joint unlock of platform-maturity
 
 | Round | Year | Amount (Rs.Cr) | Use of proceeds | Unlock gates (joint) |
 | - | - | - | - | - |
-| Seed | Y1 | 450 | M1-M5 platform investment; ESM industrialisation; prototyping and qualification trials; initial production line; opening BG collateral; 12-month working-capital buffer | Platform: M1, M2, M4 qualified; ESM at minimum-viable-product; V6 first software ship. Backlog: Rs.105 Cr ESM opening order book under contract + Rs.300 Cr bookings target by Y1 close. |
+| Seed | Y1 | 450 | M1-M5 platform investment; ESM industrialisation; prototyping and qualification trials; initial production line; opening BG collateral; 12-month working-capital buffer | Platform: M1, M2, M4 qualified; ESM at minimum-viable-product; V6 first software ship. Backlog: Rs.105 Cr ESM opening order book (Phase 1 of the firm Rs.210 Cr iDEX ESM MoQ) under contract + Rs.300 Cr bookings target by Y1 close. |
 | Series A | Y2 | 400 | Production scale-up across ESM, C-UAS and Military AI; AESA and drone prototype build; EMI / anechoic facility deposit; Series A BG collateral top-up | Platform: M1, M2, M4 productised; M3 qualified; M5 in qualification. Backlog: V1 AESA first contract signed; V3 C-UAS MVP fielded; >Rs.600 Cr cumulative bookings. |
 | Series B | Y3 | 250 | Production ramp for AESA, MALE drone and autonomous systems first deliveries; Make-II working capital; test-range capex; bridge to FCF-positive in Y4 | Platform: M1-M5 all shipping. Backlog: V5 AUV first ship; V4 MALE qualification on track; >Rs.1,800 Cr cumulative bookings. |
 | **Total equity** |  | **1,100** |  |  |
@@ -57,7 +57,7 @@ The Rs.18.5 Cr sanctioned ABG against Rs.18.76 Cr Y1 requirement is intentionall
 
 The structural argument for why Rs.1,100 Cr of equity is enough - against Y10 revenue of Rs.5,055 Cr and a peak cumulative deficit of only Rs.1,062 Cr - rests on four cash sources operating concurrently from Y1:
 
-1. **ESM opening backlog Rs.105 Cr.** Generates Y1 revenue and gross profit at hardware margins, reducing the net Year 1 cash burn.
+1. **ESM opening order book Rs.105 Cr (Phase 1 of the Rs.210 Cr firm iDEX MoQ).** Generates Y1 revenue and gross profit at hardware margins, reducing the net Year 1 cash burn.
 2. **V6 Military AI software at 93% GM.** First ships Y1; throws off cash from Y2 onward at near-software economics.
 3. **15% customer advances on indigenous-development MoD contracts.** Recognised as contract liability; offsets ~15% of the DSO drag at gross level.
 4. **PSU bank term loan Rs.100 Cr in Y2.** Funds the capex inflection without consuming Seed/Series A cash on physical assets that have collateral value.

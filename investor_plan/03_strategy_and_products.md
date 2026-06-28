@@ -56,7 +56,7 @@ A modern electronically scanned array radar in three variants: an X-band airborn
 
 **Why this is plausible.** Global AESA production is concentrated in a handful of primes plus the Russian and Chinese state primes. India currently imports or jointly produces almost all its AESAs. The MoD's stated direction is to replace imported radars with domestic alternatives wherever performance allows. The global market is USD 5-7 bn per year at 7-9% CAGR (Mordor Intelligence, Markets and Markets). The Year-10 Nitrodynamics share is a low single-digit percentage of the global market, anchored by Indian MoD demand for the three services and supplemented by export.
 
-### V2 - Electronic Warfare and SIGINT (first ship Year 1, opening order book Rs.105 Cr)
+### V2 - Electronic Warfare and SIGINT (first ship Year 1; Rs.105 Cr opening order book — Phase 1 of a firm Rs.210 Cr iDEX ESM MoQ)
 
 The Day-1 cash engine. Four variants:
 
@@ -65,11 +65,13 @@ The Day-1 cash engine. Four variants:
 - **EW-C**, tactical anti-drone jammer (highest-volume variant): **Rs.1.7-2.0 Cr**, 6 to 80 a year.
 - **EW-D**, strategic ground-based SIGINT station (flagship contracts): **Rs.95-114 Cr per station**, 0 to 8 a year.
 
+> **MoQ price vs commercial catalogue (reconciliation).** The Day-1 iDEX ESM MoQ is contracted at **Rs.21 Cr/system** (10 systems × Rs.21 Cr = Rs.210 Cr; Phase 1 = Rs.105 Cr, per SOT D-012). This contracted iDEX first-production-order unit price sits *below* the commercial catalogue ranges above for the EW-A (Rs.25-30 Cr) and EW-B (Rs.29-35 Cr) ESM SKUs. All MoQ / Day-1 traction figures in this plan use the Rs.21 Cr contracted price; the catalogue ranges apply only to forward commercial volume pricing. Whether Rs.21 Cr is iDEX anchor/first-production pricing on the same SKU or covers a distinct lower-spec ESM configuration is **unconfirmed — tracked as OQ-C in `project-context.md`** (not invented here).
+
 The line is already part-developed on Day 1. Year 1 focus is industrialisation, qualification and scale-up of production and sales pipeline.
 
 **Key comparables.** Saab and Elbit on the integrated EW side; a wide field of EW specialists otherwise.
 
-**Why this is plausible.** Indian EW procurement runs across Army EW (Samyukta, Himshakti), Navy ESM (Sangraha, Varuna) and Air Force pod-based EW. SIPRI and Janes both note EW as among the fastest-growing line items in Indian capital outlay, driven by border tensions on the northern and western fronts. The global EW market is USD 22-25 bn per year at 6-8% CAGR. The opening Rs.105 Cr backlog reflects existing commercial commitments brought into the company.
+**Why this is plausible.** Indian EW procurement runs across Army EW (Samyukta, Himshakti), Navy ESM (Sangraha, Varuna) and Air Force pod-based EW. SIPRI and Janes both note EW as among the fastest-growing line items in Indian capital outlay, driven by border tensions on the northern and western fronts. The global EW market is USD 22-25 bn per year at 6-8% CAGR. The Rs.105 Cr opening order book is **Phase 1 of a firm Rs.210 Cr iDEX ESM production order** (10 systems × Rs.21 Cr, in two 12-month phases) won under an iDEX project — development complete (4 milestones signed off), first-of-production-model in build. It is **production-order revenue, not a grant**.
 
 ### V3 - Counter-drone (first ship Year 2)
 
