@@ -320,6 +320,7 @@ framing.
   - Direct support: The policy document says Army surveillance drones monitor high-altitude northern border areas. SANJAY integrates all ground and aerial battlefield sensors over secured Army and satellite networks and was planned for all operational brigades, divisions, and corps.
   - Limitations: Neither source quantifies orbit count, aircraft quantity, geographic coverage, or a requirement for a particular MALE/HALE platform. Western-border persistence is supported only by reported Drishti-10/Heron deployments, not by this primary pair.
   - Mission-boundary note:
+    - **Single closest substitute — HAPS:** it is the closest functional substitute for persistent wide-area stare and relay, but India's public record shows development/AoN rather than an operational Army system; SCALE is recoverable, retaskable, and nearer term.
     - **Tactical UAS:** wins for local, responsive sector coverage; loses for theatre-wide persistence and heavy multi-sensor carriage. SCALE complements it as the wide-area layer.
     - **Satellite:** wins for sovereign broad-area access without aircrew basing; loses on continuous stare and rapid retasking unless a constellation is dense. SCALE complements revisit coverage.
     - **Aerostat:** wins for low-cost fixed-site persistence; loses mobility, weather tolerance, and deep look across masking terrain. SCALE wins for repositionable coverage.
@@ -339,8 +340,8 @@ framing.
   - URL: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2051715
   - Accessed: 2026-07-22
   - Direct support: The release states the physical effects of rarified atmosphere, cold, and wind and identifies the altitude and mission/payload categories to be demonstrated.
-  - Limitations: It is a technology-demonstration requirement, not proof that any SCALE airframe passed, was selected, or can launch fully loaded from a high-altitude strip. No equally specific primary source for hot-desert MALE performance was found.
-  - Drafting note: High-altitude qualification must be treated as a design and trial gate. Western-desert surveillance is reported for Drishti-10 from Bathinda, but the public record does not publish a desert environmental qualification.
+  - Limitations: It is a technology-demonstration requirement, not proof that any SCALE airframe passed, was selected, or can launch fully loaded from a high-altitude strip. The focused desert search in C087 found no equally specific public MALE/SCALE hot-weather, dust, runway, payload-derating, or endurance qualification.
+  - Drafting note: High-altitude qualification must be treated as a design and trial gate. Western-desert surveillance is reported for Drishti-10 from Bathinda, but basing is not qualification evidence.
 
 - Claim ID: C080
   - Service: Army
@@ -357,17 +358,18 @@ framing.
 
 - Claim ID: C081
   - Service: Army
-  - Claim: Artillery target acquisition, fire correction, and battle-damage assessment are documented Army UAS roles; official artillery material also treats UAVs, surveillance sensors, and weapon-locating radars as complementary target-acquisition systems.
+  - Claim: Artillery target acquisition and fire correction are documented Army UAS roles; battle-damage assessment is documented separately as a potential Rustom-I military mission; official artillery material treats UAVs, surveillance sensors, and weapon-locating radars as complementary target-acquisition systems.
   - Status: confirmed
   - Source type: primary
-  - Source: "Exercise Sarvatra Prahar"; "NISHANT UAV to be handed over to Indian Army soon"; "Maiden Flight of Panchi."
+  - Source: "Exercise Sarvatra Prahar"; "NISHANT UAV to be handed over to Indian Army soon"; "Maiden Flight of Panchi"; "Achievements of Ministry of Defence during the Year 2012."
   - Publisher: Press Information Bureau / Ministry of Defence
-  - Published: 12 January 2016; 12 February 2009; 24 December 2014
-  - URL: https://www.pib.gov.in/newsite/erelcontent.aspx?relid=134367 ; https://www.pib.gov.in/newsite/erelcontent.aspx?relid=47445 ; https://pib.gov.in/newsite/PrintRelease.aspx?relid=114071
+  - Published: 12 January 2016; 12 February 2009; 24 December 2014; 18 December 2012
+  - URL: https://www.pib.gov.in/newsite/erelcontent.aspx?relid=134367 ; https://www.pib.gov.in/newsite/erelcontent.aspx?relid=47445 ; https://pib.gov.in/newsite/PrintRelease.aspx?relid=114071 ; https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=90913
   - Accessed: 2026-07-22
-  - Direct support: The releases identify UAV target tracking/localisation and artillery-fire correction and show UAVs used alongside surveillance sensors and weapon-locating radars.
-  - Limitations: Nishant/Panchi are tactical precedents, not evidence that every artillery mission needs a SCALE platform. The official sources do not allocate BDA by echelon or state a MALE quantity.
+  - Direct support: The releases identify UAV target tracking/localisation and artillery-fire correction and show UAVs used alongside surveillance sensors and weapon-locating radars. PIB release 90913 explicitly lists Battle Damage Assessment among Rustom-I's potential military missions.
+  - Limitations: Nishant/Panchi are tactical precedents, not evidence that every artillery mission needs a SCALE platform. Release 90913 describes Rustom-I's **potential**, not an operational Army BDA assignment; none of the official sources allocates BDA by echelon or states a MALE quantity.
   - Mission-boundary note:
+    - **Single closest substitute — tactical UAS:** it is the closest and generally superior substitute for responsive brigade/battalion target acquisition, fire correction, and local BDA; SCALE is defensible only for deep, wide-area, multi-hour search and cross-formation support.
     - **Tactical UAS:** normally wins for responsive brigade/battalion target acquisition and fire correction; SCALE wins only for deep, wide-area, multi-hour search and cross-formation support.
     - **Satellite:** complements pre-mission cueing and large-area change detection; revisit and latency can lose against moving-target correction.
     - **Aerostat:** wins for persistent observation of a fixed frontage in permissive conditions; loses mobility and masking.
@@ -389,6 +391,7 @@ framing.
   - Direct support: DRDO specifies a UAV Communication Repeater for tactical communications in difficult terrain. MoD states the ₹2,963 crore GSAT-7B contract will provide Army BLOS service to troops, formations, weapons, and airborne platforms.
   - Limitations: The DRDO compendium describes an offered platform capability, not an Army contract. GSAT-7B validates demand for BLOS connectivity but is a substitute/backbone, not proof of an airborne-relay fleet size.
   - Mission-boundary note:
+    - **Single closest substitute — satellite:** contracted GSAT-7B is the closest and strongest substitute for broad Army BLOS backbone service; SCALE can add local capacity, directional links, retasking, and resilience but cannot replace strategic SATCOM.
     - **Tactical UAS:** wins for a temporary local relay over one ridge; loses coverage radius, endurance, and payload power for theatre networks.
     - **Satellite:** GSAT-7B wins for broad BLOS backbone; SCALE complements local capacity, directional links, and resilience but cannot replace strategic SATCOM.
     - **Aerostat:** wins persistent relay over a fixed area with logistics access; loses mobility and weather resilience.
@@ -410,6 +413,7 @@ framing.
   - Direct support: DRDO lists TAPAS ELINT/COMINT payloads and SATCOM control, describes emitter detection/direction-finding/geolocation, and records an evaluated COMINT payload integrated on an aerostat for the Indian Army.
   - Limitations: Payload availability and evaluation do not prove operational Army procurement, collection performance, or authority to conduct particular missions. SIGINT is used here as the umbrella term; sources specifically say ELINT and COMINT.
   - Mission-boundary note:
+    - **Single closest substitute — aerostat:** an evaluated Army-oriented aerostat COMINT payload makes the aerostat the closest evidenced substitute for persistent fixed-area collection; SCALE wins mobility, geometry, and standoff reach.
     - **Tactical UAS:** wins for close, local emitter hunting; SCALE wins payload aperture, power, endurance, and wide-area geolocation baselines.
     - **Satellite:** wins inaccessible-area collection and broad coverage; SCALE complements dwell, retasking, and lower-latency localisation.
     - **Aerostat:** is the closest confirmed Army substitute and wins fixed-area persistence/cost; SCALE wins mobility and deep stand-off geometry.
@@ -431,6 +435,7 @@ framing.
   - Direct support: The report names the Army document, release officials, surveillance classes, loitering/air-defence categories, and mother-child control concept.
   - Limitations: Only selective roadmap pages were shared because requirements are confidential. The public report does not say the mother must be SCALE/MALE, disclose quantities, or establish an approved procurement or contract.
   - Mission-boundary note:
+    - **Single closest substitute — crewed ISR aircraft/helicopter:** a crewed airborne node is the closest substitute for a mobile command/mothership role because it can carry operators and control effects directly; SCALE trades onboard judgement for persistence and lower crew risk.
     - **Tactical UAS:** wins direct control of nearby effects with lower latency; SCALE wins reach, persistence, payload capacity, and multi-formation coordination.
     - **Satellite:** complements communications and theatre awareness but cannot physically launch/recover effects.
     - **Aerostat:** can host communications/control over a fixed area but is poorly suited to mobile launch geometry.
@@ -466,6 +471,34 @@ framing.
   - Direct support: IMAP-2023 defines the authorities and DGAQA's quality-assurance role; CEMILAC describes concurrent certification and explicitly states that type approval is not assurance of a production order.
   - Limitations: Neither source supports the draft's universal five-to-seven-year certification duration or "hundreds to thousands of flight-test hours."
   - Drafting note: C016 can be promoted to `confirmed`; C014 and the flight-hour portion of C055 remain unsupported estimates.
+
+- Claim ID: C087
+  - Service: Army (desert operating boundary)
+  - Claim: Focused research found public evidence of Army tactical-UAS trials and UAS-enabled exercises in Rajasthan, but no reliable public MALE/SCALE qualification data for hot-weather temperature limits, dust/sand ingestion, runway requirements, payload derating, or endurance loss.
+  - Status: rejected
+  - Source type: secondary (attributable trial and exercise reporting) plus documented evidence-gap review
+  - Source: "Army conducts successful trials of hybrid UAV drone Rudrastra in Pokharan"; "Exercise Kharga Shakti 2026: Army validates swift transition from deterrence to decisive action."
+  - Publisher: India Today; The Tribune
+  - Published: 12 June 2025; February 2026
+  - URL: https://www.indiatoday.in/india/story/army-conducts-successful-trials-of-hybrid-uav-drone-rudrastra-in-pokharan-2739965-2025-06-12 ; https://www.tribuneindia.com/news/defence/exercise-kharga-shakti-2026-army-validates-swift-transition-from-deterrence-to-decisive-action/
+  - Accessed: 2026-07-22
+  - Direct support: India Today verifies an Army trial of the tactical hybrid-VTOL Rudrastra at Pokhran. The Tribune attributes to Western Command and Army sources UAS-enabled ISR, counter-UAS, networked command, and multiple tactical-drone categories at Mahajan Field Firing Ranges in north-western Rajasthan.
+  - Limitations: Neither report publishes ambient temperature, dust exposure, runway condition, payload, endurance degradation, or a MALE/SCALE test result. Rudrastra is a short-endurance tactical VTOL system; Kharga Shakti validates employment in a desert exercise, not environmental airworthiness or performance qualification. Official-domain searches surfaced only high-altitude Army drone trials.
+  - Drafting note: Rejected as class-specific desert qualification evidence. The final case may state that western/desert employment exists, but must carry desert performance and basing infrastructure as unresolved qualification risks. Bathinda basing must not be presented as proof of hot-and-dust suitability.
+
+- Claim ID: C088
+  - Service: Army (tactical-drone formations)
+  - Claim: The Army Chief announced in July 2025 that every infantry battalion had a drone platoon, a Shaktibaan artillery regiment had been established with drone/counter-drone/loitering-munition capability, and artillery regiments would receive composite batteries; by February 2026, Western Command was publicly exercising short-range Ashni platoons and newly raised Bhairav battalions in Rajasthan.
+  - Status: reported
+  - Source type: secondary (directly attributed Army Chief/PTI report and Western Command/Army-source reporting), corroborated in part by primary PIB display material
+  - Source: "Operation Sindoor strikes sent clear message to Pakistan: Army chief Upendra Dwivedi"; "Exercise Kharga Shakti 2026: Army validates swift transition from deterrence to decisive action"; "77th Republic Day Parade..."
+  - Publisher: PTI via ThePrint; The Tribune; Press Information Bureau / Ministry of Defence
+  - Published: 26 July 2025; February 2026; 26 January 2026
+  - URL: https://theprint.in/india/operation-sindoor-strikes-sent-clear-message-to-pakistan-army-chief-upendra-dwivedi/2703084/ ; https://www.tribuneindia.com/news/defence/exercise-kharga-shakti-2026-army-validates-swift-transition-from-deterrence-to-decisive-action/ ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218449
+  - Accessed: 2026-07-22
+  - Direct support: PTI quotes the Army Chief on battalion drone platoons, the established Shaktibaan regiment, and composite artillery batteries. The Tribune reports Western Command validation of recently created Ashni platoons equipped with short-range surveillance and targeting UAS and Bhairav tactical units. PIB confirms Shaktibaan/Divyastra as a combat-support element using swarm, tethered, ZOLT tactical hybrid and long-range drones plus loitering munitions for artillery direction and precision engagement.
+  - Limitations: These sources distinguish tactical organisations and announced reforms from the separate April 2026 mother-child roadmap concept. They do not establish that Ashni, Bhairav, Shaktibaan, Divyastra, or every infantry drone platoon depends on a SCALE command/relay/mothership aircraft. Public reports claiming 15–20 Shaktibaan regiments, 35–40 Divyastra batteries, 380/385 battalions, or unit manpower/equipment totals are not used here because no primary record was found and reported counts conflict.
+  - Drafting note: Tactical formations create users and data-link/control demand, but they are not additive SCALE-aircraft demand. A persistent SCALE command/relay/mothership role remains a **concept** unless a released requirement ties these formations to a MALE/HALE carrier, relay, or controller.
 
 ---
 
