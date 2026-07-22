@@ -235,6 +235,238 @@ framing.
   - Accessed: 2026-07-22
   - Drafting note: The exact "2 Navy + 2 Army" quantity and price are bundled with multiple other Drishti claims in the appendix. Keep `reported` pending contract-level or service confirmation.
 
+### Task 2 additions: transaction evidence, Army demand, and mission boundaries
+
+- Claim ID: C073
+  - Service: Tri-service / cross-service
+  - Claim: The Defence Acquisition Council accorded Acceptance of Necessity on 15 June 2023 for 31 MQ-9B RPAS — 16 SkyGuardian and 15 SeaGuardian — for the tri-services through the U.S. Foreign Military Sales route; the AoN included associated equipment and recorded a then-estimated U.S. price of USD 3.072 billion, still subject to negotiation.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Acquisition of MQ-9B drones: Speculative reports uncalled for."
+  - Publisher: Press Information Bureau / Ministry of Defence, Government of India
+  - Published: 25 June 2023
+  - URL: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1935160
+  - Accessed: 2026-07-22
+  - Direct support: The release states the AoN date, quantity, variants, tri-service purpose, FMS route, associated-equipment scope, and provisional price; it also explains that the later LOA would settle equipment, terms, and price.
+  - Limitations: AoN is an approval to proceed, not a signed acquisition contract. The release does not publish the Army/Air Force split within the 16 SkyGuardians.
+  - Drafting note: This replaces any wording that treats the June 2023 AoN or its USD 3.072 billion estimate as the final contract.
+
+- Claim ID: C074
+  - Service: Tri-service / cross-service
+  - Claim: The U.S. State Department approved and notified Congress of a **possible** FMS to India of 31 MQ-9B aircraft and related equipment at an estimated ceiling of USD 3.99 billion.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Arms Sales Notification," Transmittal No. 23-75, India — MQ-9B Remotely Piloted Aircraft.
+  - Publisher: U.S. Department of State / Defense Security Cooperation Agency, reproduced in the U.S. Federal Register
+  - Published: notification dated 1 February 2024; Federal Register publication 6 January 2025
+  - URL: https://www.govinfo.gov/content/pkg/FR-2025-01-06/pdf/2024-31699.pdf
+  - Accessed: 2026-07-22
+  - Direct support: The notice lists 31 aircraft, 161 embedded navigation systems, 35 COMINT suites, 170 AGM-114R Hellfire missiles, 16 captive training missiles, 310 laser Small Diameter Bombs, eight guided test vehicles, radars, sonobuoys, ground-control, communications, training, spares, software, transport, engineering, logistics, and programme support.
+  - Limitations: A congressional notification is a maximum possible scope and estimated value, not proof that every line item entered the final LOA or was contracted at that value. It calls all 31 aircraft "Sky Guardian" and does not provide India's service allocation.
+  - Drafting note: Use this source to define the notified package ceiling and weapons/support breadth, never as the executed contract price.
+
+- Claim ID: C075
+  - Service: Tri-service / cross-service
+  - Claim: India signed the 31-aircraft MQ-9B contract on 15 October 2024; public reporting based on the Ministry announcement allocates 15 SeaGuardians to the Navy and eight SkyGuardians each to the Army and Air Force.
+  - Status: reported
+  - Source type: secondary (attributable national reporting quoting the Ministry announcement)
+  - Source: "India, U.S. conclude $3.5bn deal for 31 MQ-9B armed UAVs"; "MQ-9B armed UAVs to be delivered by 2030."
+  - Publisher: The Hindu
+  - Published: 15 October 2024; 17 October 2024
+  - URL: https://www.thehindu.com/news/national/india-to-procure-31-predator-long-endurance-drones-from-us/article68755738.ece ; https://www.thehindu.com/news/national/mq-9b-armed-uavs-to-be-delivered-by-2030/article68761650.ece
+  - Accessed: 2026-07-22
+  - Direct support: The reports state the contract date, nearly USD 3.5 billion value, and 15/8/8 allocation, and quote the Ministry's statement that one contract covered the tri-service systems and another covered performance-based logistics and depot-level MRO in India.
+  - Limitations: The Ministry's social-media announcement was not available as a stable contract document. The 15/8/8 split is strongly corroborated by The Hindu, Indian Express, Reuters, and Janes but remains `reported` here because the signed LOA and Indian contract are not public.
+  - Drafting note: C045 and C049 are corroborated but not promoted beyond the evidence. The Army's eight-aircraft allocation is an executed allocation, not evidence of a larger Army quantity.
+
+- Claim ID: C076
+  - Service: Tri-service / cross-service
+  - Claim: Reported contractual delivery is January 2029 through September 2030 (first aircraft at 51 months, last at 72 months); the package includes two years of contracted logistics support and a separate performance-based logistics arrangement for depot-level MRO in India, reported as up to eight years or 150,000 flight hours.
+  - Status: reported
+  - Source type: secondary (official-sourced reporting)
+  - Source: "MQ-9B armed UAVs to be delivered by 2030."
+  - Publisher: The Hindu
+  - Published: 17 October 2024
+  - URL: https://www.thehindu.com/news/national/mq-9b-armed-uavs-to-be-delivered-by-2030/article68761650.ece
+  - Accessed: 2026-07-22
+  - Direct support: The article quotes officials on the 51-to-72-month delivery clause, dates, logistics period, PBL ceiling, and Indian depot-level MRO.
+  - Limitations: Delivery and PBL details are not independently visible in a released contract. GA-ASI's 14 February 2023 HAL announcement supports intended Indian engine MRO but predates contract signature and says the comprehensive programme still had to be formulated.
+  - Drafting note: Do not restate the older October 2030 endpoint in C045; the checked source says September 2030.
+
+- Claim ID: C077
+  - Service: Tri-service / cross-service
+  - Claim: In July 2025, an 87-aircraft indigenous MALE procurement was reported as being accelerated but still awaiting high-level Ministry clearance, with a value above ₹20,000 crore, a 60% indigenous-content requirement, more than 30-hour endurance, at least 35,000-foot ceiling, and all-terrain ISR/strike capability.
+  - Status: reported
+  - Source type: secondary (attributable national reporting based on officials and a project source)
+  - Source: "Government fast-tracks procurement of MALE class drones to enhance border surveillance."
+  - Publisher: The Hindu
+  - Published: 9 July 2025
+  - URL: https://www.thehindu.com/news/national/government-fast-tracks-procurement-of-male-class-drones-to-enhance-border-surveillance/article69792928.ece
+  - Accessed: 2026-07-22
+  - Direct support: The report directly supports 87 aircraft, local manufacture, the pre-clearance status on that date, reported value, performance envelope, and 60% content requirement.
+  - Limitations: No public DAC release, AoN, RFP, amendment, bid record, or service allocation was found. Later reports of August 2025 approval, a September 2025 RFP, June 2026 bid closure, approximately ten bidders, ₹30,000-plus crore value, and a 64:36 award rely on anonymous or low-transparency reporting.
+  - Drafting note: Keep C046/C048 `reported`; do not call the 64:36 structure guaranteed. No directly verifiable public source was found for a 97-aircraft requirement, 350-aircraft projection, or service allocation, so C047 cannot support demand arithmetic.
+
+- Claim ID: C078
+  - Service: Army
+  - Claim: The Army has a documented need for persistent land-border surveillance: official material says surveillance drones are deployed on high-altitude northern borders, while Army/BEL's SANJAY system is designed to fuse ground and aerial sensors into a common surveillance picture across vast land borders.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Drone Policy"; "Raksha Mantri Shri Rajnath Singh flags-off 'SANJAY - The Battlefield Surveillance System' from New Delhi."
+  - Publisher: Press Information Bureau / Government of India
+  - Published: April 2023; 24 January 2025
+  - URL: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/apr/doc2023424185301.pdf ; https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2095712
+  - Accessed: 2026-07-22
+  - Direct support: The policy document says Army surveillance drones monitor high-altitude northern border areas. SANJAY integrates all ground and aerial battlefield sensors over secured Army and satellite networks and was planned for all operational brigades, divisions, and corps.
+  - Limitations: Neither source quantifies orbit count, aircraft quantity, geographic coverage, or a requirement for a particular MALE/HALE platform. Western-border persistence is supported only by reported Drishti-10/Heron deployments, not by this primary pair.
+  - Mission-boundary note:
+    - **Tactical UAS:** wins for local, responsive sector coverage; loses for theatre-wide persistence and heavy multi-sensor carriage. SCALE complements it as the wide-area layer.
+    - **Satellite:** wins for sovereign broad-area access without aircrew basing; loses on continuous stare and rapid retasking unless a constellation is dense. SCALE complements revisit coverage.
+    - **Aerostat:** wins for low-cost fixed-site persistence; loses mobility, weather tolerance, and deep look across masking terrain. SCALE wins for repositionable coverage.
+    - **Crewed ISR aircraft:** wins where onboard judgement, payload power, and rapid cross-cueing matter; loses endurance and exposes crew. SCALE complements scarce sorties.
+    - **Ground sensor:** wins for persistent local detection and concealment; loses horizon and wide-area identification. SCALE complements cueing and classification.
+    - **HAPS:** can win on weeks-long persistence over a broad fixed region once operational; loses payload flexibility and remains developmental in India. SCALE is the nearer-term, recoverable complement.
+    - **Attritable drone:** wins in contested forward airspace and for affordable mass; loses endurance/payload at equivalent range. SCALE should remain standoff sensor/relay, not a disposable penetrator.
+
+- Claim ID: C079
+  - Service: Army
+  - Claim: High-altitude Army operations impose demonstrated drone-performance constraints: rarified air reduces lift and engine performance, while extreme cold and high winds compound the problem; the Army therefore tested surveillance, logistics, loitering, swarm, EW, SAR, COMINT and ELINT drone solutions at 4,000–5,000 metres in Ladakh.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Curtain raiser for HIM-DRONE-A-THON-2 & HIMTECH-2024: Setting the course for demonstration of drones in high altitude areas."
+  - Publisher: Press Information Bureau / Ministry of Defence
+  - Published: 4 September 2024
+  - URL: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2051715
+  - Accessed: 2026-07-22
+  - Direct support: The release states the physical effects of rarified atmosphere, cold, and wind and identifies the altitude and mission/payload categories to be demonstrated.
+  - Limitations: It is a technology-demonstration requirement, not proof that any SCALE airframe passed, was selected, or can launch fully loaded from a high-altitude strip. No equally specific primary source for hot-desert MALE performance was found.
+  - Drafting note: High-altitude qualification must be treated as a design and trial gate. Western-desert surveillance is reported for Drishti-10 from Bathinda, but the public record does not publish a desert environmental qualification.
+
+- Claim ID: C080
+  - Service: Army
+  - Claim: The public Army fleet record supports active use/procurement of Heron Mk2 and Drishti-10 for northern/eastern and western surveillance, but does not establish Army induction of TAPAS or Archer-NG.
+  - Status: reported
+  - Source type: secondary (multiple defence-source reporting) plus primary developer status pages
+  - Source: "Armed forces contract more long endurance drones from Israel under emergency procurement"; "Indian army to induct first Hermes-900 Drone for surveillance along Pakistan border"; DRDO TAPAS-BH and UAV Certification pages.
+  - Publisher: The Hindu; Business Today; Defence Research and Development Organisation
+  - Published: 7 November 2023; 11 May 2024; DRDO webpages undated
+  - URL: https://www.thehindu.com/news/national/armed-forces-contract-more-long-endurance-drones-from-israel-under-emergency-procurement/article67510035.ece ; https://www.businesstoday.in/india/story/indian-army-to-induct-first-hermes-900-drone-for-surveillance-along-pakistan-border-429181-2024-05-11 ; https://drdo.gov.in/drdo/tapas-bh ; https://www.drdo.gov.in/drdo/uav-certification
+  - Accessed: 2026-07-22
+  - Direct support: The Hindu reports four Army Heron Mk2s bought in 2021 and inducted in 2022, with two at Leh and two in Eastern Command, plus two Hermes 900s contracted in 2023. Business Today reports two Army Drishti-10s and planned Bathinda deployment for the desert and areas north of Punjab. DRDO describes TAPAS as an Armed Forces ISR design/certification programme.
+  - Limitations: Army quantities, basing, and induction dates are not backed by released contracts or Army inventory tables. TAPAS's DRDO status does not prove user acceptance or procurement; Archer-NG remained in development in public material. Do not represent either as an operational Army fleet.
+
+- Claim ID: C081
+  - Service: Army
+  - Claim: Artillery target acquisition, fire correction, and battle-damage assessment are documented Army UAS roles; official artillery material also treats UAVs, surveillance sensors, and weapon-locating radars as complementary target-acquisition systems.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Exercise Sarvatra Prahar"; "NISHANT UAV to be handed over to Indian Army soon"; "Maiden Flight of Panchi."
+  - Publisher: Press Information Bureau / Ministry of Defence
+  - Published: 12 January 2016; 12 February 2009; 24 December 2014
+  - URL: https://www.pib.gov.in/newsite/erelcontent.aspx?relid=134367 ; https://www.pib.gov.in/newsite/erelcontent.aspx?relid=47445 ; https://pib.gov.in/newsite/PrintRelease.aspx?relid=114071
+  - Accessed: 2026-07-22
+  - Direct support: The releases identify UAV target tracking/localisation and artillery-fire correction and show UAVs used alongside surveillance sensors and weapon-locating radars.
+  - Limitations: Nishant/Panchi are tactical precedents, not evidence that every artillery mission needs a SCALE platform. The official sources do not allocate BDA by echelon or state a MALE quantity.
+  - Mission-boundary note:
+    - **Tactical UAS:** normally wins for responsive brigade/battalion target acquisition and fire correction; SCALE wins only for deep, wide-area, multi-hour search and cross-formation support.
+    - **Satellite:** complements pre-mission cueing and large-area change detection; revisit and latency can lose against moving-target correction.
+    - **Aerostat:** wins for persistent observation of a fixed frontage in permissive conditions; loses mobility and masking.
+    - **Crewed ISR aircraft:** complements complex deep-target collection but is costlier and crew-risked for long stare.
+    - **Ground sensor:** weapon-locating radar and observation systems win for specific emitters/trajectories; SCALE complements identification, track continuity, and BDA.
+    - **HAPS:** could win persistent theatre sensing once fielded, but payload/retasking and Indian maturity are unresolved.
+    - **Attritable drone:** wins as the forward sensor or effector in defended airspace; SCALE complements from standoff and should not be the default fire-correction asset.
+
+- Claim ID: C082
+  - Service: Army
+  - Claim: Airborne communications relay across difficult terrain is a documented UAS role, while GSAT-7B is already contracted to provide the Army with mission-critical beyond-line-of-sight communications to troops, formations, weapons, and airborne platforms.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Compendium of Products for Export 2025" (Unmanned Aerial System); Ministry announcement of contracts for Project Akashteer, Sarang ESM and GSAT-7B.
+  - Publisher: Defence Research and Development Organisation; Press Information Bureau / Ministry of Defence
+  - Published: 2025; 29 March 2023
+  - URL: https://www.drdo.gov.in/drdo/sites/default/files/schemes_services/CompendiumProductforExport2025.pdf ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911937
+  - Accessed: 2026-07-22
+  - Direct support: DRDO specifies a UAV Communication Repeater for tactical communications in difficult terrain. MoD states the ₹2,963 crore GSAT-7B contract will provide Army BLOS service to troops, formations, weapons, and airborne platforms.
+  - Limitations: The DRDO compendium describes an offered platform capability, not an Army contract. GSAT-7B validates demand for BLOS connectivity but is a substitute/backbone, not proof of an airborne-relay fleet size.
+  - Mission-boundary note:
+    - **Tactical UAS:** wins for a temporary local relay over one ridge; loses coverage radius, endurance, and payload power for theatre networks.
+    - **Satellite:** GSAT-7B wins for broad BLOS backbone; SCALE complements local capacity, directional links, and resilience but cannot replace strategic SATCOM.
+    - **Aerostat:** wins persistent relay over a fixed area with logistics access; loses mobility and weather resilience.
+    - **Crewed ISR aircraft:** can relay during a mission but loses on endurance and crew cost; use only when already tasked.
+    - **Ground sensor/relay:** wins where line-of-sight towers or radio relay can be protected; terrain masking and kinetic vulnerability create gaps.
+    - **HAPS:** likely wins the long-duration wide-area relay mission once mature; Indian AS-HAPS had AoN, not an operational system, as of access.
+    - **Attritable drone:** wins for expendable emergency mesh nodes near the forward edge; SCALE complements as the higher-capacity standoff gateway.
+
+- Claim ID: C083
+  - Service: Army
+  - Claim: ELINT/COMINT collection is a documented payload mission for Indian MALE UAS and Army-oriented aerostats.
+  - Status: confirmed
+  - Source type: primary
+  - Source: DRDO "UAV Certification"; DRDO "Compendium of Products for Export 2025"; DRDO "Technologies and Products" (COMINT payload for Aerostat platform for Indian Army).
+  - Publisher: Defence Research and Development Organisation
+  - Published: certification webpage undated; compendium 2025; product webpage undated
+  - URL: https://www.drdo.gov.in/drdo/uav-certification ; https://www.drdo.gov.in/drdo/sites/default/files/schemes_services/CompendiumProductforExport2025.pdf ; https://drdo.gov.in/drdo/technology-cluster-links/labs-products-detail/2141/188
+  - Accessed: 2026-07-22
+  - Direct support: DRDO lists TAPAS ELINT/COMINT payloads and SATCOM control, describes emitter detection/direction-finding/geolocation, and records an evaluated COMINT payload integrated on an aerostat for the Indian Army.
+  - Limitations: Payload availability and evaluation do not prove operational Army procurement, collection performance, or authority to conduct particular missions. SIGINT is used here as the umbrella term; sources specifically say ELINT and COMINT.
+  - Mission-boundary note:
+    - **Tactical UAS:** wins for close, local emitter hunting; SCALE wins payload aperture, power, endurance, and wide-area geolocation baselines.
+    - **Satellite:** wins inaccessible-area collection and broad coverage; SCALE complements dwell, retasking, and lower-latency localisation.
+    - **Aerostat:** is the closest confirmed Army substitute and wins fixed-area persistence/cost; SCALE wins mobility and deep stand-off geometry.
+    - **Crewed ISR aircraft:** wins payload/operator flexibility but loses endurance and crew exposure; complementary for surge and complex exploitation.
+    - **Ground sensor:** wins covert persistent monitoring at choke points; loses horizon and relocation speed.
+    - **HAPS:** may win persistent wide-area SIGINT once payload and platform mature; currently complements rather than displaces recoverable MALE aircraft.
+    - **Attritable drone:** wins risky close-in collection and decoying; loses payload, endurance, and recoverability. SCALE remains the standoff collector.
+
+- Claim ID: C084
+  - Service: Army
+  - Claim: The Army's April 2026 UAS technology roadmap publicly identifies HALE, MALE, HAPS and other surveillance classes, loitering munitions, anti-swarm drones, and a special "mother-child" configuration in which a mother UAS carries and controls child drones.
+  - Status: reported
+  - Source type: secondary (attributable reporting from the Army roadmap release and Army officials)
+  - Source: "Army unveils future blueprint for drones, loitering munitions requirements to industry, academia."
+  - Publisher: The Hindu BusinessLine
+  - Published: 6 April 2026
+  - URL: https://www.thehindubusinessline.com/news/national/army-unveils-future-blueprint-for-drones-loitering-munitions-requirements-to-industry-academia/article70830864.ece
+  - Accessed: 2026-07-22
+  - Direct support: The report names the Army document, release officials, surveillance classes, loitering/air-defence categories, and mother-child control concept.
+  - Limitations: Only selective roadmap pages were shared because requirements are confidential. The public report does not say the mother must be SCALE/MALE, disclose quantities, or establish an approved procurement or contract.
+  - Mission-boundary note:
+    - **Tactical UAS:** wins direct control of nearby effects with lower latency; SCALE wins reach, persistence, payload capacity, and multi-formation coordination.
+    - **Satellite:** complements communications and theatre awareness but cannot physically launch/recover effects.
+    - **Aerostat:** can host communications/control over a fixed area but is poorly suited to mobile launch geometry.
+    - **Crewed ISR aircraft/helicopter:** wins human judgement and is already relevant to MUM-T; loses endurance and exposes crew.
+    - **Ground sensor/control station:** wins bandwidth and operator capacity when links survive; loses horizon and can be fixed/targetable.
+    - **HAPS:** may win persistent high-level command/relay but has limited payload/recovery flexibility and remains immature.
+    - **Attritable drone:** is normally the launched effect, not the command platform; SCALE complements by carrying, cueing, or controlling it from standoff.
+
+- Claim ID: C085
+  - Service: Army
+  - Claim: Local convoy escort, camp security, and base-perimeter overwatch are not evidenced as core SCALE missions in the checked Army record.
+  - Status: rejected
+  - Source type: primary-and-secondary research finding
+  - Source: Mission-boundary review of C078–C084 and the Army UAS roadmap reporting.
+  - Publisher: n/a
+  - Published: n/a
+  - URL: See C078–C084.
+  - Accessed: 2026-07-22
+  - Direct support: Public evidence ties large endurance UAS to wide-area border surveillance, deep/long-range sensing, BLOS relay, signals collection, and mother-child/special roles. It ties local observation and close support to tactical, swarm, FPV, tethered, or ground/aerial sensor layers.
+  - Limitations: Absence of public evidence is not proof the Army never uses a large UAS for local overwatch; classified operational practice may differ.
+  - Drafting note: Exclude convoy/base overwatch from the core SCALE demand case unless a later source demonstrates a range, endurance, heavy-payload, or airborne-command requirement that tactical systems cannot meet.
+
+- Claim ID: C086
+  - Service: Common platform / airworthiness
+  - Claim: CEMILAC and DGAQA are India's technical military-airworthiness authorities; certification starts with requirements and proceeds concurrently through design review, inspection, qualification and development trials, while type approval follows satisfactory service performance and does not itself assure a production order.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Indian Military Airworthiness Procedure 2023"; "Certification Services."
+  - Publisher: CEMILAC / Defence Research and Development Organisation
+  - Published: 2023; certification webpage undated
+  - URL: https://www.drdo.gov.in/drdo/sites/default/files/form_formats/IMAP2023.pdf ; https://drdo.gov.in/drdo/en/offerings/schemes-and-services/certification-services
+  - Accessed: 2026-07-22
+  - Direct support: IMAP-2023 defines the authorities and DGAQA's quality-assurance role; CEMILAC describes concurrent certification and explicitly states that type approval is not assurance of a production order.
+  - Limitations: Neither source supports the draft's universal five-to-seven-year certification duration or "hundreds to thousands of flight-test hours."
+  - Drafting note: C016 can be promoted to `confirmed`; C014 and the flight-hour portion of C055 remain unsupported estimates.
+
 ---
 
 ## 3. Indian Air Force missions and programmes
