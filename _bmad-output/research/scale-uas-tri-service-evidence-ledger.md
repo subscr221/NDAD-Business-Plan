@@ -4,12 +4,23 @@
 
 ## Purpose and scope note
 
-This ledger audits every material claim in the task-specified 3P source draft,
-`_bmad-output/business-case-scale-uas-investor.REWRITE-DRAFT-3P.md`, read in
-place from the parent working tree at
-`d:\WINCODE\NDAD-Business-Plan\NDAD-Business-Plan\_bmad-output\`. The source is
-untracked input outside this isolated worktree; it was not edited, copied,
-staged, or committed. The ledger also compares the committed main draft
+This ledger audits every material claim in the task-specified 3P source draft.
+For reproducibility, the exact audited bytes are committed at
+`_bmad-output/research/source-snapshots/business-case-scale-uas-investor.REWRITE-DRAFT-3P.INPUT-SNAPSHOT.md`.
+
+Snapshot provenance:
+
+- Parent input:
+  `d:\WINCODE\NDAD-Business-Plan\NDAD-Business-Plan\_bmad-output\business-case-scale-uas-investor.REWRITE-DRAFT-3P.md`
+- Snapshot created: 2026-07-22
+- Copy method: byte-for-byte file copy; parent input left unchanged
+- Parent SHA-256:
+  `504D6148D3C55C0B636B4C15331DBC07F6C69479C35B5612CF0E3A6FCD9E34E9`
+- Snapshot SHA-256:
+  `504D6148D3C55C0B636B4C15331DBC07F6C69479C35B5612CF0E3A6FCD9E34E9`
+- Hash comparison: identical
+
+The ledger also compares the committed main draft
 (`_bmad-output/business-case-scale-uas-investor.md`) and a small set of
 overlapping claims in `business-cases/business-case-male-uas.md`.
 
@@ -40,6 +51,13 @@ facts); prose restating the ten-year table already captured as C039; and
 diligence-checklist items that restate claims logged elsewhere. Definitions
 that carry a material performance threshold (for example, the 1-to-5-tonne
 and 24-to-40-hour SCALE definition) remain logged.
+
+**Excluded internal-origin note:** `business-cases/business-case-male-uas.md`
+is a Nitrodynamics-origin internal company case. Its entries in this ledger
+exist only to expose internal consistency issues and provenance. They are not
+market evidence, are excluded from the company-agnostic evidence baseline, and
+must not migrate into the tri-service rewrite as sourced facts or company
+framing.
 
 ---
 
@@ -115,7 +133,7 @@ and 24-to-40-hour SCALE definition) remain logged.
   - Published: Not dated in the sibling document.
   - URL: n/a (repository file)
   - Accessed: 2026-07-22
-  - Drafting note: This corroborates C001/C003 only in the sense that two internal documents agree; it is not independent external verification, since both likely trace to the same unsourced internal figure. Do not treat repetition across internal documents as confirmation.
+  - Drafting note: **EXCLUDED INTERNAL ORIGIN.** Nitrodynamics-origin comparison only; not part of the company-agnostic evidence baseline and not eligible to migrate into the rewrite. It shows only that two internal documents agree, not independent external verification.
 
 - Claim ID: C045
   - Service: Tri-service / cross-service
@@ -431,7 +449,7 @@ and 24-to-40-hour SCALE definition) remain logged.
   - Published: Not stated in draft.
   - URL: Not stated in draft.
   - Accessed: 2026-07-22
-  - Drafting note: Explicitly flagged as a sustainment percentage by the audit brief. The draft asserts it is checkable but does not check it. Repeated at lines 48, 129, 235. Needs a named contract or industry benchmark citation.
+  - Drafting note: Explicitly flagged as a sustainment percentage by the audit brief. The draft asserts it is checkable but does not check it. Repeated at lines 48, 129, 235. See C060: the ₹4,350 crore logistics package is 15.5% of acquisition value, but without contract duration and scope it does **not** independently support an 8–12% annual rate. C019 therefore remains an estimate needing a named annual sustainment benchmark.
 
 - Claim ID: C020
   - Service: Common platform
@@ -639,7 +657,7 @@ and 24-to-40-hour SCALE definition) remain logged.
   - Published: October 2024
   - URL: https://indianexpress.com/article/india/india-us-rs-28000-crore-deal-to-procure-31-mq-9b-drones-for-armed-forces-9621240/
   - Accessed: 2026-07-22
-  - Drafting note: ₹4,350 / ₹28,000 = 15.5%, so "roughly 15%" is arithmetically correct. It is not an annual rate unless contract duration and included scope are known; the transaction does not directly validate the separate 8–12% per-year assumption.
+  - Drafting note: ₹4,350 / ₹28,000 = 15.5%, so "roughly 15%" is arithmetically correct. It is not an annual rate unless contract duration and included scope are known. Cross-reference C019: this package percentage does **not** independently validate the separate 8–12% annual sustainment assumption.
 
 ---
 
@@ -770,12 +788,12 @@ and 24-to-40-hour SCALE definition) remain logged.
   - Claim: The 3P appendix describes 7–10 May 2025 as the first large-scale South Asian drone conflict and says Indian Harop, Nagastra-1 and SkyStriker strikes were guided in real time by Heron Mk II and TAPAS aircraft at standoff range, while Pakistani waves of 300–600 small drones were neutralised by layered air defence including upgraded L-70/ZU-23 guns.
   - Status: reported
   - Source type: secondary
-  - Source: 3P Appendix item 7, "Operation Sindoor, 7-10 May 2025."
-  - Publisher: Carnegie Endowment for International Peace; The Hindu; Observer Research Foundation; CAPSS
+  - Source: 3P Appendix item 7. Carnegie supports general conflict-level lessons only and is explicitly excluded as support for the named Harop/Nagastra-1/SkyStriker/Heron Mk II/TAPAS claims. The 3P appendix points generally to The Hindu, ORF and CAPSS for platform-specific reporting but does not map each subclaim to a direct citation.
+  - Publisher: The Hindu; Observer Research Foundation; CAPSS (platform-specific claims pending direct source mapping); Carnegie Endowment for International Peace (general context only)
   - Published: 2025
   - URL: https://carnegieendowment.org/russia-eurasia/research/2025/10/military-lessons-from-operation-sindoor ; https://www.thehindu.com/news/national/autonomous-warfare-in-operation-sindoor/article69633124.ece
   - Accessed: 2026-07-22
-  - Drafting note: This bundles several sensitive operational assertions. The 3P body strengthens them into "found and fixed targets" and "steering ... in real time"; those details require direct source-by-source checking and must not be inferred beyond public reporting.
+  - Drafting note: Keep `reported` pending direct verification of each platform-specific subclaim. Do not cite Carnegie for those details. The 3P body strengthens them into "found and fixed targets" and "steering ... in real time"; neither formulation may migrate until a supporting source is mapped claim by claim.
 
 - Claim ID: C063
   - Service: Cross-service (operational inference)
