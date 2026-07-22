@@ -516,6 +516,209 @@ framing.
   - Accessed: 2026-07-22
   - Drafting note: This is an allocation, not an Air Force demand model. The 3P draft still supplies no Air Force-specific mission analysis, demand wedge, survivability boundary, or substitute test.
 
+### Task 3 additions: Air Force demand, adjacent systems, and hard limits
+
+- Claim ID: C089
+  - Service: Air Force (persistent standoff ISR, ELINT and communications relay)
+  - Claim: The IAF inducted four Heron Mk II MALE UAVs for northern-sector surveillance; an identified senior IAF officer said the aircraft would carry long-range observation sensors and radars plus ESM, COMINT, ELINT and communications-relay payloads.
+  - Status: reported
+  - Source type: secondary (attributable specialist reporting based on a named-service category of source)
+  - Source: "Indian Air Force inducts Heron Mk II."
+  - Publisher: Janes
+  - Published: 15 August 2023 (the article records the officer interview on 14 August)
+  - URL: https://www.janes.com/osint-insights/defence-news/air/indian-air-force-inducts-heron-mk-ii
+  - Accessed: 2026-07-22
+  - Direct support: Janes directly reports four IAF aircraft, northern-sector surveillance, and the sensor, ESM, COMINT, ELINT and relay payload categories, and separates IAF induction from an earlier estimated joint IAF/Army batch.
+  - Limitations: No IAF inventory release, contract, payload configuration list, collection range, orbit count or rules of employment is public. Janes quotes a senior officer but does not name that officer. IAI catalogue endurance and ceiling are not proof of the exact Indian configuration.
+  - Mission-boundary note: This is the clearest public IAF evidence for SCALE as a persistent **standoff** collector and relay. It does not establish routine operation inside defended airspace, control of a strike package, or an AEW&C-equivalent command role.
+
+- Claim ID: C090
+  - Service: Air Force / common programme (TAPAS-BH)
+  - Claim: DRDO defines TAPAS-BH/Rustom-II as an Armed Forces MALE ISR platform for continuous wide-area coverage, with EO/SAR and ELINT/COMINT payload options, SATCOM control beyond line of sight, approximately 24-hour endurance and a 350 kg maximum payload.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "TAPAS-BH"; "UAV Certification"; "Successful Maiden Flight of Rustom-II."
+  - Publisher: Defence Research and Development Organisation; Press Information Bureau / Ministry of Defence
+  - Published: DRDO webpages undated; PIB release 16 November 2016
+  - URL: https://drdo.gov.in/drdo/tapas-bh ; https://www.drdo.gov.in/drdo/uav-certification ; https://pib.gov.in/newsite/PrintRelease.aspx?relid=153691
+  - Accessed: 2026-07-22
+  - Direct support: DRDO states continuous wide-area ISR, EO/SAR, ELINT/COMINT, SATCOM beyond 100 km, 24-hour endurance and up to 350 kg payload; PIB identifies the three-service ISR development purpose and user-validation status at first flight.
+  - Limitations: DRDO pages conflict on ceiling (30,000 versus 35,000 ft) and on LOS phrasing, so neither figure is used as an Air Force requirement. Development and certification achievements do not prove IAF acceptance, induction, production or a current procurement quantity. No public record found by the access date establishes TAPAS as an operational IAF fleet.
+
+- Claim ID: C091
+  - Service: Air Force (MQ-9B SkyGuardian)
+  - Claim: The executed Indian allocation is reported as eight IAF SkyGuardians; the public primary record confirms only 16 SkyGuardians for Army and Air Force combined, while the OEM defines MQ-9B as a 40-hour-class, 40,000-ft-class BLOS ISR aircraft with optional SIGINT, tactical data-link, communications-gateway/relay and AEW mission kits.
+  - Status: reported
+  - Source type: primary transaction approval plus attributable execution reporting and OEM material
+  - Source: "Acquisition of MQ-9B drones: Speculative reports uncalled for"; "MQ-9B armed UAVs to be delivered by 2030"; "MQ-9B SkyGuardian."
+  - Publisher: Press Information Bureau / Ministry of Defence; The Hindu; General Atomics Aeronautical Systems
+  - Published: 25 June 2023; 17 October 2024; OEM datasheet 2023
+  - URL: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1935160 ; https://www.thehindu.com/news/national/mq-9b-armed-uavs-to-be-delivered-by-2030/article68761650.ece ; https://www.ga-asi.com/images/products/aircraft_systems/pdf/mq9b-skyguardian-datasheet-02012023.pdf
+  - Accessed: 2026-07-22
+  - Direct support: PIB confirms 16 SkyGuardian and 15 SeaGuardian aircraft at AoN; The Hindu reports the final 15 Navy / 8 Army / 8 Air Force allocation; GA-ASI publishes the endurance, altitude, BLOS and optional mission-kit categories.
+  - Limitations: The signed Indian contract and configuration are not public. Optional OEM kits are not proof that India bought SIGINT, AEW, Link 16 or relay kits, and the OEM's "AEW" option is not equivalent to the IAF's crewed AEW&C system. Allocation is not evidence of a follow-on IAF quantity.
+
+- Claim ID: C092
+  - Service: Air Force (tactical data and communications relay)
+  - Claim: The IAF has a documented requirement to move information in real time between sensors, command-and-control centres and shooters; AFNET/IACCS provides the fixed and network backbone, while a long-endurance UAS can provide a local airborne relay or gateway where terrain, range, disruption or temporary capacity creates a gap.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "AFNET to Herald Network Centric Operations in IAF"; "IAF Gets Dedicated Network, New Ground Assets and a Prized Brand Ambassador"; DRDO "Compendium of Products for Export 2025."
+  - Publisher: Press Information Bureau / Ministry of Defence; Defence Research and Development Organisation
+  - Published: 13 September 2010; 30 December 2010; 2025
+  - URL: https://pib.gov.in/newsite/PrintRelease.aspx?relid=65621 ; https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=68741 ; https://www.drdo.gov.in/drdo/sites/default/files/schemes_services/CompendiumProductforExport2025.pdf
+  - Accessed: 2026-07-22
+  - Direct support: PIB describes assured, secure, interoperable real-time transfer between sensors, C2 centres and shooters and says AFNET links ground and airborne sensors, air-defence weapons and C2 nodes. DRDO describes a UAV communications repeater, ATC voice relay and live intelligence streaming.
+  - Limitations: The DRDO repeater description is a platform capability, not an IAF contract or an airborne-relay fleet requirement. SCALE augments AFNET, SATCOM and terrestrial LOS links; it does not replace the national network or create command authority merely by carrying a gateway.
+
+- Claim ID: C093
+  - Service: Air Force (strike-package coordination and targeting support)
+  - Claim: A defensible SCALE role is persistent sensing, target-track continuity, communications support and data forwarding to authorised strike and C2 nodes; the checked public record does not establish that an IAF long-endurance UAS commands a strike package or assigns weapons.
+  - Status: reported
+  - Source type: primary capability evidence plus explicit evidence-boundary finding
+  - Source: "AFNET to Herald Network Centric Operations in IAF"; "Operation SINDOOR: The Rise of Aatmanirbhar Innovation in"; GA-ASI "Develops Long-Range Weapons Capabilities for MQ-9B."
+  - Publisher: Press Information Bureau / Ministry of Defence; General Atomics Aeronautical Systems
+  - Published: 13 September 2010; 14 May 2025; 23 February 2026
+  - URL: https://pib.gov.in/newsite/PrintRelease.aspx?relid=65621 ; https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/may/doc2025514554901.pdf ; https://www.ga-asi.com/ga-asi-develops-long-range-weapons-capabilities-for-mq-9b
+  - Accessed: 2026-07-22
+  - Direct support: Official material establishes sensor-C2-shooter networking, layered surveillance/planning/delivery and use of long-range drones and loitering munitions. GA-ASI's 2026 concept places MQ-9B at a hold point outside a hostile weapons-engagement zone, releasing long-range weapons only "if the order came" and in coordination with other operations.
+  - Limitations: The Operation Sindoor government narrative does not identify which UAS generated which target track, and it does not support earlier draft claims that Heron or TAPAS directed named weapons in real time. The GA-ASI example is a hypothetical future concept, not an Indian configuration or demonstrated IAF procedure.
+
+- Claim ID: C094
+  - Service: Air Force (unmanned teaming and launched effects)
+  - Claim: Public evidence supports unmanned teaming and launched effects as development paths, not an operational IAF SCALE demand quantity: Archer-NG's project director described network-centric MUM-T under IAF-informed requirements while the aircraft was awaiting first-flight clearance, and the official Make portal later advertised an IAF Make-II EOI for a Collaborative Long Range Target Saturation/Destruction System.
+  - Status: reported
+  - Source type: secondary interview reproduced by DRDO plus primary procurement portal
+  - Source: DRDO News Clippings, "DRDO's MALE UAV Archer-NG to take first sortie next month; weaponised version expected in 3 years"; Make in India Defence Production "Latest/What's New" and project contact listing.
+  - Publisher: Asianet Newsable interview reproduced by DRDO; Department of Defence Production / Ministry of Defence
+  - Published: 10 February 2025; EOI listed in 2026 with responses due 27 February 2026
+  - URL: https://www.drdo.gov.in/drdo/sites/default/files/drdo-news/NPC11Feb2025.pdf ; https://makeinindiadefence.gov.in/plus ; https://makeinindiadefence.gov.in/contact-us
+  - Accessed: 2026-07-22
+  - Direct support: The Archer-NG project director says the IAF supplied requirements and identifies network-centric and MUM-T roles while stating that first flight and the weaponised version remained future work. The government portal confirms an IAF-linked collaborative-system EOI and its submission deadline.
+  - Limitations: A DRDO clipping is not a DRDO certification statement, and "deep penetration" in the interview is a developer claim without a survivability basis. The EOI title does not disclose architecture, carrier platform, quantity, autonomy level or whether SCALE participates. Neither source proves an operational combat collaborative aircraft.
+
+- Claim ID: C095
+  - Service: Air Force (theatre and air-base-defence support)
+  - Claim: IACCS is the IAF's command-and-control backbone for integrated air defence; during Operation Sindoor, the official account attributes defence of airfields and logistics installations to a layered counter-UAS, EW and air-defence grid. SCALE can contribute offboard surveillance, track continuity or relay, but is not the point-defence weapon or the authoritative air-defence C2 system.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "Operation SINDOOR: The Rise of Aatmanirbhar Innovation in"; "Forging One Force"; "Aatmanirbhar Bharat: MoD inks Rs 3,700 crore contracts with BEL for Medium Power Radars 'Arudhra' & 129 DR-118 Radar Warning Receivers."
+  - Publisher: Press Information Bureau / Ministry of Defence
+  - Published: 14 May 2025; 18 May 2025; 23 March 2023
+  - URL: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/may/doc2025514554901.pdf ; https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/may/doc2025518557001.pdf ; https://pib.gov.in/Pressreleaseshare.aspx?PRID=1910065
+  - Accessed: 2026-07-22
+  - Direct support: PIB identifies IACCS integration and the defensive layers protecting airfields/logistics sites; the Arudhra contract shows the IAF separately procures purpose-built surveillance, detection, tracking and identification radars.
+  - Limitations: The official operation narratives are strategic communications, not technical after-action reports. They do not identify a large UAS contribution to base defence or quantify a coverage gap. A SCALE base-defence claim is therefore limited to **support** in permissive or standoff airspace, not substitution for radar, counter-UAS, SAM, EW or IACCS layers.
+
+- Claim ID: C096
+  - Service: Air Force (HAPS comparison)
+  - Claim: The IAF is publicly associated with a fixed-wing HAPS development/procurement path for persistent ISR, airborne data relay and electronic/communications intelligence; reported 2025 RFI parameters sought three platforms, at least 48 hours' endurance and operation around 16 km altitude.
+  - Status: reported
+  - Source type: primary programme listing plus attributable national reporting reproduced in DRDO news clippings
+  - Source: Make in India Defence Production "Make-I Project List" (Fixed-Wing based High Altitude Pseudo Satellite); DRDO News Clippings, 3–5 May 2025, reproducing "IAF to get pseudo satellites, Army airships."
+  - Publisher: Department of Defence Production / Ministry of Defence; The Tribune, reproduced by DRDO
+  - Published: official project page undated; article 4 May 2025
+  - URL: https://makeinindiadefence.gov.in/make1-project-list ; https://drdo.gov.in/drdo/sites/default/files/drdo_news/NPC03to05May2025.pdf
+  - Accessed: 2026-07-22
+  - Direct support: The government portal lists an Air Force fixed-wing HAPS project. The report quotes an MoD RFI for persistent ISR, relay and ELINT/COMINT and gives quantity, altitude and minimum-endurance parameters.
+  - Limitations: The original RFI was not located on a stable official page, so its parameters remain `reported`; an RFI or Make project is not a contract or operational system. HAPS can outperform fuelled SCALE on altitude and multi-day fixed-area persistence, while SCALE is recoverable, more payload-flexible and more readily retasked; no reliable public source was found for like-for-like payload, weather availability or cost.
+
+- Claim ID: C097
+  - Service: Air Force (AEW&C comparison)
+  - Claim: AEW&C outperforms SCALE in airborne early warning and full air-battle management because Netra combines radar, IFF, ESM/CSM, sensor fusion, threat evaluation, weapon assignment, intercept control/guidance, secure links and five onboard operator stations; SCALE may contribute tracks or relay but cannot be treated as a replacement.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "NETRA"; "Systems & Sub-Systems deployed in the AEW&C System"; "Compendium of Products for Export 2025"; "First Indigenous Airborne Early Warning and Control System (AEW&C) in IOC Configuration to be Handed over to IAF During Aero India 2017."
+  - Publisher: Defence Research and Development Organisation; Press Information Bureau / Ministry of Defence
+  - Published: DRDO webpages undated; compendium 2025; PIB release 11 February 2017
+  - URL: https://drdo.gov.in/drdo/en/offerings/products/netra ; https://www.drdo.gov.in/drdo/technology-cluster-links/labs-products-detail/1152/144 ; https://www.drdo.gov.in/drdo/sites/default/files/schemes_services/CompendiumProductforExport2025.pdf ; https://pib.gov.in/newsite/PrintRelease.aspx?relid=158393
+  - Accessed: 2026-07-22
+  - Direct support: DRDO and PIB enumerate the integrated surveillance, operator, C2 and battle-management functions and identify Netra as an IACCS node accepted by the IAF.
+  - Limitations: Public data do not permit a classified detection-range or survivability comparison. An OEM may label a UAS payload "AEW", but payload carriage alone does not reproduce Netra's crew, certified operator consoles, mission system, command authority or intercept-control function.
+  - Rejected claim: **SCALE replaces AEW&C.** Rejected categorically for the business case.
+
+- Claim ID: C098
+  - Service: Air Force (crewed ISR and fighter-reconnaissance comparison)
+  - Claim: Crewed special-mission aircraft retain onboard operators, payload-management flexibility and immediate judgement, while fighter reconnaissance retains speed and the ability to collect from high altitude/standoff or at high speed and very low level; SCALE wins endurance and removes aircrew from the orbit but does not replace either category.
+  - Status: reported
+  - Source type: primary developer/OEM material
+  - Source: DRDO "NETRA" and AEW&C mission-system material; Dassault Aviation "Rafale — The OMNIROLE fighter" and India Rafale contract release.
+  - Publisher: Defence Research and Development Organisation; Dassault Aviation
+  - Published: DRDO pages undated; Rafale technical file February 2015; India contract release 23 September 2016
+  - URL: https://drdo.gov.in/drdo/en/offerings/products/netra ; https://www.dassault-aviation.com/wp-content/blogs.dir/1/files/2015/02/Rafale-file_UK.pdf ; https://www.dassault-aviation.com/wp-content/blogs.dir/2/files/2016/09/PR_Dassault_Rafale-Signature_India.pdf
+  - Accessed: 2026-07-22
+  - Direct support: DRDO documents onboard controllers and mission systems on the crewed Embraer platform. Dassault documents Rafale reconnaissance as a platform mission and describes the AREOS system's standoff/high-altitude through high-speed/very-low-level envelope.
+  - Limitations: Public Indian contract material does not confirm that IAF Rafales bought AREOS, so AREOS is used as a fighter-class comparator, not an Indian inventory claim. No public operating-cost comparison was found.
+  - Rejected claim: **SCALE replaces fast survivable reconnaissance.** Rejected; a non-stealthy long-endurance turboprop does not inherit fighter speed, self-protection or low-level penetration merely by carrying an EO/SAR payload.
+
+- Claim ID: C099
+  - Service: Air Force (satellite comparison)
+  - Claim: Satellite communications provide broad, persistent backbone coverage without exposing an aircraft orbit; SCALE complements that backbone with recoverable, local, directional and retaskable sensing/relay but cannot replace strategic SATCOM.
+  - Status: confirmed
+  - Source type: primary
+  - Source: "GSLV-F11 / GSAT-7A Mission"; "Antony Dedicates AFNET to the Nation."
+  - Publisher: Indian Space Research Organisation; Press Information Bureau / Ministry of Defence
+  - Published: 19 December 2018; 14 September 2010
+  - URL: https://www.isro.gov.in/mission_GSLVF11.html ; https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=65739
+  - Accessed: 2026-07-22
+  - Direct support: ISRO identifies GSAT-7A as a geostationary Ku-band communications satellite serving the Indian region; PIB states AFNET uses SATCOM as an overlay with terrestrial and LOS redundancy.
+  - Limitations: ISRO does not publicly assign users or disclose military capacity, resilience or latency. These sources support the architecture-level comparison, not a claim that one satellite supplies every IAF airborne platform or that SCALE can substitute for it.
+
+- Claim ID: C100
+  - Service: Air Force (combat collaborative aircraft comparison)
+  - Claim: Combat collaborative aircraft and launched effects are designed to add forward, distributed, potentially attritable sensing or effects near contested airspace; SCALE is better framed as the persistent standoff carrier, gateway, sensor or recovery/control node where integration is proven, not as the penetrating collaborative aircraft itself.
+  - Status: assumption
+  - Source type: primary programme-existence evidence and OEM concept material
+  - Source: Make in India Defence Production EOI listing for "Collaborative Long Range Target Saturation/Destruction System"; GA-ASI "Small Unmanned Aerial Systems and Launched Effects."
+  - Publisher: Department of Defence Production / Ministry of Defence; General Atomics Aeronautical Systems
+  - Published: EOI listed 2026; OEM webpage undated
+  - URL: https://makeinindiadefence.gov.in/plus ; https://www.ga-asi.com/remotely-piloted-aircraft/small-uas-and-launched-effects
+  - Accessed: 2026-07-22
+  - Direct support: The government portal confirms an IAF collaborative-system development opportunity. GA-ASI describes MALE-launched attritable/recoverable effects for ISR, SIGINT/ELINT, jamming and strike in contested areas while extending the host platform's standoff.
+  - Limitations: GA-ASI material is not an Indian requirement and the IAF EOI title does not disclose system design. The division of labour is therefore an analytical architecture hypothesis requiring IAF trials, datalink/latency evidence, weapons-release authority, carriage and recovery integration, and CEMILAC/DGAQA clearance.
+
+- Claim ID: C101
+  - Service: Air Force (survivability red line)
+  - Claim: Routine penetration of dense integrated air defences is not a supported SCALE mission; the defensible baseline is permissive or protected airspace and **standoff** operation, with attritable launched effects, stand-off weapons, fighters or other survivable systems taking the forward risk.
+  - Status: rejected
+  - Source type: operational loss evidence already recorded at C061 plus OEM concept evidence
+  - Source: C061; GA-ASI "Develops Long-Range Weapons Capabilities for MQ-9B"; GA-ASI "Small Unmanned Aerial Systems and Launched Effects."
+  - Publisher: Associated Press; The War Zone; General Atomics Aeronautical Systems
+  - Published: 2025; 23 February 2026; launched-effects webpage undated
+  - URL: See C061; https://www.ga-asi.com/ga-asi-develops-long-range-weapons-capabilities-for-mq-9b ; https://www.ga-asi.com/remotely-piloted-aircraft/small-uas-and-launched-effects
+  - Accessed: 2026-07-22
+  - Direct support: Reported MQ-9 losses demonstrate vulnerability to air defence. GA-ASI itself describes MQ-9B holding outside a hostile weapons-engagement zone and using small effects for contested-area sensing/jamming/strike.
+  - Limitations: Survivability is configuration-, threat-, support- and mission-dependent. This red line does not claim that SCALE can never enter contested airspace; it rejects **routine dense-IADS penetration** absent threat-specific evidence, suppression, escort, self-protection and an accepted attrition model.
+  - Rejected claim: **SCALE routinely penetrates dense IADS.**
+
+- Claim ID: C102
+  - Service: Air Force (human authorization red line)
+  - Claim: The business case must not propose autonomous lethal action without human authorization; autonomy may support flight, sensing, classification, navigation and teaming, but use of lethal force remains subject to human responsibility, applicable law, target/area/time limits and explicit rules of engagement.
+  - Status: rejected
+  - Source type: primary Indian diplomatic position
+  - Source: "Statement by Ambassador Anupam Ray at the Group of Governmental Experts on emerging technologies in the area of Lethal Autonomous Weapons Systems"; India's national submission under UN General Assembly resolution 78/241.
+  - Publisher: Permanent Mission of India to the United Nations in Geneva; United Nations Office for Disarmament Affairs
+  - Published: 26 August 2024; 2024
+  - URL: https://pmindiaun.gov.in/Cdgeneva/statement_content/NDU5 ; https://docs-library.unoda.org/General_Assembly_First_Committee_-Seventy-Ninth_session_(2024)/78-241-India-EN.pdf
+  - Accessed: 2026-07-22
+  - Direct support: India states that LAWS remain subject to IHL and supports control sufficient for distinction, proportionality and precautions; its submission identifies target, duration, geographic-scope and scale limits and training/instructions for human operators.
+  - Limitations: India's public position does not require a human trigger pull in every conceivable conventional-weapons architecture and supports regulating, rather than categorically banning, compliant LAWS. The stricter human-authorization requirement is therefore an explicit **business-case design red line**, not a claim that it quotes current IAF doctrine verbatim.
+  - Rejected claim: **SCALE takes lethal action without human authorization.**
+
+- Claim ID: C103
+  - Service: Air Force (battle-management red line)
+  - Claim: Battle-management **support** from SCALE—track generation, relay, cueing, target updates or data forwarding—is not equivalent to full air-battle management, weapon assignment, intercept control or command authority.
+  - Status: rejected
+  - Source type: primary capability-boundary evidence
+  - Source: "Systems & Sub-Systems deployed in the AEW&C System"; "DRDO Technology e-Bulletin" on AEW&C; DRDO "Compendium of Products for Export 2025."
+  - Publisher: Defence Research and Development Organisation
+  - Published: webpages undated; compendium 2025
+  - URL: https://www.drdo.gov.in/drdo/technology-cluster-links/labs-products-detail/1152/144 ; https://drdo.gov.in/drdo/hi/node/11921 ; https://www.drdo.gov.in/drdo/sites/default/files/schemes_services/CompendiumProductforExport2025.pdf
+  - Accessed: 2026-07-22
+  - Direct support: DRDO assigns threat evaluation, weapon assignment, intercept control/guidance, onboard operator interaction and C2-centre functions to AEW&C. Its UAS material supports sensing, relay and streaming but does not assign those command functions to the UAS.
+  - Limitations: Future certified automation could shift task allocation, but no public IAF requirement or authority framework supports that shift for SCALE as of the access date.
+  - Rejected claim: **SCALE battle-management support equals full air-battle management.**
+
 ---
 
 ## 4. Indian Navy missions and programmes
