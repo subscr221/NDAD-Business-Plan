@@ -1,35 +1,64 @@
-# SCALE UAS: an investor business case
+# SCALE UAS: investor business case
 
-**Class:** Specialised C5ISR Autonomous Long Endurance (SCALE) unmanned aircraft systems
-**Anchor market:** India, with an export pathway after a domestic reference
-**Audience:** A defense-literate lead investor and generalist co-investors
-**Nature of the numbers:** Market figures and transactions are sourced, with references in the appendix; figures were verified in July 2026 and should be re-checked at time of use. The entrant scenario in §7 is one internally consistent illustration built bottom-up from transaction-validated price anchors. It is not a forecast, and no figure in this document comes from any single company's model.
+**Class:** Specialised C5ISR Autonomous Long Endurance (SCALE) unmanned aircraft systems  
+**Anchor market:** India, then export after a domestic reference  
+**Audience:** Defense-literate lead investor and generalist co-investors  
+**Numbers:** Market figures and deals are sourced (appendix). Verified July 2026; re-check at use. The scenario in §7 is one internally consistent illustration built from transaction price anchors. It is not a forecast, and no figure here comes from any single company's model.
 
-> **Reading the acronyms.** C5ISR stands for Command, Control, Computers, Communications, Cyber, Intelligence, Surveillance and Reconnaissance: the network of sensors, radios, computers and decision aids through which a military force sees the battlefield and directs its assets. A SCALE UAS is a large unmanned aircraft, in the one-to-five-tonne bracket, that stays aloft for 24 to 40 hours and does C5ISR work. It carries the radar, collects the signals, relays the communications, runs the mission computers, and increasingly directs smaller drones. The useful mental model is a flying data centre and radio mast, not an aircraft with sensors bolted on.
+> **C5ISR** is Command, Control, Computers, Communications, Cyber, Intelligence, Surveillance and Reconnaissance: the sensors, radios, computers and decision aids a military force uses to see the battlefield and direct its assets. A **SCALE UAS** is a large unmanned aircraft in the one-to-five-tonne bracket that stays aloft 24 to 40 hours and does that work. It carries the radar, collects the signals, relays the communications, runs the mission computers, and increasingly directs smaller drones. Useful mental model: a flying data centre and radio mast, not an aircraft with sensors bolted on.
 
 ---
 
-## Prologue: two signatures and a tender
+## Executive summary
 
-Start where the customer starts, on the water. India has 11,099 kilometres of coastline (the official figure, re-surveyed and promulgated in April 2025) and an exclusive economic zone of 2.3 million square kilometres. Chinese survey ships, submarines and task groups now move through that expanse as a matter of routine. An ocean that size cannot be watched from a pier. It has to be watched from altitude, for days at a time, by something that carries a radar worth the name.
+Between 2022 and 2025, unmanned aircraft moved from experiment to line item. Ukraine, the Red Sea and South Asia each showed that cheap drones can decide expensive fights, and that the world's benchmark large platform (the MQ-9) can be shot down by weapons that cost a fraction of the airframe. At the same time, every coastal state that must watch an ocean still needs something that small drones cannot be: a persistent, high-power sensor and communications node that stays aloft for a day or more. That tension defines the investment case for SCALE (Specialised C5ISR Autonomous Long Endurance) unmanned aircraft systems, the class this document isolates from the broader and now-misleading MALE label.
+
+India is where the case is live, funded and measurable. The country has 11,099 km of coastline and a 2.3 million km² exclusive economic zone. Chinese survey ships, submarines and task groups transit that water as routine. On 15 October 2024 New Delhi signed a ₹28,000 crore (USD 3.5 billion) contract for 31 imported MQ-9Bs, with the Navy taking the largest share and a separate ₹4,350 crore logistics deal signed the same day. Deliveries do not begin until 2029. In August 2025 the Defence Acquisition Council cleared an indigenous buy of 87 MALE-class aircraft valued above ₹30,000 crore under the IDDM category with a 60% indigenous-content mandate. Bids closed on 16 June 2026 with roughly ten Indian firms in the queue; the ministry plans a dual award split 64:36. The stated tri-service requirement is 97 platforms, with service projections toward 350. Evaluation is underway now. The import prices the class near ₹900 crore per system; the domestic tender near ₹345 crore per system-equivalent.
+
+Those two transactions settle demand. They also expose the filter that will decide returns. Military airworthiness for an aircraft this size takes five to seven years and burns capital before product revenue. DRDO's TAPAS program showed the cost of underestimating that path: more than a decade of development, closed as a mission-mode project in January 2024 after missing altitude and endurance targets, and excluded from the 87-aircraft tender by March 2026. Few entrants can finance the wait. The tender's own dual-award structure assumes the field will narrow to two winners.
+
+**Governing thesis.** In this class the scarce asset is certification and qualification capacity, not demand. The entrant that converts sovereign demand into certified backlog first captures a decade of high-price, low-volume aircraft revenue, then a 25-year annuity in mission systems, software and sustainment. The airframe gets you into the room. The C5ISR stack is the business.
+
+Three claims support that thesis; the rest of the document evidences each:
+
+1. **Demand.** Sovereign, mission-validated and tendered. India bought this class for the ocean in 2024 and put an indigenous replacement on the table in 2025–26.
+2. **Qualification.** The five-to-seven-year airworthiness gate, and the TAPAS cautionary timeline, turn a crowded bidder list into an oligopoly. Financing the wait is the first diligence question.
+3. **Returns.** Sustainment, software and upgrades run at roughly 8 to 12 percent of fleet value per year across a ~25-year life. Own the mission computer, autonomy stack and payload interfaces and that stream is yours. Assemble an airframe around licensed foreign sensors and it is not. May 2025 (Operation Sindoor) further sharpened the product: large platforms directed the fight from standoff while expendables struck and swarms died to legacy guns. The durable role is controller and C5ISR node, not penetrating strike.
+
+This is a sector case. It names no company. Each section ends with diligence checks; §10 consolidates them into a checklist. Use it to judge every SCALE pitch that crosses the desk, including the ~ten already standing in the tender queue.
+
+---
+
+## 1. Market context: India procurement
+
+Start on the water, where the customer starts. India has 11,099 kilometres of coastline (the official figure, re-surveyed and promulgated in April 2025) and an exclusive economic zone of 2.3 million square kilometres. Chinese survey ships, submarines and task groups now move through that expanse as a matter of routine. You cannot watch an ocean that size from a pier. You watch it from altitude, for days at a time, with a radar worth the name.
 
 On 15 October 2024 the Government of India signed a ₹28,000 crore (USD 3.5 billion) contract for 31 MQ-9B aircraft from General Atomics, with 15 Sea Guardians going to the Navy and eight Sky Guardians each to the Army and Air Force, plus a separate ₹4,350 crore contract for depot-level maintenance in India. The Navy, the service with the clearest picture of its own need, took the largest share. The fleet arrives late: first delivery January 2029, last by October 2030.
 
 Then, in August 2025, the second signature. India's Defence Acquisition Council cleared a tri-service procurement of 87 indigenous MALE-class aircraft, valued above ₹30,000 crore, under the Indigenously Designed, Developed and Manufactured category with a 60 percent indigenous-content mandate. The request for proposals went out in November 2025. Bids closed on 16 June 2026 with roughly ten Indian firms competing, among them HAL, Tata Advanced Systems, Larsen & Toubro, Adani Defence, Solar Defence and Raphe mPhibr. The ministry plans to split the award between the two best compliant bidders in a 64:36 ratio. The tender sits inside a wider stated tri-service requirement of 97 platforms, with service projections of future demand running as high as 350 units.
 
-Put those two transactions side by side. The imported benchmark costs roughly ₹900 crore per system, arrives in 2029, and locks India into a foreign upgrade cycle. The domestic tender prices the same class of capability at roughly ₹345 crore per system-equivalent, demands majority-Indian content and verified intellectual property, and will anoint at most two winners. That choice is being made now, in evaluation committees. This document is meant to help you judge every company standing in that queue.
+| | Import (MQ-9B) | Domestic tender |
+| --- | --- | --- |
+| Price per system | ~₹900 crore | ~₹345 crore system-equivalent |
+| Timing | Arrives 2029–30 | Evaluation now |
+| Content / IP | Foreign upgrade cycle | Majority-Indian content; verified IP |
+| Winners | One foreign OEM | At most two Indian awards |
+
+Put those two next to each other and the choice is obvious on paper. It is being made now, in evaluation committees.
+
+> **How defense procurement differs from commercial markets.** One customer per country: the ministry of defense. Sales cycles of three to seven years. Orders come as large, lumpy contracts after formal trials. A signed order book matters more than monthly revenue as the indicator of health. Prices are public more often than in commercial markets, because parliaments ask.
 
 ---
 
-## 1. Two businesses wearing one name
+## 2. Class definition
 
-Ten years ago an investor reading a pitch for a large military drone would have filed it under one label: MALE, medium-altitude long-endurance, the class the MQ-9 Reaper made famous. That label now covers too much. It bundles two businesses with opposite economics, and the first diligence job in this sector is telling them apart.
+Ten years ago an investor reading a pitch for a large military drone would have filed it under one word: MALE, medium-altitude long-endurance, the class the MQ-9 Reaper made famous. That label now covers too much. It bundles two businesses with opposite economics, and the first diligence job in this sector is telling them apart.
 
 The first business is the armed drone loitering over a contested battlefield. The last three years wrote its ending in public. The Houthis claim 22 MQ-9 Reapers shot down over Yemen since October 2023; US officials have acknowledged at least a dozen, including seven lost in under six weeks during the spring 2025 air campaign, at roughly USD 30 million per aircraft. Over half a billion dollars of the world's benchmark platform, downed by weapons costing a fraction of the airframe. A slow aircraft the size of a small airliner does not survive over a defended battlefield, and engineering spend does not change that arithmetic. Pitches still circulate for penetrating strike drones in this class. Pass on them.
 
-The second business is the one this document argues for, and it got its combat validation closer to home. During the four-day India-Pakistan conflict of May 2025 (Operation Sindoor), the first large-scale drone war in South Asia, India's strike waves of Harop, Nagastra-1 and SkyStriker loitering munitions were guided in real time by Heron Mk II and TAPAS aircraft orbiting at standoff range. The large, persistent platforms found and fixed the targets; the cheap expendable ones flew into them. Pakistan's counter-swarm of 300 to 600 small drones, by contrast, was shredded by upgraded legacy air-defense guns. The lesson from May 2025 is narrow and useful: small drones die in bulk over defended ground, and the platform class that directed the fight from a distance is the one that earned its cost.
+The second business is the one this document argues for, and it got its combat validation closer to home. During the four-day India-Pakistan conflict of May 2025 (Operation Sindoor), India's strike waves of Harop, Nagastra-1 and SkyStriker loitering munitions were guided in real time by Heron Mk II and TAPAS aircraft orbiting at standoff range. The large, persistent platforms found and fixed the targets; the cheap expendable ones flew into them. Pakistan's counter-swarm of 300 to 600 small drones, by contrast, was shredded by upgraded legacy air-defense guns. The lesson is narrow and useful: small drones die in bulk over defended ground, and the platform class that directed the fight from a distance is the one that earned its cost.
 
-SCALE, Specialised C5ISR Autonomous Long Endurance, names that second business so you can evaluate it on its own terms.
+SCALE (Specialised C5ISR Autonomous Long Endurance) names that second business so you can evaluate it on its own terms.
 
 **Specialised.** The aircraft is designed around specific C5ISR missions (maritime surveillance, signals intelligence, communications relay, battle management) rather than as a general-purpose bomb truck with a camera. That shows up in the engineering: power budgets sized for radar, antenna apertures designed in from the start, open payload bays, satellite datalinks as a core requirement rather than an option.
 
@@ -41,21 +70,7 @@ SCALE, Specialised C5ISR Autonomous Long Endurance, names that second business s
 
 ---
 
-## 2. The governing thesis
-
-**Certification and qualification capacity, not demand, is the scarce asset in the SCALE class. The entrant that converts sovereign demand into certified backlog earliest captures a decade of high-price, low-volume aircraft revenue plus a 25-year annuity in mission systems, software and sustainment. The airframe is the entry ticket. The C5ISR stack is the business.**
-
-Three claims sit under that thesis; the rest of the document evidences each:
-
-1. **Demand is real, sovereign-backed, mission-validated and now tendered.** The 2024 MQ-9B purchase settled the demand argument at a government-published price, with the Navy taking the largest share: India bought this class for the ocean. The 2025-26 indigenous tender for 87 aircraft, inside a 97-platform requirement with projections toward 350, converted that demand from doctrine into a live, funded competition.
-2. **Qualification filters the field before the market does.** Military airworthiness certification for an aircraft this size takes five to seven years and consumes capital before meaningful product revenue exists. DRDO's TAPAS showed the cost of underestimating this: over a decade of development, closed as a mission-mode program in January 2024 after missing its altitude and endurance requirements, and excluded from the 87-aircraft tender it was meant to win. Few entrants can finance the wait. The toll gate turns a crowded field into an oligopoly, and the tender's own structure (two winners splitting the award 64:36) says so explicitly.
-3. **The economics reward the platform-owner.** A SCALE aircraft in service generates sustainment, software and upgrade revenue of roughly 8 to 12 percent of fleet value per year across a service life of 25 years. The anchor transaction proves the annuity exists: India signed a separate ₹4,350 crore performance-based logistics contract alongside the MQ-9B buy on day one. The entrant that owns the mission computer, the autonomy stack and the payload interfaces collects that stream. The entrant that assembles an airframe around licensed foreign sensors pays rent on it instead.
-
-This is a sector case. It names no company, and every section closes with a short list of things to verify in any data room, consolidated into a scorecard in §10. Its job is to equip you to judge every SCALE pitch that crosses your desk, including the ten already standing in the tender queue.
-
----
-
-## 3. The prize on the table
+## 3. Market size and pricing
 
 | Frame | Figure | Basis |
 | ----- | ------ | ----- |
@@ -66,7 +81,7 @@ This is a sector case. It names no company, and every section closes with a shor
 | Domestic price anchor | ₹30,000 Cr / 87 = ~₹345 Cr per system-equivalent | The 87-aircraft tender's program value |
 | Unit floor | ~₹120 Cr per aircraft | Drishti-10 Starliner emergency purchases, Navy and Army, 2024 |
 
-Spend time on the price anchors. They are the most useful numbers in this document, and there are now three of them where a year ago there was one. Analyst market sizings are estimates stacked on estimates; these are transactions. The imported system costs ₹900 crore all-in. The domestic tender prices a full system-equivalent near ₹345 crore. The cheapest credible domestic aircraft, Adani's Drishti-10 (a licence-built Elbit Hermes 900), changed hands at roughly ₹120 crore per aircraft under emergency procurement. A domestic entrant's catalogue price of ₹150 to 210 crore per aircraft, the band this document's economics rest on, sits inside that corridor: above the licence-built floor, below the tender's all-in system price, and a fraction of the import. Any pitch pricing outside the corridor owes you an explanation the transactions cannot give.
+The price anchors are the most useful numbers in this document, and there are now three of them where a year ago there was one. Analyst market sizings are estimates stacked on estimates; these are transactions. The imported system costs ₹900 crore all-in. The domestic tender prices a full system-equivalent near ₹345 crore. The cheapest credible domestic aircraft, Adani's Drishti-10 (a licence-built Elbit Hermes 900), changed hands at roughly ₹120 crore per aircraft under emergency procurement. A domestic entrant's catalogue price of ₹150 to 210 crore per aircraft, the band this document's economics rest on, sits inside that corridor: above the licence-built floor, below the tender's all-in system price, and a fraction of the import. Any pitch pricing outside the corridor owes you an explanation the transactions cannot give.
 
 The competitive field has two layers. The global incumbents an Indian program must ultimately measure against:
 
@@ -80,15 +95,13 @@ The competitive field has two layers. The global incumbents an Indian program mu
 
 Then the domestic tender queue: roughly ten Indian bidders, most partnered with foreign OEMs (Elbit, IAI, General Atomics among them), competing for the two award slots. That partnering pattern is the field's central weakness and a clean-sheet entrant's opening. None of the global incumbents was designed from the start as a C5ISR node; each carries its heritage as a surveillance-strike aircraft. Most of the domestic bidders are assembling around mission stacks they do not own. The tender's evaluation committee is explicitly checking genuine IP ownership and supply-chain localisation. The gap in this field is the platform-owner with the C5ISR stack in-house, and the customer has effectively published that gap in its own tender documents.
 
-> **How defense procurement differs from commercial markets.** One customer per country: the ministry of defense. Sales cycles of three to seven years. This tender was cleared in 2025 for a requirement stated years earlier, and the imported aircraft signed in 2024 arrive in 2029. Orders come as large, lumpy contracts after formal trials. A signed order book (backlog) matters more than monthly revenue as the indicator of health. Prices are public more often than in commercial markets, because parliaments ask.
-
 **What to verify:** the entrant's position in the 87-aircraft tender, or its credible path to the follow-on tranches of the 97-to-350 requirement; pricing inside the transaction corridor; whether the pitch distinguishes the durable C5ISR missions from the disrupted strike mission, or leans on weapons-release footage.
 
 ---
 
-## 4. The moat is physics
+## 4. Endurance barrier and substitution
 
-The objection you will hear in every partner meeting runs like this: Ukraine and the May 2025 India-Pakistan clash proved that small, cheap, attritable drones do the work, so why pay ₹180 crore for an aircraft when a few lakh buys a swarm? The objection deserves a full answer, because the answer is where the thesis has to hold, and May 2025 sharpened it rather than blunting it.
+The objection you will hear in every partner meeting runs like this: Ukraine and the May 2025 India-Pakistan clash proved that small, cheap, attritable drones do the work, so why pay ₹180 crore for an aircraft when a few lakh buys a swarm?
 
 India's defining surveillance problem is an ocean of 2.3 million square kilometres beyond 11,099 kilometres of coast. Ask what a quadcopter does 1,200 kilometres from Kochi. It cannot get there. If it could get there, it could not carry a radar worth the name. If it could carry the radar, it could not power it. And if it could power it, it could not stay on station long enough to matter, because a small airframe spends most of its fuel getting to and from the patrol area. Four independent failures, each enough on its own.
 
@@ -96,7 +109,7 @@ Each of those failures traces to a physical quantity that refuses to shrink. A s
 
 Run the arithmetic on a single standing patrol. One continuous orbit 1,000 kilometres offshore takes three to four aircraft of 30-plus-hour endurance rotating on station. Covering the same water with five-hour small drones is never a matter of buying ten times as many; the transit time consumes their endurance before they reach station, so the answer diverges toward an unworkable logistics chain delivering no radar coverage at all. On cost per surveilled square kilometre per hour over open water, the large aircraft wins by orders of magnitude. The Indian Navy has done this arithmetic twice: it took the largest share of the MQ-9B order, and it moved first on the Drishti-10 under emergency powers, basing the aircraft at Porbandar to watch the Arabian Sea.
 
-Place the class inside the attritable-drone era rather than against it. May 2025 supplied the demonstration. In the strike waves of Operation Sindoor, the expendable drones were the effectors, and the large platforms (Heron Mk IIs and TAPAS orbiting at standoff range) were the sensors and the command layer, finding targets and steering the loitering munitions onto them in real time. Meanwhile Pakistan's own swarm of several hundred small drones was neutralised, much of it by upgraded 1970s-era guns firing air-burst ammunition, a cheap refutation of the idea that attritables saturate their way to victory against a layered defense. The attritable shift does not delete the large aircraft. It moves it from hunter to controller, and the controller role is the better business: higher software content, deeper integration into the customer's command system, stickier revenue.
+Place the class inside the attritable-drone era rather than against it. May 2025 supplied the demonstration. In the strike waves of Operation Sindoor, the expendable drones were the effectors, and the large platforms (Heron Mk IIs and TAPAS orbiting at standoff range) were the sensors and the command layer, finding targets and steering the loitering munitions onto them in real time. Meanwhile Pakistan's own swarm of several hundred small drones was neutralised, much of it by upgraded 1970s-era guns firing air-burst ammunition. The attritable shift does not delete the large aircraft. It moves it from hunter to controller, and the controller role is the better business: higher software content, deeper integration into the customer's command system, stickier revenue.
 
 The honest converse: the attritables reshape the product. The SCALE aircraft of 2030 launches expendable effects from its own wings, directs them mid-mission, and serves as the communications bridge between a swarm and a command post. General Atomics is integrating air-launched effects on the MQ-9B, and Baykar markets the Akıncı as a controller. An entrant designing a closed-architecture aircraft today (sensors welded to airframe, software sealed by the vendor) is building something that will age badly. Open payload bays and software-defined mission systems are a design requirement of the class, and any illustrative economics that assume otherwise are fiction.
 
@@ -104,15 +117,15 @@ The honest converse: the attritables reshape the product. The SCALE aircraft of 
 
 ---
 
-## 5. Qualification
+## 5. Qualification and airworthiness
 
 > **Military airworthiness certification in plain terms.** Before an armed force accepts a large unmanned aircraft over its territory and its ships, a national airworthiness authority must certify the design, the software and the production process: design reviews, ground rigs, and hundreds to thousands of flight-test hours. In India the design authority is CEMILAC and the quality authority is DGAQA. Export customers impose their own equivalents (the Drishti-10 carries NATO's STANAG 4671, which is part of why the Navy could induct it fast), so certification is a gate an entrant passes more than once.
 
 Qualification organises this sector. Hold three facts about it at once.
 
-First, it costs years and capital, and it has already consumed the state champion. DRDO's TAPAS-BH-201, the indigenous MALE program that was supposed to fill this requirement, ran for over a decade, fell short of its altitude and endurance requirements, was closed as a mission-mode project in January 2024, and by March 2026 was confirmed excluded from the 87-aircraft tender. It survives only as a technology demonstrator feeding the follow-on Archer-NG. That history is the single most instructive data point in Indian unmanned aviation: design, prototype, flight test, qualification is a sequence that cannot be compressed by enthusiasm or by state backing. The business you are evaluating is, before anything else, a business of financing a wait. The winner is the entrant whose balance sheet and institutional patience outlast the queue.
+First, it costs years and capital, and it has already consumed the state champion. DRDO's TAPAS-BH-201, the indigenous MALE program that was supposed to fill this requirement, ran for over a decade, fell short of its altitude and endurance requirements, was closed as a mission-mode project in January 2024, and by March 2026 was confirmed excluded from the 87-aircraft tender. It survives only as a technology demonstrator feeding the follow-on Archer-NG. Design, prototype, flight test, qualification is a sequence that cannot be compressed by enthusiasm or by state backing. The business you are evaluating is, before anything else, a business of financing a wait. The winner is the entrant whose balance sheet and institutional patience outlast the queue.
 
-Second, that wait is why the prize exists. Because few entrants can finance it, each sovereign market ends up with two or three qualified suppliers, and India has now formalised exactly that: the tender awards two slots, 64:36. The gate is the filter, and the filter is the moat. An investor who backs a crossing entrant is buying a position on the far side, which is why every serious diligence question in this sector reduces to some version of: where is this company on the qualification path, and how do you know?
+Second, that wait is why the prize exists. Because few entrants can finance it, each sovereign market ends up with two or three qualified suppliers, and India has now formalised exactly that: the tender awards two slots, 64:36. An investor who backs a crossing entrant is buying a position on the far side of that gate, which is why every serious diligence question in this sector reduces to some version of: where is this company on the qualification path, and how do you know?
 
 Third, schedule slip on this path is the dominant value destroyer, ahead of any cost overrun. At catalogue prices of ₹150–210 crore per aircraft, a twelve-month slip defers roughly ₹180 to 540 crore of annual deliveries at the ramp rates in §7, and slips of that size are the norm for first-of-class programs; the tender itself had its bid deadline extended twice. Price the slip when you price the round.
 
@@ -122,23 +135,23 @@ For the SCALE class specifically, the autonomy and mission software must be cert
 
 ---
 
-## 6. Platform-owner and shell-maker
+## 6. Business model archetypes
 
 Two kinds of company will show up in your deal flow wearing the same class label. They look alike in a pitch deck. They photograph the same beside their prototypes. One collects the annuity; the other mostly does not. The distinction decides the returns.
 
 The **platform-owner** holds the airframe IP, the flight-control software, the mission computer, the payload interfaces and the autonomy stack. When the customer wants a new radar mode, the platform-owner writes it and bills for it. When the fleet reaches mid-life, the platform-owner sells the upgrade program into its own installed base. Every sensor added to the aircraft deepens the customer's dependence on integration work only the platform-owner can do. That is the durable answer to the extreme buyer power of a one-customer market.
 
-The **shell-maker** builds or assembles the airframe and integrates licensed foreign sensors around a mission system it does not own. Assembly margin is real money, and shell-makers win contracts, sometimes well: the Drishti-10, a Hermes 900 built in Hyderabad under Elbit licence with 70 percent claimed indigenous content, won emergency orders from two services and is heading toward a ten-aircraft naval fleet. Then the sensor OEM sells the upgrades, the software house bills the change requests, and the shell-maker watches the annuity go elsewhere. Worse, the shell-maker is displaceable: any competitor with the same licences can offer the same aircraft, so each recompete is fought on price.
+The **shell-maker** builds or assembles the airframe and integrates licensed foreign sensors around a mission system it does not own. Assembly margin is real money, and shell-makers win contracts, sometimes well: the Drishti-10, a Hermes 900 built in Hyderabad under Elbit licence with 70 percent claimed indigenous content, won emergency orders from two services and is heading toward a ten-aircraft naval fleet. Then the sensor OEM sells the upgrades, the software house bills the change requests, and the shell-maker watches the annuity go elsewhere. The shell-maker is also displaceable. Any competitor with the same licences can offer the same aircraft, so each recompete is fought on price.
 
-This distinction is no longer just an investor's analytical lens; the customer has adopted it. The tender's technical evaluation explicitly checks whether bidders possess genuine intellectual property rights over their platforms and whether critical subsystems are localised. Ministry commentary has flagged control over design, software and data systems as a key differentiator in final selection. Most of the ten bidders are Indian primes partnered with Elbit, IAI or General Atomics. The evaluation committee's job, and yours, is the same: find out who owns what, in substance.
+This distinction is no longer just an investor's analytical lens; the customer has adopted it. The tender's technical evaluation explicitly checks whether bidders possess genuine intellectual property rights over their platforms and whether critical subsystems are localised. Ministry commentary has flagged control over design, software and data systems as a key differentiator in final selection. Most of the ten bidders are Indian primes partnered with Elbit, IAI or General Atomics. The evaluation committee's job, and yours, is to find out who owns what, in substance.
 
-The annuity needs numbers, because it is where most of the long-run value sits, and the anchor transaction displays it in public. India's MQ-9B purchase came with a separate ₹4,350 crore performance-based logistics contract signed the same day, roughly 15 percent of the acquisition value, before a single aircraft has arrived. Across defense aerospace, sustainment, spares, training, software support and periodic upgrades run at roughly 8 to 12 percent of installed fleet value per year, and service lives in this class run 25 years. On the illustrative fleet in §7, fourteen aircraft at ₹180 crore, the annuity reaches ₹200 to 300 crore of recurring annual revenue by Year 10, before any mid-life upgrade program, and it compounds with every aircraft delivered. A pitch that leads with fourteen units sounds small. A pitch that leads with a 25-year mission-systems annuity per aircraft, secured by switching costs the customer cannot cheaply escape, is a business. The difference between the two pitches is which archetype is talking.
+The annuity needs numbers, because it is where most of the long-run value sits, and the anchor transaction displays it in public. India's MQ-9B purchase came with a separate ₹4,350 crore performance-based logistics contract signed the same day, roughly 15 percent of the acquisition value, before a single aircraft has arrived. Across defense aerospace, sustainment, spares, training, software support and periodic upgrades run at roughly 8 to 12 percent of installed fleet value per year, and service lives in this class run 25 years. On the illustrative fleet in §7, fourteen aircraft at ₹180 crore, the annuity reaches ₹200 to 300 crore of recurring annual revenue by Year 10, before any mid-life upgrade program, and it compounds with every aircraft delivered. Fourteen delivered aircraft can look small on a slide. Modelled as a 25-year mission-systems annuity per airframe, locked in by switching costs the customer cannot cheaply escape, the same fleet is a real business. Which pitch you hear depends on which archetype is talking.
 
 **What to verify:** IP ownership in substance, never in marketing language, across airframe, flight controls, mission computer and autonomy; the import share of the bill of materials, which measures both FX exposure and how much of the stack is rented, and which the tender's 60 percent indigenous-content mandate will test anyway; software headcount as a fraction of engineering, because a platform-owner in this class looks half like a software company on the org chart.
 
 ---
 
-## 7. The first decade: one internally consistent scenario
+## 7. Illustrative financial scenario
 
 Everything in this section is an illustration, never a forecast. Its purpose is to show the shape of a credible SCALE entrant's first decade so you can stress any real pitch against it. Three construction rules keep it honest, and the same rules make a useful audit of anyone else's model: no product revenue before the first delivery; every revenue figure derived from units times price rather than asserted; backlog derived from a stated order cadence rather than drawn as a curve.
 
@@ -177,15 +190,15 @@ A contingency of 25 to 30 percent on non-recurring engineering is the credible n
 
 ---
 
-## 8. Go-to-market and the queue
+## 8. Go-to-market
 
-The demonstrated route to venture-scale returns in this sector has one shape, and Turkey's Baykar walked every step of it in living memory. A domestic anchor order first: the TB2 into Turkish service in 2014. Then combat validation, in Syria, Libya, Nagorno-Karabakh and Ukraine. Then an export flywheel: by 2025 Baykar was posting USD 2.2 billion in annual exports, 88 percent of its USD 2.5 billion revenue, with TB2 contracts in 36 countries and the heavier Akıncı in 16 more, over 110 Akıncıs delivered and a 60-aircraft Saudi order anchoring the book, complete with a local production line. The company reports funding its entire development history from internal resources, with 83 percent of cumulative revenue earned abroad. The sequence matters more than the company. Domestic reference first, exports second. The domestic reference is what converts a brochure into a product that other governments will buy. The path exists at a scale venture capital cares about.
+The demonstrated route to venture-scale returns in this sector has one shape, and Turkey's Baykar walked every step of it in living memory. A domestic anchor order first: the TB2 into Turkish service in 2014. Then combat validation, in Syria, Libya, Nagorno-Karabakh and Ukraine. Then an export flywheel: by 2025 Baykar was posting USD 2.2 billion in annual exports, 88 percent of its USD 2.5 billion revenue, with TB2 contracts in 36 countries and the heavier Akıncı in 16 more, over 110 Akıncıs delivered and a 60-aircraft Saudi order anchoring the book, complete with a local production line. The company reports funding its entire development history from internal resources, with 83 percent of cumulative revenue earned abroad. The sequence matters more than the company. Domestic reference first, exports second. The domestic reference is what converts a brochure into a product that other governments will buy.
 
-Two implications follow for a SCALE entrant, and both cut.
+For a SCALE entrant that sequence has two sides.
 
-The favourable one: India's indigenisation regime has moved from policy to purchase order. The 87-aircraft tender is IDDM-category with a 60 percent indigenous-content mandate. The 2024 MQ-9B buy reads as a stopgap bridging the years until domestic capacity matures (its deliveries only begin in 2029). After the May 2025 conflict the services earmarked a further ₹30,000 crore of emergency procurement for drones, counter-drone systems, loitering munitions and electronic warfare. The window for a domestic entrant is open, funded and time-stamped.
+On the open side: India's indigenisation regime has moved from policy to purchase order. The 87-aircraft tender is IDDM-category with a 60 percent indigenous-content mandate. The 2024 MQ-9B buy reads as a stopgap bridging the years until domestic capacity matures (its deliveries only begin in 2029). After the May 2025 conflict the services earmarked a further ₹30,000 crore of emergency procurement for drones, counter-drone systems, loitering munitions and electronic warfare. The window for a domestic entrant is open, funded and time-stamped.
 
-The unfavourable one: the road is narrow and crowded, and the queue is no longer hypothetical. Ten firms bid by June 2026, most of them billion-dollar primes partnered with the very foreign OEMs the policy is meant to displace, and the award structure guarantees at most two winners for this tranche. The domestic reference is a winner-take-most tournament with a published bracket. That is why §5's qualification questions and §3's tender-position questions are the heart of the diligence, and why traction claims should be discounted to the level of documentary evidence behind them. An entrant outside the current tender needs a specific, named path: the Navy's parallel appetite (it moved on Drishti-10 outside the tender, under emergency powers), the follow-on tranches of the 97-to-350 requirement, or the export lane.
+On the closed side: the road is narrow and crowded, and the queue is no longer hypothetical. Ten firms bid by June 2026, most of them billion-dollar primes partnered with the very foreign OEMs the policy is meant to displace, and the award structure guarantees at most two winners for this tranche. The domestic reference is a winner-take-most tournament with a published bracket. That is why §5's qualification questions and §3's tender-position questions are the heart of the diligence, and why traction claims should be discounted to the level of documentary evidence behind them. An entrant outside the current tender needs a specific, named path: the Navy's parallel appetite (it moved on Drishti-10 outside the tender, under emergency powers), the follow-on tranches of the 97-to-350 requirement, or the export lane.
 
 For the SCALE class the export argument has one extra edge worth naming in an IC memo: navies are the natural first export customers. Maritime surveillance is the mission where the class is hardest to replace. Coastal states from the Gulf to Southeast Asia share India's ocean-awareness problem at smaller scale, and a naval-reference fleet travels well diplomatically, since a maritime patrol aircraft raises fewer end-use objections than an armed strike platform.
 
@@ -193,7 +206,7 @@ For the SCALE class the export argument has one extra edge worth naming in an IC
 
 ---
 
-## 9. Risks, and what would kill the thesis
+## 9. Risks and falsifiers
 
 | Risk | Weight | The mitigant to look for |
 | ---- | ------ | ------------------------ |
@@ -205,7 +218,7 @@ For the SCALE class the export argument has one extra edge worth naming in an IC
 | Autonomy scrutiny and export licensing | Medium | Human-on-the-loop doctrine documented early; a compliance function before the first export campaign, since C5ISR payloads carry their own licensing regimes |
 | Key people | Medium | Certification engineers and flight-test crews are the scarcest input after capital; check retention terms |
 
-Beyond the register, four falsifiers. A thesis without kill criteria is a hope. Watch these and act if one triggers:
+Beyond the register, four falsifiers. Watch these and act if one triggers:
 
 1. **An attritable endurance breakthrough.** A sub-USD-1M airframe demonstrating 20-plus hours, 200-plus kilograms of multi-sensor payload and satellite communications at production scale would breach the physical moat in §4. Nothing in production today comes close. Check annually against demonstrated systems, never against announcements.
 2. **Satellite substitution.** Proliferated low-orbit radar and RF constellations reaching sub-15-minute revisit with real-time tasking, at a cost per maintained track that closes the maritime gap, would erode the demand for airborne persistence. Track revisit rates and cost per track, and ignore the press releases.
@@ -214,7 +227,7 @@ Beyond the register, four falsifiers. A thesis without kill criteria is a hope. 
 
 ---
 
-## 10. The diligence scorecard
+## 10. Diligence checklist
 
 One page for the data room. The pattern across the ticks matters more than any single one.
 
@@ -251,7 +264,7 @@ One page for the data room. The pattern across the ticks matters more than any s
 
 ## Glossary
 
-- **SCALE UAS**: Specialised C5ISR Autonomous Long Endurance unmanned aircraft system; the class this document defines in §1.
+- **SCALE UAS**: Specialised C5ISR Autonomous Long Endurance unmanned aircraft system; the class this document defines in §2.
 - **C5ISR**: Command, Control, Computers, Communications, Cyber, Intelligence, Surveillance and Reconnaissance.
 - **MALE**: Medium-Altitude Long-Endurance; the legacy label for large drones of this weight class, which bundles the disrupted strike mission together with the durable C5ISR missions.
 - **ISR**: Intelligence, surveillance and reconnaissance.
